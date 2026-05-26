@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía de Procedimiento del Investigador</title>
+    <style>
+        :root { --primary: #0F3B82; --primary-light: #2A5BAA; --bg-body: #F4F7F6; --bg-card: #FFFFFF; --text-main: #333333; --text-muted: #666666; --border-color: #E2E8F0; --radius: 8px; --shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; background-color: var(--bg-body); color: var(--text-main); line-height: 1.6; padding: 40px 20px; display: flex; justify-content: center; }
+        .container { max-width: 800px; width: 100%; }
+        .card { background: var(--bg-card); border-radius: var(--radius); box-shadow: var(--shadow); padding: 40px; border: 1px solid var(--border-color); }
+        h1 { color: var(--primary); font-size: 1.8rem; margin-bottom: 8px; border-bottom: 2px solid var(--primary-light); padding-bottom: 10px; }
+        h2 { color: var(--primary-light); font-size: 1.3rem; margin-top: 30px; margin-bottom: 15px; }
+        h3 { color: var(--text-main); font-size: 1.1rem; margin-top: 20px; margin-bottom: 10px; }
+        p { margin-bottom: 15px; }
+        ul { margin-bottom: 15px; padding-left: 20px; }
+        li { margin-bottom: 8px; }
+        .metadata-box { background-color: #F8FAFC; border-left: 4px solid var(--primary); padding: 15px; margin-bottom: 30px; border-radius: 0 var(--radius) var(--radius) 0; }
+        .metadata-box p { margin-bottom: 5px; font-size: 0.95rem; }
+        .metadata-box strong { color: var(--primary); }
+        .quote { background-color: #F1F5F9; font-style: italic; padding: 15px; border-radius: var(--radius); margin: 15px 0; color: #475569; }
+        .checkbox-list { list-style: none; padding-left: 0; }
+        .checkbox-list li { display: flex; align-items: flex-start; margin-bottom: 10px; }
+        .checkbox-list li::before { content: '☐'; font-size: 1.2rem; margin-right: 10px; color: var(--primary-light); line-height: 1.2; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>Guía de Procedimiento del Investigador</h1>
+            <p style="font-size: 1.1rem; color: var(--text-muted); margin-bottom: 25px;">Estudio de Agentes Virtuales (Sesión Única)</p>
+
+            <div class="metadata-box">
+                <p><strong>Estudio:</strong> Evaluación de un agente virtual multimodal para la atención al cliente en la plataforma de Mediación Virtual</p>
+                <p><strong>Códigos de Proyecto: AVI-MV-001 </strong> </p>
+                <p><strong>Investigador Principal:</strong> Bach. Esteban Alonso León Rodríguez </p>
+                <p><strong>Unidad Ejecutora:</strong> PF-3311 - PPCI - UCR </p>
+            </div>
+
+            <h2>1. Resumen del Estudio y Preparación</h2>
+            <p>Esta guía detalla el protocolo para evaluar la interacción de los participantes con un agente virtual en una sesión única y controlada en laboratorio. El estudio compara dos variables (ej. Agente Tipo A vs. Agente Tipo B).</p>
+
+            <h3>1.1 Checklist de Materiales</h3>
+            <ul class="checkbox-list">
+                <li>Copias impresas del Formulario de Consentimiento Informado.</li>
+                <li>Computadora de laboratorio configurada y probada con la plataforma del agente.</li>
+                <li>Audífonos con micrófono funcional y desinfectados.</li>
+                <li>Tabla de asignación aleatoria (Grupo A / Grupo B).</li>
+                <li>Enlaces pre-cargados a los cuestionarios de evaluación.</li>
+                <li>Lista de participantes y registro de asistencia.</li>
+                <li>Traer el AMPO (o archivo físico) para guardar las hojas de consentimiento informado.</li>
+            </ul>
+
+            <h2>2. Inducción y Bienvenida</h2>
+
+            <h3>2.1 Consentimiento Informado</h3>
+            <div class="quote">
+                "Durante esta sesión se registrarán las interacciones conversacionales con el sistema, incluyendo mensajes de texto y/o voz, exclusivamente con fines académicos y de investigación. Todos los datos serán anonimizados utilizando identificadores numéricos y no se almacenará información personal identificable."
+            </div>
+            <p><strong>Pregunta de aceptación obligatoria:</strong></p>
+            <div class="quote">
+                “Después de leer y comprender el consentimiento informado, ¿desea participar voluntariamente en este estudio?”
+            </div>
+
+            <h3>2.2 Asignación al Grupo de Estudio</h3>
+            <p>De acuerdo con la tabla de asignación aleatoria, determine a qué grupo pertenece el participante y prepare silenciosamente la versión correspondiente del agente:</p>
+            <ul>
+                <li><strong>Grupo A:</strong> Agente virtual multimodal con voz y avatar interactivo.</li>
+                <li><strong>Grupo B:</strong> Chatbot tradicional basado únicamente en texto.</li>      
+            </ul>
+
+            <h3>2.3 Cuestionarios Iniciales</h3>
+            <p>Solicite al participante completar el cuestionario inicial de perfil demográfico y experiencias previas con tecnología en la computadora o tablet del laboratorio.</p>
+
+            <h2>3. Fase de Interacción en Laboratorio</h2>
+
+            <h3>3.1 Instrucciones y Prueba de Audio</h3>
+            <p><strong>Investigador:</strong></p>
+            <div class="quote">"A continuación, usted interactuará con un agente virtual durante aproximadamente 8 minutos. Por favor, colóquese los audífonos."</div>
+            <p>Realice una prueba rápida para asegurarse de que el micrófono capta la voz correctamente y que el volumen de los audífonos es adecuado.</p>
+            <p><strong>Explicación de la tarea:</strong></p>
+            <div class="quote">
+                "A continuación, deberá utilizar un sistema conversacional para resolver una situación de atención al cliente. El objetivo es completar la tarea indicada utilizando las herramientas disponibles en la interfaz. Por favor, interactúe con el sistema de la forma que considere más apropiada hasta finalizar la tarea."
+            </div>
+            <div class="highlight">
+            <strong>Escenario Experimental:</strong><br><br>
+
+            El participante deberá resolver un problema relacionado con una inscripción en un curso de la plataforma que previamente se matriculó en el sistema de matrícula.
+            </div>
+            <h3>3.2 Desarrollo de la Sesión</h3>
+            <p>El investigador se retira de la vista del participante para no sesgar la interacción. Se deja al participante conversar libremente con el agente virtual durante el tiempo estipulado.</p>
+
+            <h2>4. Cierre del Estudio y Recolección de Datos</h2>
+
+            <h3>4.1 Cuestionarios Post-Interacción</h3>
+            <p>
+            Una vez finalizada la interacción, el participante completará los siguientes instrumentos:
+            </p>
+            <ul>
+                <li>SUS (System Usability Scale)</li>
+                <li>NASA-TLX</li>
+                <li>Godspeed Questionnaire Series</li>
+                <li>Cuestionario breve de satisfacción (CSAT)</li>
+            </ul>
+            <h3>4.2 Entrevista Cualitativa Breve</h3>
+            <p>Para profundizar en la percepción del usuario, realice una entrevista estructurada breve. Solicite permiso para grabar el audio exclusivamente con fines de transcripción.</p>
+            
+            <div class="metadata-box">
+                <p><strong>Preguntas de apreciación cualitativa:</strong></p>
+                <ul>
+                    <li>"En términos generales, ¿cómo describiría su experiencia hablando con el agente virtual el día de hoy?"</li>
+                    <li>"¿Hubo algún momento o detalle que le gustara especialmente?"</li>
+                    <li>"¿Hubo algún aspecto del agente que le pareciera extraño, incómodo o frustrante?".</li>
+                    <li>"¿Notó alguna característica particular en la forma de hablar o actuar del agente?" <em>(Ideal para explorar las diferencias entre el Grupo A y B sin revelar el objetivo)</em>.</li>
+                    <li>"¿Qué le mejoraría a este sistema?"</li>
+                </ul>
+            </div>
+
+            <h3>4.3 Despedida</h3>
+            <p>Detenga la grabación. Agradezca profundamente su tiempo y participación en la investigación científica.</p>
+            <p><strong>Investigador:</strong></p>
+            <div class="quote">"Muchas gracias por ayudarnos a generar conocimiento en esta área. Su aporte ha sido sumamente valioso. ¡Que tenga un excelente día!".</div>
+
+            <h2>5. Gestión y Protección de Datos</h2>
+
+        <ul>
+            <li>
+                <strong>Anonimización:</strong> Todos los participantes serán identificados exclusivamente mediante un ID numérico aleatorio. Ningún dato personal identificable será almacenado junto con los resultados experimentales.
+            </li>
+            <li>
+                <strong>Resguardo de información:</strong> Los logs conversacionales, cuestionarios y registros experimentales serán almacenados en un entorno seguro con acceso restringido únicamente al equipo investigador.
+            </li>
+            <li>
+                <strong>Uso académico:</strong> Los datos recopilados serán utilizados exclusivamente con fines académicos y de investigación.
+            </li>
+            <li>
+                <strong>Limpieza del laboratorio:</strong> Al finalizar cada sesión, el investigador deberá desinfectar el equipo y preparar el entorno para el siguiente participante.
+            </li>
+        </ul>
+        </div>
+    </div>
+</body>
+</html>
