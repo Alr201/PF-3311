@@ -1,2 +1,4 @@
 tarea_4/.env
 __pycache__/
+src/.env
+src/__pycache__/
