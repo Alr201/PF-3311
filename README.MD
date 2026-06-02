@@ -121,7 +121,9 @@ python index_to_chroma.py --db ./chroma_db --stats
 
 ---
 
-## Uso diario
+## Uso diario y video demostrativo
+
+Enlace a video demostrativo: [https://youtu.be/UDzAVQJQBAM](https://youtu.be/UDzAVQJQBAM)
 
 Correr en este orden, cada uno en una terminal separada:
 
