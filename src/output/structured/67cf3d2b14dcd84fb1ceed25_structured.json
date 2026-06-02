@@ -1,0 +1,125 @@
+[
+  {
+    "slide_id": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+    "slide_name": "Portada",
+    "texts": [
+      "Banco de Preguntas en la nueva Mediación Virtual"
+    ],
+    "videos": [],
+    "title_candidate": "Portada"
+  },
+  {
+    "slide_id": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+    "slide_name": "Menú",
+    "texts": [
+      "Importar Banco de Preguntas",
+      "Añadir Pregunta",
+      "Menú",
+      "Exportar Banco de Preguntas",
+      "Añadir Categorías",
+      "Configuración Inicial"
+    ],
+    "videos": [],
+    "title_candidate": "Menú"
+  },
+  {
+    "slide_id": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+    "slide_name": "Configuración",
+    "texts": [
+      "¿Cómo comenzar a configurar nuestro Banco de Preguntas en la nueva Mediación Virtual?",
+      "El Banco de Preguntas es el módulo que permite hacer los ítemes que conforman la prueba en línea Esta configuración el menú superior, haciendo clic en Mas y luego en Banco de Preguntas."
+    ],
+    "videos": [],
+    "title_candidate": "Configuración"
+  },
+  {
+    "slide_id": "c9dc2fc9-5195-4df3-bcad-3959282a7a05",
+    "slide_name": "Menú de banco de preguntas",
+    "texts": [
+      "En esta versión, el sistema abrirá la ventana Banco de preguntas en la opción de Preguntas. El resto de configuraciones las encontrará en el primer menú de esta sección: Preguntas, Exportar, Importar y Categorías."
+    ],
+    "videos": [],
+    "title_candidate": "Menú de banco de preguntas"
+  },
+  {
+    "slide_id": "3c79e2cb-1c79-47c3-88ae-30f6b1637a8d",
+    "slide_name": "Añadir Categorías",
+    "texts": [
+      "¿Dónde añado las categorías?",
+      "La categorías sirven para clasificar las preguntas según el tipo, uso, tema, o cualquier otra forma de clasificación que necesite el docente. Para agregar estas categorías, se ingresa al Banco de Preguntas, luego se selecciona en el menú Categorías y se selecciona Añadir Categoría"
+    ],
+    "videos": [],
+    "title_candidate": "Añadir Categorías"
+  },
+  {
+    "slide_id": "1569955a-4b81-40ad-a238-ed52b3057ffd",
+    "slide_name": "Configuración de categorías",
+    "texts": [
+      "¿Cómo completo la configuración de las categorías?",
+      "Coloquemos el cursor sobre cada área para conocer el contenido esperado"
+    ],
+    "videos": [],
+    "title_candidate": "Configuración de categorías"
+  },
+  {
+    "slide_id": "d213b0ea-e03b-47b1-b4cd-94fd360cba8b",
+    "slide_name": "Ejemplo Configuración de categorías",
+    "texts": [
+      "Ejemplo de configuración",
+      "Vista dentro del Banco de preguntas"
+    ],
+    "videos": [],
+    "title_candidate": "Ejemplo Configuración de categorías"
+  },
+  {
+    "slide_id": "020c79e2-9e0d-4cff-98dd-4a411616fce7",
+    "slide_name": "Añadir Preguntas",
+    "texts": [
+      "¿Cómo añado las preguntas?",
+      "Al agregar las preguntas en el Banco de Preguntas, usted tendrá distintas opciones al crear su Examen"
+    ],
+    "videos": [],
+    "title_candidate": "Añadir Preguntas"
+  },
+  {
+    "slide_id": "5f759a57-6fbb-42e1-855a-49aeb731a3b8",
+    "slide_name": "",
+    "texts": [
+      "¿Cómo añado las preguntas?",
+      "Al agregar las preguntas en el Banco de Preguntas, usted tendrá distintas opciones al crear su Examen"
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo añado las preguntas?"
+  },
+  {
+    "slide_id": "af874aa4-7e83-40c7-a43d-229cd9a0d5e8",
+    "slide_name": "Exportación",
+    "texts": [
+      "¿Cómo exporto el Banco de preguntas en la nueva Mediación Virtual?",
+      "Permite exportar la categoría completa del banco de preguntas. Ingresemos al Banco de preguntas y en el menú seleccionemos la opción Exportar. Formato del archivo: Seleccionemos el formato deseado. Recomendamos Moodle XML. General: seleccionemos la categoria deseada, ya sea la categoría del curso completa o alguna en específica."
+    ],
+    "videos": [],
+    "title_candidate": "Exportación"
+  },
+  {
+    "slide_id": "a7342e5d-d6f2-4630-ad88-a22530e25947",
+    "slide_name": "Importación",
+    "texts": [
+      "¿Cómo importo el Banco de preguntas en la nueva Mediación Virtual?",
+      "Esta opción permite importar ítems de evaluación desde distintos formatos. Esto facilita el traslado de exámenes desde otras plataformas o subir preguntas desde archivos de texto. Para realizar la importación sigamos estos pasos: Ingresemos al Banco de preguntas y en el menú seleccionemos la opción Importar. Formato de archivo: Seleccionemos el formato según la plataforma de origen. General: seleccionemos la categoria deseada, ya sea la categoría del curso completa o alguna en específica. Importar preguntas de un archivo: subamos el archivo descargado de la plataforma anterior."
+    ],
+    "videos": [],
+    "title_candidate": "Importación"
+  },
+  {
+    "slide_id": "cd004288-3c4f-44b1-8400-9de05c585d97",
+    "slide_name": "Importante",
+    "texts": [
+      "Importante",
+      "Cuando usted crea las preguntas le aparecen distintas opciones a elegir; sin embargo tenga en cuenta las siguientes consideraciones:",
+      "Las preguntas de arrastrar y soltar respetan el orden predefinido en las respuestas; por tanto, no se recomiendan para preguntas donde el estudiante puede variar el orden de las respuestas (aunque éstas estén correctas). Las preguntas calculadas son para preguntas donde el docente predefine fórmulas o variables para que las respuestas sean valoradas como correctas. En la pregunta numérica, podemos configurar resultados numéricos específicos para que se identifique el que es correcto. Para identificación de conceptos pueden utilizarse las preguntas de Opción Múltiple, Falso y Verdadero, de Relacionar y Seleccionar Palabras Faltantes. Para preguntas con texto, se pueden utilizar las de Respuesta Corta o Ensayo. Cabe destacar que este tipo de preguntas ameritan una revisión posterior por parte del docente para validar o asignar la calificación final."
+    ],
+    "videos": [],
+    "title_candidate": "Importante"
+  }
+]

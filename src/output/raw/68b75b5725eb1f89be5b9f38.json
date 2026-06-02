@@ -1,0 +1,6742 @@
+{
+  "Slides": [
+    {
+      "Name": "Portada",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "6787f1701e177088c871b858",
+      "BackgroundColor": "transparent",
+      "Background": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/e03a30db-d285-4600-8b20-006cab44bf12.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 1,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "1"
+    },
+    {
+      "Name": "Definición",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "BackgroundColor": "rgba(255, 255, 255, 1)",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 2,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "2.3125"
+    },
+    {
+      "Name": "Paso 1 y 2",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "BackgroundColor": "rgba(255, 255, 255, 1)",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 3,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "3.25"
+    },
+    {
+      "Name": "Paso 3",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "BackgroundColor": "rgba(255, 255, 255, 1)",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 4,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "3.5625"
+    },
+    {
+      "Name": "Paso 4 y 5",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "BackgroundColor": "rgba(255, 255, 255, 1)",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 5,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "3.875"
+    },
+    {
+      "Name": "Paso 6",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "BackgroundColor": "rgba(255, 255, 255, 1)",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 6,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "3.9140625"
+    },
+    {
+      "Name": "Paso 6, 7 y 8",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "BackgroundColor": "rgba(255, 255, 255, 1)",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 7,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "3.953125"
+    },
+    {
+      "Name": "Importante Copia",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "8622513e-9252-479f-9605-8c9535f183ef",
+      "BackgroundColor": "rgba(255, 255, 255, 1)",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 8,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "4.6484375"
+    },
+    {
+      "Name": "Paso 6",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "BackgroundColor": "rgba(255, 255, 255, 1)",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 9,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "5.34375"
+    },
+    {
+      "Name": "2 Copia",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Id": "35dbd3d3-1ce5-4e78-86f1-aa6b405f34e5",
+      "BackgroundColor": "#FFFFFF",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 10,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "BigOrder": "6.5"
+    }
+  ],
+  "Activities": [],
+  "Areas": [],
+  "Arrows": [],
+  "BaseWidgets": [],
+  "ContainerBoxes": [],
+  "Charts": [],
+  "Groups": [
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "8c3f373e-2ca8-409d-b2b5-2caf08703fd9",
+      "IdSlide": "6787f1701e177088c871b858",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "65.05996284568619px",
+        "PositionTop": "480.39569155560747px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "IoIQEKi97wttuHGpvlKF8"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 5
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "f04e5686-59a5-40d2-bb69-4255a87249c2",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "967.4982909567553px",
+        "PositionTop": "588.4172389788367px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "QakUnghGKQ_8G-MFS1AJy"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 3
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "947f746c-ba02-4211-bef5-c200b865565e",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "80.06713527751909px",
+        "PositionTop": "588.5166512858599px"
+      },
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "hvr-float",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "-eMfq8bpWI50tu0vI29O6"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 6
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "7bafab6e-c13c-497c-8c27-4d24643c2fd8",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "967.4982909567553px",
+        "PositionTop": "588.4172389788367px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "TsROUFWWUfkQQRd_dMuHj"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 4
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "f1b00a28-fea6-4030-9bb1-e624205e35a6",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "80.06713527751909px",
+        "PositionTop": "588.5166512858599px"
+      },
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "hvr-float",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "lATInqrE8Zf3eXZ9gUL1Z"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 6
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "554dec57-3686-4425-a190-2ac962086fc6",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 11,
+      "Position": {
+        "PositionLeft": "534.0791366906476px",
+        "PositionTop": "182.45852326277262px"
+      },
+      "Size": {
+        "Width": "510.3423370681038px",
+        "Height": "211.25364211571946px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {},
+      "BigZIndex": 11
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "a65aadcc-bbb3-45f5-8e1d-5f4e63a3db50",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "967.4982909567553px",
+        "PositionTop": "588.4172389788367px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "oXLwVjW-wA_WLBWROG7e1"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 4
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "48911a05-3bee-40c1-ab8e-6e5ebd6061bd",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "80.06713527751909px",
+        "PositionTop": "588.5166512858599px"
+      },
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "hvr-float",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "UeOzVH4ejTqTyFVawRvBp"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 5
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "7df8a976-fde3-497f-a3b8-112f5966cd3d",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "967.4982909567553px",
+        "PositionTop": "588.4172389788367px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "C8uz8ZMWEZWDaoHn0vqAy"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 3
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "466084f1-bd23-4bf3-9806-b4ff1f3ccf71",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "80.06713527751909px",
+        "PositionTop": "588.5166512858599px"
+      },
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "hvr-float",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "n3PyXvvTtZp_cA5G2THV2"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 4
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "a76c5e12-c6c2-4231-8b33-114ba902f0a5",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "967.4982909567553px",
+        "PositionTop": "588.4172389788367px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "NjWGMJNT_fqHYmkkYBLqu"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 4
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "fe5567bc-3a09-4d7a-95d2-c479d6d2bec3",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "80.06713527751909px",
+        "PositionTop": "588.5166512858599px"
+      },
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "hvr-float",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "a2RjWC_8RP7q55MBrtdwI"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 6
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "3fe600db-018f-45d3-8b9f-1ed7fe4ebe66",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "967.4982909567553px",
+        "PositionTop": "588.4172389788367px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "L-VoVfiB6oSBOPoaBXYkd"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 4
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "329936db-0f2d-4714-a701-cbf9c7ecd187",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "80.06713527751909px",
+        "PositionTop": "588.5166512858599px"
+      },
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "hvr-float",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "ifb8Lx9AoKMmKeOLksjq3"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 5
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "e7d518fe-7a62-45e1-afe1-22d9c02262fa",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "967.4982909567553px",
+        "PositionTop": "588.4172389788367px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "UNpoIWYonRQe7njvnwvgI"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 3
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "dd286ebf-e239-42fd-a45a-157b19bc9b30",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "80.06713527751909px",
+        "PositionTop": "588.5166512858599px"
+      },
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "hvr-float",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "lkR_ptIrWC71b4MZ0_fh_"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 7
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "bd23eb62-41a0-4eb4-aad9-d2dd1d5e809c",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "967.4982909567553px",
+        "PositionTop": "588.4172389788367px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "vqe-x23h-XxFmsEZ9jsQF"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 4
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "6c306b62-bb6d-4208-9ea3-0b76aacbf066",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "80.06713527751909px",
+        "PositionTop": "588.5166512858599px"
+      },
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "hvr-float",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "NdN-8Ocfa8IvvFMyEn3nU"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 6
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "436d8174-d3d4-4894-9576-9f4531ac8004",
+      "IdSlide": "35dbd3d3-1ce5-4e78-86f1-aa6b405f34e5",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "-10.353436785983263px",
+        "PositionTop": "-5.33746855628408px"
+      },
+      "Size": {
+        "Width": "1210.3534592893477px",
+        "Height": "685.2421850370101px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {},
+      "BigZIndex": 1
+    },
+    {
+      "Name": "Group",
+      "Opacity": "1",
+      "Id": "79bd1b26-5cb8-4519-8671-68905087ffe1",
+      "IdSlide": "35dbd3d3-1ce5-4e78-86f1-aa6b405f34e5",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "472.5725227136451px",
+        "PositionTop": "268.37945986267937px"
+      },
+      "Size": {
+        "Width": "244.50154029009113px",
+        "Height": "60.54323854802257px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "hvr-float",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "LAiLA_NXjQyv2agLdYYpI"
+      },
+      "Category": "buttons_with_text",
+      "BigZIndex": 2
+    }
+  ],
+  "Images": [
+    {
+      "Id": "accbcd08-0e00-4df3-845b-127e99bf0bfd",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "2.8587466206336067px",
+        "PositionTop": "1.8865601206121339px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1197.1413565419411px",
+        "Height": "673.1134398793879px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1e82701f-17fa-44da-8220-2d9597104855.png",
+      "Offset": {
+        "top": 0,
+        "left": 0.041368648581119945,
+        "bottom": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 1
+    },
+    {
+      "Id": "91b9eb48-bc3d-4df1-a325-3ae3d675ded1",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "2.8587466206336067px",
+        "PositionTop": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1197.1413565419411px",
+        "Height": "673.1134398793879px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1e82701f-17fa-44da-8220-2d9597104855.png",
+      "Offset": {
+        "top": 0,
+        "left": 0.041368648581119945,
+        "bottom": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 1
+    },
+    {
+      "Id": "e1be3f34-0855-4b73-bfde-8f5811e5419b",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "495.5536341548402px",
+        "PositionTop": "415.55204844262875px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "379.5739876835273px",
+        "Height": "141.20431954341163px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/83e8da32-6328-4cc8-ad52-5e8e75340724.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 2
+    },
+    {
+      "Id": "34461f77-95a3-4851-8386-1bc31e490e22",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 10,
+      "Position": {
+        "PositionLeft": "435.88007884098477px",
+        "PositionTop": "470.11974382731745px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "74.33434661891505px",
+        "Height": "50.1755734488892px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/20b8ed38-06f7-4fed-a22b-32444a939d24.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 10
+    },
+    {
+      "Id": "e8b5b8a7-eb4b-4128-89b6-c4654463df6b",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "554dec57-3686-4425-a190-2ac962086fc6",
+      "ZIndex": 16,
+      "Position": {
+        "PositionLeft": "4.194244604316509px",
+        "PositionTop": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "495.87991379908516px",
+        "Height": "207.0493357354819px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/de95d7f1-84e2-4d2e-847b-8683857227cb.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 16
+    },
+    {
+      "Id": "40a21cdf-51ee-48c9-8f6f-6eda577c7c1b",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "2.8587466206336067px",
+        "PositionTop": "2.8865601206121307px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1197.1413565419411px",
+        "Height": "673.1134398793879px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1e82701f-17fa-44da-8220-2d9597104855.png",
+      "Offset": {
+        "top": 0,
+        "left": 0.041368648581119945,
+        "bottom": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 1
+    },
+    {
+      "Id": "30f19739-1260-411f-8c3e-192772742e72",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "59.78497505436383px",
+        "PositionTop": "175.54629660740687px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "293.1766905684847px",
+        "Height": "356.92898951899923px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/55043b4c-4372-4947-82be-045ac36bdec2.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 6
+    },
+    {
+      "Id": "206c0ac6-788e-44d6-9f77-dea2c7a048c7",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "835.013330531633px",
+        "PositionTop": "180.68586782853393px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "304.56947521249316px",
+        "Height": "362.28331695901693px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/580e5eeb-30a8-4d3c-b946-9ac4610fc4a1.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "bottom": 0,
+        "right": -37.94718413186684
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 7
+    },
+    {
+      "Id": "ba81c16c-2b08-4b99-bf3a-44af0ea3453e",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 10,
+      "Position": {
+        "PositionLeft": "400.6228311370612px",
+        "PositionTop": "180.68586782853393px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "388.0708844884674px",
+        "Height": "346.649847076745px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/6930c494-eecf-4ed3-8254-8e84d95a0764.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 10
+    },
+    {
+      "Id": "7bf9112f-21c8-4487-9e1c-6d245f0ad5b1",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 14,
+      "Position": {
+        "PositionLeft": "381.884892086331px",
+        "PositionTop": "541.2077658673843px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "425.54676258992805px",
+        "Height": "56px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/84ccd594-96e0-40e0-8de8-27a50b105a1a.png",
+      "Offset": {
+        "top": 0,
+        "left": -4.336359486737333,
+        "bottom": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 14
+    },
+    {
+      "Id": "1cafe23f-1d6e-48d9-a90f-ca04c1fcfb65",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "2.8587466206336067px",
+        "PositionTop": "2.8865601206121307px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1197.1413565419411px",
+        "Height": "673.1134398793879px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1e82701f-17fa-44da-8220-2d9597104855.png",
+      "Offset": {
+        "top": 0,
+        "left": 0.041368648581119945,
+        "bottom": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 1
+    },
+    {
+      "Id": "9dd37bcd-6595-466b-9a18-d652f914b6ef",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 11,
+      "Position": {
+        "PositionLeft": "413.45606529880115px",
+        "PositionTop": "192.1500324242745px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "259.5493257631415px",
+        "Height": "145.3499675757255px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/83e8da32-6328-4cc8-ad52-5e8e75340724.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "bottom": 0,
+        "right": -50.537082305190935
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 11
+    },
+    {
+      "Id": "20146f9d-d576-4f84-86dd-845e91c359c2",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 12,
+      "Position": {
+        "PositionLeft": "355.21998414494806px",
+        "PositionTop": "264.82501621213726px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "74.33434661891505px",
+        "Height": "50.1755734488892px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/20b8ed38-06f7-4fed-a22b-32444a939d24.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 12
+    },
+    {
+      "Id": "ec2f9ee5-1ac2-4d40-b0d9-60ba0a2c5859",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 13,
+      "Position": {
+        "PositionLeft": "270.69473263580625px",
+        "PositionTop": "378.8698180532057px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "600px",
+        "Height": "206.50554137366456px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/d9e90d5c-04db-41b1-a8e7-76d153dcadda.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "bottom": -10.062309563236695,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 13
+    },
+    {
+      "Id": "a09c37fd-9029-49f7-aeda-5d167292ce31",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 15,
+      "Position": {
+        "PositionLeft": "678.808673112148px",
+        "PositionTop": "520.0132670165286px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(-90deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "74.33434661891505px",
+        "Height": "50.1755734488892px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/20b8ed38-06f7-4fed-a22b-32444a939d24.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 15
+    },
+    {
+      "Id": "038114df-2eda-48d2-8d6f-5757ce71caef",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "2.8587466206336067px",
+        "PositionTop": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1197.1413565419411px",
+        "Height": "673.1134398793879px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1e82701f-17fa-44da-8220-2d9597104855.png",
+      "Offset": {
+        "top": 0,
+        "left": 0.041368648581119945,
+        "bottom": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 1
+    },
+    {
+      "Id": "ec2d4225-f037-4b91-beeb-4bd51b0fc112",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "2.8587466206336067px",
+        "PositionTop": "2.8865601206121307px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1197.1413565419411px",
+        "Height": "673.1134398793879px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1e82701f-17fa-44da-8220-2d9597104855.png",
+      "Offset": {
+        "top": 0,
+        "left": 0.041368648581119945,
+        "bottom": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 1
+    },
+    {
+      "Id": "fb9355ee-7d10-4ee7-b356-2e8b9122d46c",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 11,
+      "Position": {
+        "PositionLeft": "94.83276825673863px",
+        "PositionTop": "237.94264170290987px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "425.613307499998px",
+        "Height": "146.48584413520507px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/d9e90d5c-04db-41b1-a8e7-76d153dcadda.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "bottom": -10.062309563236695,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 11
+    },
+    {
+      "Id": "febd1dbb-39b7-4734-bfef-b200b7caeeeb",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 13,
+      "Position": {
+        "PositionLeft": "42.103289714525765px",
+        "PositionTop": "354.2801577622387px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "52.729478542212874px",
+        "Height": "35.592319618818024px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/20b8ed38-06f7-4fed-a22b-32444a939d24.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 13
+    },
+    {
+      "Id": "2232d020-6ea0-4ba8-91f5-cecbb8379581",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 14,
+      "Position": {
+        "PositionLeft": "780.6488503573293px",
+        "PositionTop": "246.91655301819213px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "238.66570946796185px",
+        "Height": "178.26288531958616px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/94dcc946-060e-47b2-9355-ce6b5ecb0b26.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "bottom": -80.08946108816035,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 14
+    },
+    {
+      "Id": "2e500d9e-0ded-41a8-bcb4-56d73eefa114",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 15,
+      "Position": {
+        "PositionLeft": "905.7561868590436px",
+        "PositionTop": "286.69328568693413px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "74.33434661891505px",
+        "Height": "50.1755734488892px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/20b8ed38-06f7-4fed-a22b-32444a939d24.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 15
+    },
+    {
+      "Id": "35a72a3e-6035-40c3-b54d-139dc04af57a",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 16,
+      "Position": {
+        "PositionLeft": "385.91271779585014px",
+        "PositionTop": "480.2498858302575px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "387.529728510564px",
+        "Height": "106.61703057108818px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/01e57ebc-557d-4533-903e-03721a4df457.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 16
+    },
+    {
+      "Id": "9c3938a6-723c-4337-951c-4f72ba4cd7cf",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 18,
+      "Position": {
+        "PositionLeft": "410.824933679747px",
+        "PositionTop": "558.3235744447201px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "62.725175856627075px",
+        "Height": "42.33940044463687px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/20b8ed38-06f7-4fed-a22b-32444a939d24.png",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 18
+    },
+    {
+      "Id": "a8ac9d42-555c-4d69-994f-f60aa9b769f2",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "2.8587466206336067px",
+        "PositionTop": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1197.1413565419411px",
+        "Height": "673.1134398793879px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1e82701f-17fa-44da-8220-2d9597104855.png",
+      "Offset": {
+        "top": 0,
+        "left": 0.041368648581119945,
+        "bottom": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 1
+    },
+    {
+      "Id": "589af7e7-23fb-4dbc-9261-6a235494b623",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "2.8587466206336067px",
+        "PositionTop": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1197.1413565419411px",
+        "Height": "673.1134398793879px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1e82701f-17fa-44da-8220-2d9597104855.png",
+      "Offset": {
+        "top": 0,
+        "left": 0.041368648581119945,
+        "bottom": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 1
+    },
+    {
+      "Id": "82bc88b3-f212-423f-b036-5f76aec978e2",
+      "IdSlide": "35dbd3d3-1ce5-4e78-86f1-aa6b405f34e5",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "436d8174-d3d4-4894-9576-9f4531ac8004",
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "2.4945949443529116px",
+        "PositionTop": "120.83041462118209px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1207.8588688854038px",
+        "Height": "256.0321847303681px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/905e1af0-2c27-4f4b-a447-7bd9e8c1b9ad.png",
+      "Offset": {
+        "top": 1.125643252672794,
+        "left": 0.07979205630142197,
+        "right": -0.07979205630143,
+        "bottom": -171.3007012101551
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 5
+    },
+    {
+      "Id": "729bffb8-218b-4168-a1cf-f886f5efafc3",
+      "IdSlide": "35dbd3d3-1ce5-4e78-86f1-aa6b405f34e5",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "436d8174-d3d4-4894-9576-9f4531ac8004",
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "346.2678200797687px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1210.3534592893477px",
+        "Height": "338.9743649572415px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/905e1af0-2c27-4f4b-a447-7bd9e8c1b9ad.png",
+      "Offset": {
+        "top": -106.1780561317621,
+        "left": 0.16059052361368714,
+        "right": -0.1605905236136952,
+        "bottom": 0.6981636855306278
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 7
+    },
+    {
+      "Id": "8f2e4f02-baee-41a0-a5e7-7508e2ddace2",
+      "IdSlide": "35dbd3d3-1ce5-4e78-86f1-aa6b405f34e5",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "436d8174-d3d4-4894-9576-9f4531ac8004",
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "1.1355843889334665px",
+        "PositionTop": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Image",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Frame": "none",
+      "Size": {
+        "Width": "1208.7446773747638px",
+        "Height": "136.35784098682078px"
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/905e1af0-2c27-4f4b-a447-7bd9e8c1b9ad.png",
+      "Offset": {
+        "top": -166.19064908516927,
+        "left": 0.2413889909259523,
+        "right": -0.24138899092595228,
+        "bottom": -243.93648921514114
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 8
+    }
+  ],
+  "Pins": [],
+  "RichContents": [],
+  "Svgs": [
+    {
+      "Id": "8337fd7a-4eef-4d23-8d66-9bf4576954b2",
+      "IdSlide": "6787f1701e177088c871b858",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "8c3f373e-2ca8-409d-b2b5-2caf08703fd9",
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 164, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 1
+    },
+    {
+      "Id": "0a78f79e-960d-4957-bd42-e15cfc7d3ac1",
+      "IdSlide": "6787f1701e177088c871b858",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "NEXT",
+      "IdGroup": "8c3f373e-2ca8-409d-b2b5-2caf08703fd9",
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "32.6530827668174px",
+        "PositionTop": "15.9943394735111px"
+      },
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "NEXT",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "a0793619-505e-478f-9cb8-452378749db7",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "947f746c-ba02-4211-bef5-c200b865565e",
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 4
+    },
+    {
+      "Id": "9e05347c-e26e-40ac-92a0-bb82c053d9f4",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "BACK",
+      "IdGroup": "947f746c-ba02-4211-bef5-c200b865565e",
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "46.69114995090247px",
+        "PositionTop": "15.962933394700087px"
+      },
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "BACK",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "c77cdae8-59a1-4aa6-a99e-248f012352f8",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 9,
+      "Position": {
+        "PositionLeft": "60.33040341547809px",
+        "PositionTop": "353.5681282255382px"
+      },
+      "Size": {
+        "Width": "113.06343313140086px",
+        "Height": "101.42224347706494px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;3VDr4e2/7XRFCsiUBnr+Lt9nDTLWwUTtNxxlisMwS68=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(237, 109, 32, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfcfdff06eb20b02e1505",
+      "BigZIndex": 9
+    },
+    {
+      "Id": "c1da4fb6-20ac-4f2f-90f4-0f3bef0be995",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "f04e5686-59a5-40d2-bb69-4255a87249c2",
+      "ZIndex": 11,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 11
+    },
+    {
+      "Id": "dd8e287e-0840-4417-b8a5-bb09f2c0d688",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "NEXT",
+      "IdGroup": "f04e5686-59a5-40d2-bb69-4255a87249c2",
+      "ZIndex": 13,
+      "Position": {
+        "PositionLeft": "32.6530827668174px",
+        "PositionTop": "15.9943394735111px"
+      },
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "NEXT",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 13
+    },
+    {
+      "Id": "ce470993-64e2-4f76-8848-422f5d8a5c55",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "f1b00a28-fea6-4030-9bb1-e624205e35a6",
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 5
+    },
+    {
+      "Id": "76331134-c2a9-453a-ac45-000094a039e5",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "BACK",
+      "IdGroup": "f1b00a28-fea6-4030-9bb1-e624205e35a6",
+      "ZIndex": 12,
+      "Position": {
+        "PositionLeft": "46.69114995090247px",
+        "PositionTop": "15.962933394700087px"
+      },
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "BACK",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 12
+    },
+    {
+      "Id": "0e0a5c5f-5985-4421-84ac-21161687720d",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "7bafab6e-c13c-497c-8c27-4d24643c2fd8",
+      "ZIndex": 13,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 13
+    },
+    {
+      "Id": "8fe1a067-bee5-4554-89e5-7ebb9cf6cd6f",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "NEXT",
+      "IdGroup": "7bafab6e-c13c-497c-8c27-4d24643c2fd8",
+      "ZIndex": 15,
+      "Position": {
+        "PositionLeft": "32.6530827668174px",
+        "PositionTop": "15.9943394735111px"
+      },
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "NEXT",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 15
+    },
+    {
+      "Id": "b006858c-92fe-442e-a288-280f093f83e9",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "554dec57-3686-4425-a190-2ac962086fc6",
+      "ZIndex": 17,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "103.5246678677409px"
+      },
+      "Size": {
+        "Width": "295.15010363636054px",
+        "Height": "107.72897424797854px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;8nLNGzWaPxfjfA07BSyfv/M9P8GQLxIkHBiR+RS3T7Y=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 17
+    },
+    {
+      "Id": "7841a5b7-14c6-4c66-8776-6f7b0f681503",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "554dec57-3686-4425-a190-2ac962086fc6",
+      "ZIndex": 18,
+      "Position": {
+        "PositionLeft": "424.4400959625989px",
+        "PositionTop": "90.5246678677409px"
+      },
+      "Size": {
+        "Width": "85.9022411055048px",
+        "Height": "107.72897424797854px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;8nLNGzWaPxfjfA07BSyfv/M9P8GQLxIkHBiR+RS3T7Y=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 18
+    },
+    {
+      "Id": "f781fdb3-5809-4cea-b661-bfc605e6ac75",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "48911a05-3bee-40c1-ab8e-6e5ebd6061bd",
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "b51646f1-88cb-4306-b85c-f5ddba318b11",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "BACK",
+      "IdGroup": "48911a05-3bee-40c1-ab8e-6e5ebd6061bd",
+      "ZIndex": 9,
+      "Position": {
+        "PositionLeft": "46.69114995090247px",
+        "PositionTop": "15.962933394700087px"
+      },
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "BACK",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 9
+    },
+    {
+      "Id": "b23228a3-f551-4c9f-bf9e-8ac5ef8a1c99",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "a65aadcc-bbb3-45f5-8e1d-5f4e63a3db50",
+      "ZIndex": 11,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 11
+    },
+    {
+      "Id": "f18e5a9e-97dc-48ea-add6-8a2ca5312d19",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "NEXT",
+      "IdGroup": "a65aadcc-bbb3-45f5-8e1d-5f4e63a3db50",
+      "ZIndex": 13,
+      "Position": {
+        "PositionLeft": "32.6530827668174px",
+        "PositionTop": "15.9943394735111px"
+      },
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "NEXT",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 13
+    },
+    {
+      "Id": "34d2f43b-9232-441d-b5d7-718c191617fd",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "466084f1-bd23-4bf3-9806-b4ff1f3ccf71",
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 2
+    },
+    {
+      "Id": "5b59367c-b993-4905-a961-c79bb031d836",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "BACK",
+      "IdGroup": "466084f1-bd23-4bf3-9806-b4ff1f3ccf71",
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "46.69114995090247px",
+        "PositionTop": "15.962933394700087px"
+      },
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "BACK",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 6
+    },
+    {
+      "Id": "caa1b0cc-50b0-46e3-a272-bd743f809325",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "7df8a976-fde3-497f-a3b8-112f5966cd3d",
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 7
+    },
+    {
+      "Id": "07ba51aa-137f-4520-8a4d-7c048905b4a1",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "NEXT",
+      "IdGroup": "7df8a976-fde3-497f-a3b8-112f5966cd3d",
+      "ZIndex": 10,
+      "Position": {
+        "PositionLeft": "32.6530827668174px",
+        "PositionTop": "15.9943394735111px"
+      },
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "NEXT",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 10
+    },
+    {
+      "Id": "201d938b-7080-4be9-88a7-8b9d24ef1534",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "fe5567bc-3a09-4d7a-95d2-c479d6d2bec3",
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "5eb74963-b493-4ca4-80c2-021e05468fbe",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "BACK",
+      "IdGroup": "fe5567bc-3a09-4d7a-95d2-c479d6d2bec3",
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "46.69114995090247px",
+        "PositionTop": "15.962933394700087px"
+      },
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "BACK",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 7
+    },
+    {
+      "Id": "fd9fc757-9931-4652-bf02-0f4895a5fde0",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "283.82207311922843px",
+        "PositionTop": "327.06277514392684px"
+      },
+      "Size": {
+        "Width": "107.35296975706495px",
+        "Height": "85px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;Cfd/SgWVZYGVJ9f94WmYvzeJDD1UisvmQEwgR4ZlFl0=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(237, 109, 32, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfcfdff06eb20b02e1505",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "5693ba5d-7130-4193-93ca-259c07925139",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "a76c5e12-c6c2-4231-8b33-114ba902f0a5",
+      "ZIndex": 9,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 9
+    },
+    {
+      "Id": "e15e37c9-7fe0-422a-bb03-a3ff4bd4cfc7",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "NEXT",
+      "IdGroup": "a76c5e12-c6c2-4231-8b33-114ba902f0a5",
+      "ZIndex": 12,
+      "Position": {
+        "PositionLeft": "32.6530827668174px",
+        "PositionTop": "15.9943394735111px"
+      },
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "NEXT",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 12
+    },
+    {
+      "Id": "9710d7d2-a718-4a91-8875-868c2600e2a5",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "329936db-0f2d-4714-a701-cbf9c7ecd187",
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "6e83cefc-73ad-478e-8237-450e540bfa50",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "BACK",
+      "IdGroup": "329936db-0f2d-4714-a701-cbf9c7ecd187",
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "46.69114995090247px",
+        "PositionTop": "15.962933394700087px"
+      },
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "BACK",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 7
+    },
+    {
+      "Id": "eb21e03c-82ed-4ea7-9581-17e925b1363a",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "3fe600db-018f-45d3-8b9f-1ed7fe4ebe66",
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "c64108e7-fb5e-4c9c-9b48-7256ff3ff40e",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "NEXT",
+      "IdGroup": "3fe600db-018f-45d3-8b9f-1ed7fe4ebe66",
+      "ZIndex": 10,
+      "Position": {
+        "PositionLeft": "32.6530827668174px",
+        "PositionTop": "15.9943394735111px"
+      },
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "NEXT",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 10
+    },
+    {
+      "Id": "ef2a2d8a-ab1d-4b60-b162-6da2746b6350",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "dd286ebf-e239-42fd-a45a-157b19bc9b30",
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 4
+    },
+    {
+      "Id": "6243079e-e51e-4980-8dce-7e4c4920c077",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "BACK",
+      "IdGroup": "dd286ebf-e239-42fd-a45a-157b19bc9b30",
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "46.69114995090247px",
+        "PositionTop": "15.962933394700087px"
+      },
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "BACK",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 6
+    },
+    {
+      "Id": "3eaf7bcf-488e-4330-8435-db5757ca777d",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "e7d518fe-7a62-45e1-afe1-22d9c02262fa",
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "7896328c-a73b-4ae5-bdd4-0c50479eab47",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "NEXT",
+      "IdGroup": "e7d518fe-7a62-45e1-afe1-22d9c02262fa",
+      "ZIndex": 10,
+      "Position": {
+        "PositionLeft": "32.6530827668174px",
+        "PositionTop": "15.9943394735111px"
+      },
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "NEXT",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 10
+    },
+    {
+      "Id": "2801a817-e0ff-4cf0-b742-5c15eadfe3b9",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 12,
+      "Position": {
+        "PositionLeft": "56.810406299847216px",
+        "PositionTop": "145.90759644766243px"
+      },
+      "Size": {
+        "Width": "192.89018978690208px",
+        "Height": "173.0299111841772px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;3VDr4e2/7XRFCsiUBnr+Lt9nDTLWwUTtNxxlisMwS68=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(237, 109, 32, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfcfdff06eb20b02e1505",
+      "BigZIndex": 12
+    },
+    {
+      "Id": "06523b53-7835-44d9-ae72-b0eccfb98afe",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "6c306b62-bb6d-4208-9ea3-0b76aacbf066",
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "77cc6ff8-0cf1-445d-9506-a72654134a3a",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "BACK",
+      "IdGroup": "6c306b62-bb6d-4208-9ea3-0b76aacbf066",
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "46.69114995090247px",
+        "PositionTop": "15.962933394700087px"
+      },
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "BACK",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "d61f8ab6-485b-4bd6-b5c3-77a4d6863d52",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "bd23eb62-41a0-4eb4-aad9-d2dd1d5e809c",
+      "ZIndex": 9,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 9
+    },
+    {
+      "Id": "e2bad455-864a-49ad-b688-5ff039a02364",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "NEXT",
+      "IdGroup": "bd23eb62-41a0-4eb4-aad9-d2dd1d5e809c",
+      "ZIndex": 11,
+      "Position": {
+        "PositionLeft": "32.6530827668174px",
+        "PositionTop": "15.9943394735111px"
+      },
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "NEXT",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 11
+    },
+    {
+      "Id": "3a7f9c91-2815-429c-a0ac-ac055b56e4e5",
+      "IdSlide": "35dbd3d3-1ce5-4e78-86f1-aa6b405f34e5",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "79bd1b26-5cb8-4519-8671-68905087ffe1",
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "Size": {
+        "Width": "244.50154029009113px",
+        "Height": "60.54323854802257px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(238, 113, 45, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "4d56f33a-8eee-472a-bc4b-9fa262db37a3",
+      "IdSlide": "35dbd3d3-1ce5-4e78-86f1-aa6b405f34e5",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "BACK",
+      "IdGroup": "79bd1b26-5cb8-4519-8671-68905087ffe1",
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "39.17529686343615px",
+        "PositionTop": "12.127676639269746px"
+      },
+      "Size": {
+        "Width": "37.82663768920732px",
+        "Height": "31.121796624534863px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "BACK",
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "SourceSvg": "svg/SourceSvg;T4K52Tb7WIEB1mqdhqMiMW/30cWFzQMzGIw4k13NnSY=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "56fbfcfdff06eb20b02e1505",
+      "BigZIndex": 6
+    }
+  ],
+  "Texts": [
+    {
+      "Id": "3b6a3863-7a0a-425c-af77-f9dddbb8bea0",
+      "IdSlide": "6787f1701e177088c871b858",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "WATCH",
+      "IdGroup": "8c3f373e-2ca8-409d-b2b5-2caf08703fd9",
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "63.00212588025153px",
+        "PositionTop": "9.834826193103671px"
+      },
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "WATCH",
+      "TextMessage": "<font color=\"#ffffff\">Empezar</font>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2727px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "BigZIndex": 2
+    },
+    {
+      "Id": "ad120b91-877a-42bc-b628-ff42ce51bf4b",
+      "IdSlide": "6787f1701e177088c871b858",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "57.76666378374128px",
+        "PositionTop": "192.13821599550525px"
+      },
+      "Size": {
+        "Width": "516.0599894966834px",
+        "Height": "126.5px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Copia de...",
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);   \">Copia de seguridad en Mediación Virtual</div>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "55px",
+      "FontFamily": "Roboto",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "title_1",
+      "BigZIndex": 4
+    },
+    {
+      "Id": "dd305810-ac6d-46bf-aa39-69e7237af641",
+      "IdSlide": "6787f1701e177088c871b858",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "57.76666378374125px",
+        "PositionTop": "375.7058835792412px"
+      },
+      "Size": {
+        "Width": "384.7829264541755px",
+        "Height": "69px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Hagamos ...",
+      "BrandStyle": "content",
+      "TextMessage": "<div style=\"font-weight: normal; color: rgb(0, 0, 0);   \">Hagamos clic en el botón \"Empezar\" para navegar a través del recurso y sus contenidos.</div>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Inter",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 6
+    },
+    {
+      "Id": "514afeac-8349-4c07-8882-a2005635189c",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "192.4166320635788px",
+        "PositionTop": "262.85420671601px"
+      },
+      "Size": {
+        "Width": "806.2172915649804px",
+        "Height": "61.59px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Es el pr...",
+      "BrandStyle": "content",
+      "TextMessage": "Es el proceso que permite&nbsp;<span style=\"\">guardar un respaldo de la estructura, las actividades y recursos que tenemos en nuestro entorno virtual.</span>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "22px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.4",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 2
+    },
+    {
+      "Id": "8f9e023c-51f7-4788-8470-25a63b4d3f2a",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "947f746c-ba02-4211-bef5-c200b865565e",
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "76.93760488619239px",
+        "PositionTop": "9.815172095682973px"
+      },
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Anterior",
+      "TextMessage": "<font color=\"#ffffff\">Anterior</font>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2287px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "BigZIndex": 5
+    },
+    {
+      "Id": "8fbb9f22-18cc-40a9-adfb-845b235b2d11",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "60.33040341547809px",
+        "PositionTop": "148.64658081672948px"
+      },
+      "Size": {
+        "Width": "520.5519602348629px",
+        "Height": "82.78px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "¿Qué es ...",
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);   \">¿Qué es la copia de seguridad de un entorno virtual?</div>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "36px",
+      "FontFamily": "Roboto",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "title_1",
+      "BigZIndex": 7
+    },
+    {
+      "Id": "a7c1e75c-6c93-496f-8a30-d982d1db45df",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 10,
+      "Position": {
+        "PositionLeft": "194.44899553333082px",
+        "PositionTop": "345.87126435255993px"
+      },
+      "Size": {
+        "Width": "842.8019391370266px",
+        "Height": "151.78px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Recomend...",
+      "BrandStyle": "content",
+      "TextMessage": "<span style=\"font-weight: bold; color: rgb(237, 109, 32);\">Recomendación</span><div><br><div>Antes de comenzar, le recomendamos que realice una carpeta en su computadora o dispositivo, con el nombre del curso, el ciclo en que se ejecuta y el año (por ejemplo \"QUIMICA GENERAL I S 2025\", allí podremos guardar la copia de seguridad.</div><div><br></div></div>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "22px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 10
+    },
+    {
+      "Id": "8241c6bd-1f4e-4c91-8e13-a817435aba3b",
+      "IdSlide": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "WATCH",
+      "IdGroup": "f04e5686-59a5-40d2-bb69-4255a87249c2",
+      "ZIndex": 12,
+      "Position": {
+        "PositionLeft": "63.00212588025153px",
+        "PositionTop": "9.834826193103671px"
+      },
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "WATCH",
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2727px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "BigZIndex": 12
+    },
+    {
+      "Id": "626eaba1-c537-4a6d-9aa9-8b611a1834db",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "58.977915952694644px",
+        "PositionTop": "193.1419765001827px"
+      },
+      "Size": {
+        "Width": "434.54608285390196px",
+        "Height": "69px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "1. Dentr...",
+      "BrandStyle": "content",
+      "TextMessage": "1. Dentro del entorno virtual, en el Menú Superior, ingresemos a la opción&nbsp;<span style=\"font-weight: bold;\">Más</span>. Allí seleccionamos <span style=\"font-weight: bold;\">Reutilización de curso</span>.",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "6f2d881d-2339-457d-8e18-4873160b9901",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "58.977915952694616px",
+        "PositionTop": "128.89837937788053px"
+      },
+      "Size": {
+        "Width": "698.2843678034326px",
+        "Height": "41.39px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "¿Cómo se...",
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);   \">¿Cómo se realiza la Copia de seguridad?</div>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "36px",
+      "FontFamily": "Roboto",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "title_1",
+      "BigZIndex": 7
+    },
+    {
+      "Id": "f5960c05-2859-4735-bdd9-aaa3473c5583",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "f1b00a28-fea6-4030-9bb1-e624205e35a6",
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "76.93760488619239px",
+        "PositionTop": "9.815172095682973px"
+      },
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Anterior",
+      "TextMessage": "<font color=\"#ffffff\">Anterior</font>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2287px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "bd8047c9-2a34-4298-a343-50fb288210c7",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 9,
+      "Position": {
+        "PositionLeft": "58.977915952694644px",
+        "PositionTop": "415.5520484426287px"
+      },
+      "Size": {
+        "Width": "319.9379133902044px",
+        "Height": "46px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "2. Se mo...",
+      "BrandStyle": "content",
+      "TextMessage": "2. Se mostrarán cuatro opciones, escojamos <span style=\"font-weight: bold;\">Copia de Seguridad</span>.",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 9
+    },
+    {
+      "Id": "bcefcd82-5f2c-4fe8-a5c0-67a001df4061",
+      "IdSlide": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "WATCH",
+      "IdGroup": "7bafab6e-c13c-497c-8c27-4d24643c2fd8",
+      "ZIndex": 14,
+      "Position": {
+        "PositionLeft": "63.00212588025153px",
+        "PositionTop": "9.834826193103671px"
+      },
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "WATCH",
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2727px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "BigZIndex": 14
+    },
+    {
+      "Id": "06b635ae-0895-434e-ac02-7623c41f206b",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "59.784975054363784px",
+        "PositionTop": "120.73190455773666px"
+      },
+      "Size": {
+        "Width": "981.1265228843844px",
+        "Height": "46px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "3. Reali...",
+      "BrandStyle": "content",
+      "TextMessage": "3. Realicemos la copia de seguridad, marcando las casilla de lo qué deseamos respaldar y luego hacemos clic en <span style=\"font-weight: 700;\">Ejecutar Copia de Seguridad.</span>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 2
+    },
+    {
+      "Id": "511c3a71-f3ef-4bf1-bd74-b350039cf288",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "48911a05-3bee-40c1-ab8e-6e5ebd6061bd",
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "76.93760488619239px",
+        "PositionTop": "9.815172095682973px"
+      },
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Anterior",
+      "TextMessage": "<font color=\"#ffffff\">Anterior</font>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2287px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "2a4d0126-5c1b-4cb1-9249-c00234969df8",
+      "IdSlide": "13db9e4e-69d2-44f5-afec-a087ef585a89",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "WATCH",
+      "IdGroup": "a65aadcc-bbb3-45f5-8e1d-5f4e63a3db50",
+      "ZIndex": 12,
+      "Position": {
+        "PositionLeft": "63.00212588025153px",
+        "PositionTop": "9.834826193103671px"
+      },
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "WATCH",
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2727px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "BigZIndex": 12
+    },
+    {
+      "Id": "67a864b5-04bf-4b46-b542-1ccb2a0d8a76",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "466084f1-bd23-4bf3-9806-b4ff1f3ccf71",
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "76.93760488619239px",
+        "PositionTop": "9.815172095682973px"
+      },
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Anterior",
+      "TextMessage": "<font color=\"#ffffff\">Anterior</font>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2287px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "BigZIndex": 5
+    },
+    {
+      "Id": "efb894a7-4747-4bbb-a94c-ab44722f493d",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "61.92911239177008px",
+        "PositionTop": "138.9877541627206px"
+      },
+      "Size": {
+        "Width": "1080.4300498912726px",
+        "Height": "46px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "4. Volva...",
+      "BrandStyle": "content",
+      "TextMessage": "4. Volvamos nuevamente en el Menú Superior y hagamos clic en&nbsp;<span style=\"font-weight: bold;\">Más</span>, <span style=\"font-weight: bold;\">Reutilización de curso</span>, pero esta vez elijamos la opción&nbsp;<span style=\"font-weight: bold;\">Restaurar</span>.&nbsp;",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "0c22d73c-7762-4db8-971f-48114dec82ca",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "WATCH",
+      "IdGroup": "7df8a976-fde3-497f-a3b8-112f5966cd3d",
+      "ZIndex": 9,
+      "Position": {
+        "PositionLeft": "63.00212588025153px",
+        "PositionTop": "9.834826193103671px"
+      },
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "WATCH",
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2727px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "BigZIndex": 9
+    },
+    {
+      "Id": "f83752d7-1634-4176-965c-b0fad1c80590",
+      "IdSlide": "c735d277-348e-4c48-847c-b4332b9f43ee",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 14,
+      "Position": {
+        "PositionLeft": "47.1077152713895px",
+        "PositionTop": "350.6942446043165px"
+      },
+      "Size": {
+        "Width": "1080.4300498912726px",
+        "Height": "23px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "5. Busca...",
+      "BrandStyle": "content",
+      "TextMessage": "5. Buscamos el apartado Zona de copia de seguridad privada de usuario y hagamos clic en <span style=\"font-weight: bold;\">Descargar.</span>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 14
+    },
+    {
+      "Id": "905cc237-d1b8-4cfd-bc49-3b775b352751",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "61.21439994596781px",
+        "PositionTop": "125.46130032378294px"
+      },
+      "Size": {
+        "Width": "1080.4300498912726px",
+        "Height": "391px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "6. Desca...",
+      "BrandStyle": "content",
+      "TextMessage": "6. Descarguemos la copia de seguridad a nuestra computadora, tableta, disco externo. Este archivo tiene formato <span style=\"font-style: italic;\">.mbz</span>, es decir, que solo puede ser leído en una plataforma Moodle, por lo tanto, usted no podrá abrir en su computadora este respaldo.&nbsp;<div>Por ello le recomendamos:<div><span style=\"\"><br></span></div><div><ul><li style=\"color: rgb(0, 0, 0);\"><span style=\"\">Dejar el nombre igual a&nbsp;</span><span style=\"\">como lo genera la plataforma.</span></li><li style=\"color: rgb(0, 0, 0);\">Guardar la copia en la carpeta que le recomendamos al inicio de esta guía.</li></ul><br><br><br><br><br><br><br><ul><li style=\"color: rgb(0, 0, 0);\"><span style=\"\">Descargar al final del ciclo las lecturas, las presentaciones y otros recursos en la carpeta.</span></li><li style=\"color: rgb(0, 0, 0);\"><span style=\"\">Decargar las entregas que realizaron sus estudiantes, en caso de apelaciones posteriores.</span></li><li style=\"color: rgb(0, 0, 0);\"><span style=\"\">Descargar al final del ciclo el libro de calificaciones en formato .xlsx</span></li></ul></div></div>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 2
+    },
+    {
+      "Id": "0c699163-72ef-4dad-b345-85e2bc8a61f1",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "fe5567bc-3a09-4d7a-95d2-c479d6d2bec3",
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "76.93760488619239px",
+        "PositionTop": "9.815172095682973px"
+      },
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Anterior",
+      "TextMessage": "<font color=\"#ffffff\">Anterior</font>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2287px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "BigZIndex": 5
+    },
+    {
+      "Id": "d66e4e41-e57b-42fa-af9e-9a9c71711392",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 10,
+      "Position": {
+        "PositionLeft": "415.0367766639797px",
+        "PositionTop": "348.86777514392685px"
+      },
+      "Size": {
+        "Width": "504px",
+        "Height": "41.39px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "NOMBREDE...",
+      "BrandStyle": "subtitle",
+      "TextMessage": "<div style=\"font-weight: normal; color: rgb(0, 0, 0);   \">NOMBREDECURSO I S 2025</div>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "36px",
+      "FontFamily": "Inter",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "subtitle",
+      "BigZIndex": 10
+    },
+    {
+      "Id": "088aa0f0-7a4a-4b38-b75e-d1470eed75d4",
+      "IdSlide": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "WATCH",
+      "IdGroup": "a76c5e12-c6c2-4231-8b33-114ba902f0a5",
+      "ZIndex": 11,
+      "Position": {
+        "PositionLeft": "63.00212588025153px",
+        "PositionTop": "9.834826193103671px"
+      },
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "WATCH",
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2727px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "BigZIndex": 11
+    },
+    {
+      "Id": "aaa7d307-3d88-46fe-b87c-97fe35b3e059",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "68.4680289856322px",
+        "PositionTop": "191.94264170290987px"
+      },
+      "Size": {
+        "Width": "438.436494436052px",
+        "Height": "46px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "A. Ingre...",
+      "BrandStyle": "content",
+      "TextMessage": "A. Ingresemos a Restaurar y habamos clic en <span style=\"font-weight: bold;\">Gestionar copias de seguridad privadas</span>.",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 2
+    },
+    {
+      "Id": "d593ee1f-de8d-4bf5-8198-cbe00c1abe07",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "329936db-0f2d-4714-a701-cbf9c7ecd187",
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "76.93760488619239px",
+        "PositionTop": "9.815172095682973px"
+      },
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Anterior",
+      "TextMessage": "<font color=\"#ffffff\">Anterior</font>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2287px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "BigZIndex": 6
+    },
+    {
+      "Id": "2a5837b7-d0a6-4e07-9771-d744b13bb1d9",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "WATCH",
+      "IdGroup": "3fe600db-018f-45d3-8b9f-1ed7fe4ebe66",
+      "ZIndex": 9,
+      "Position": {
+        "PositionLeft": "63.00212588025153px",
+        "PositionTop": "9.834826193103671px"
+      },
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "WATCH",
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2727px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "BigZIndex": 9
+    },
+    {
+      "Id": "0dee39a1-925a-4218-9e5d-3b48fc01db19",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 12,
+      "Position": {
+        "PositionLeft": "712.3332943188373px",
+        "PositionTop": "191.94264170290987px"
+      },
+      "Size": {
+        "Width": "377.2392413056536px",
+        "Height": "46px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "B. Selec...",
+      "BrandStyle": "content",
+      "TextMessage": "B. Seleccionemos la copia de seguridas y hacemos clic en <span style=\"font-weight: bold;\">Borrar.</span>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 12
+    },
+    {
+      "Id": "9dd76c82-2209-4ec8-9bc8-9e77174e1df7",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 17,
+      "Position": {
+        "PositionLeft": "390.0867532445355px",
+        "PositionTop": "454.3181708273801px"
+      },
+      "Size": {
+        "Width": "379.1816576131935px",
+        "Height": "23px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "C. Hagam...",
+      "BrandStyle": "content",
+      "TextMessage": "C. Hagamos clic en <span style=\"font-weight: bold;\">Guardar cambios</span>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-center"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 17
+    },
+    {
+      "Id": "16f3bab2-19bc-4977-a9ff-4f9827a8a1a0",
+      "IdSlide": "9e9d8e54-af4c-49b4-baca-8ac23443beb7",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 19,
+      "Position": {
+        "PositionLeft": "66.52558294246671px",
+        "PositionTop": "121.00019565974436px"
+      },
+      "Size": {
+        "Width": "1039.691162850456px",
+        "Height": "46px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Borremos...",
+      "BrandStyle": "content",
+      "TextMessage": "<span style=\"font-weight: bold;\">Borremos la copia de seguridad de Mediación Virtual</span>. Esta acción contribuirá a que la plataforma no se sature y funcione de la mejor forma para toda la comunidad universitaria.",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 19
+    },
+    {
+      "Id": "09b03615-8ce4-466a-8ed8-778e0a27d3e8",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "273.99946816367947px",
+        "PositionTop": "205.57347133673215px"
+      },
+      "Size": {
+        "Width": "818.5180631647687px",
+        "Height": "188.08px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "A la hor...",
+      "BrandStyle": "content",
+      "TextMessage": "<ul><li style=\"color: rgb(0, 0, 0);\">A la hora de descargar el respaldo de un entorno virtual a&nbsp;<span style=\"\">una computadora, consideremos el tipo de conexión a&nbsp;</span><span style=\"\">Internet que tenemos. Si el entorno cuenta con muchos&nbsp;</span><span style=\"\">contenidos (documentos, presentaciones, vídeos, etc.),&nbsp;</span><span style=\"\">requerirá más tiempo de descarga</span><span style=\"\">.</span></li><li style=\"color: rgb(0, 0, 0);\">METICS no guarda copias de seguridad de ningún&nbsp;<span style=\"\">entorno virtual, por lo que es responsabilidad de cada&nbsp;</span><span style=\"\">docente, guardar en medios externos a su entorno virtual&nbsp;</span><span style=\"\">las copias de respaldo.</span></li></ul>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "22px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 2
+    },
+    {
+      "Id": "11aae4c4-512f-4f25-9857-86aceab8ab21",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "dd286ebf-e239-42fd-a45a-157b19bc9b30",
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "76.93760488619239px",
+        "PositionTop": "9.815172095682973px"
+      },
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Anterior",
+      "TextMessage": "<font color=\"#ffffff\">Anterior</font>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2287px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "BigZIndex": 5
+    },
+    {
+      "Id": "a5671064-b7a6-4e87-987e-17f9c7e6b796",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "WATCH",
+      "IdGroup": "e7d518fe-7a62-45e1-afe1-22d9c02262fa",
+      "ZIndex": 9,
+      "Position": {
+        "PositionLeft": "63.00212588025153px",
+        "PositionTop": "9.834826193103671px"
+      },
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "WATCH",
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2727px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "BigZIndex": 9
+    },
+    {
+      "Id": "74964a8f-d23b-41e8-b6f6-a7c48cd109cf",
+      "IdSlide": "8622513e-9252-479f-9605-8c9535f183ef",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 11,
+      "Position": {
+        "PositionLeft": "294.3951516169169px",
+        "PositionTop": "138.16223673543223px"
+      },
+      "Size": {
+        "Width": "543.8495646831113px",
+        "Height": "41.39px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Recomend...",
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);   \">Recomendaciones</div>",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "36px",
+      "FontFamily": "Roboto",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "title_1",
+      "BigZIndex": 11
+    },
+    {
+      "Id": "da3e1e86-d0a5-49d8-aaad-13074be7f269",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "59.784975054363784px",
+        "PositionTop": "120.73190455773666px"
+      },
+      "Size": {
+        "Width": "1080.4300498912726px",
+        "Height": "23px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Repasemo...",
+      "BrandStyle": "content",
+      "TextMessage": "Repasemos el paso a paso con el siguiente vídeo.",
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Roboto",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "DisplayHtmlAs": "content",
+      "BigZIndex": 2
+    },
+    {
+      "Id": "fe6bdbe4-2d61-4d7e-abe9-924011cf57d1",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "6c306b62-bb6d-4208-9ea3-0b76aacbf066",
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "76.93760488619239px",
+        "PositionTop": "9.815172095682973px"
+      },
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Anterior",
+      "TextMessage": "<font color=\"#ffffff\">Anterior</font>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2287px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "BigZIndex": 5
+    },
+    {
+      "Id": "f4f0dbee-4c8e-4886-9b79-16f33a1f02ca",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": "WATCH",
+      "IdGroup": "bd23eb62-41a0-4eb4-aad9-d2dd1d5e809c",
+      "ZIndex": 10,
+      "Position": {
+        "PositionLeft": "63.00212588025153px",
+        "PositionTop": "9.834826193103671px"
+      },
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "WATCH",
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "20.2727px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "BigZIndex": 10
+    },
+    {
+      "Id": "fd913ea8-8c0c-4087-8fcc-17921aa5b8b4",
+      "IdSlide": "35dbd3d3-1ce5-4e78-86f1-aa6b405f34e5",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": "79bd1b26-5cb8-4519-8671-68905087ffe1",
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "95.80465868438571px",
+        "PositionTop": "12.993328021135188px"
+      },
+      "Size": {
+        "Width": "126.19351141391336px",
+        "Height": "35.61px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Inicio",
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Inicio</span>",
+      "Color": "rgb(116,116,116)",
+      "FontSize": "26.7787px",
+      "FontFamily": "Schibsted Grotesk",
+      "Classes": [
+        "text-align-left"
+      ],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.33",
+      "LetterSpacing": "0.58214",
+      "InterParagraph": "small",
+      "BigZIndex": 4
+    }
+  ],
+  "Audios": [],
+  "Videos": [
+    {
+      "Id": "720c136e-8a92-4540-951d-62957dfb8474",
+      "IdSlide": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "264.7638266642993px",
+        "PositionTop": "167.16187050359713px"
+      },
+      "Size": {
+        "Width": "628.1055955976166px",
+        "Height": "371.838512593789px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "Name": "Video",
+      "Source": "https://youtu.be/Bgp2-QYVmRE",
+      "AutoPlay": false,
+      "DisplayPlayer": true,
+      "InitialTime": 0,
+      "Loop": false,
+      "Mute": false,
+      "Thumbnail": "https://img.youtube.com/vi/Bgp2-QYVmRE/maxresdefault.jpg",
+      "UploadedFrom": "url",
+      "BigZIndex": 7
+    }
+  ],
+  "Scripts": [],
+  "DocumentConfig": {
+    "colors": {
+      "Primary": null,
+      "Secondary": null,
+      "Tertiary": null
+    }
+  },
+  "interactivityActions": {
+    "IoIQEKi97wttuHGpvlKF8": {
+      "refId": "lSwr6qyIbjLRgyBAzRy3v",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "TsROUFWWUfkQQRd_dMuHj": {
+      "refId": "XyFv11qVd_HIypQjX_9-6",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "lATInqrE8Zf3eXZ9gUL1Z": {
+      "refId": "ah3hdAEyo-o4nfQ1wqKwn",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "C8uz8ZMWEZWDaoHn0vqAy": {
+      "refId": "yX0MgVhYXNW1cPyIz0twA",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "n3PyXvvTtZp_cA5G2THV2": {
+      "refId": "dQMEwyv1K0gD0J-e4sUue",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "NjWGMJNT_fqHYmkkYBLqu": {
+      "refId": "0mSGt1FBCuV-yEnw1t9UQ",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "a2RjWC_8RP7q55MBrtdwI": {
+      "refId": "CsvLN2AJv3BFm-mGfShlL",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "vqe-x23h-XxFmsEZ9jsQF": {
+      "refId": "4IHgaink52ZoVliN3D2Pa",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "NdN-8Ocfa8IvvFMyEn3nU": {
+      "refId": "bP2plAtD4XlG2WZKGI3ID",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "QakUnghGKQ_8G-MFS1AJy": {
+      "refId": "-5epwonXY6cN3uP5X-POt",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "-eMfq8bpWI50tu0vI29O6": {
+      "refId": "biz3MROVWiY2EVodZ-xH9",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "UNpoIWYonRQe7njvnwvgI": {
+      "refId": "m6IWq0y24O5XJ6T-aMbn3",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "lkR_ptIrWC71b4MZ0_fh_": {
+      "refId": "LfPO4AfttC80p3pQnZI5V",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "L-VoVfiB6oSBOPoaBXYkd": {
+      "refId": "aXwjJhiqRzjCZ2CRw4jZQ",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "ifb8Lx9AoKMmKeOLksjq3": {
+      "refId": "dRXcAIaa1tebQFzFS_NS1",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "oXLwVjW-wA_WLBWROG7e1": {
+      "refId": "OZSG594UitnaSF1PaqQZR",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "UeOzVH4ejTqTyFVawRvBp": {
+      "refId": "2jvh8wo9Wx1Zdb2YQ0Ec-",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "LAiLA_NXjQyv2agLdYYpI": {
+      "refId": "r51ovL53Ka7x65MQwn9oB",
+      "type": "goToSlide",
+      "target": {
+        "smartLink": "firstPage"
+      }
+    }
+  },
+  "version": 24,
+  "fixes": [
+    "ORPHAN_ITEMS",
+    "CLEAN_HTML_INTERACTIVITIES",
+    "AUDIOS_BASE64_23_11_22",
+    "BACKGROUND_AUDIOS_25_01_2023",
+    "THUMBNAILS_OF_WIDGET_VIDEO",
+    "LAYER_TITLE_NAME",
+    "URLS_OF_WIDGET_VIDEO"
+  ],
+  "config": {
+    "grid": {
+      "column": {
+        "count": 3,
+        "gap": 40
+      },
+      "row": {
+        "count": 1,
+        "gap": 40
+      },
+      "color": "#30DFE6",
+      "margin": {
+        "top": 60,
+        "bottom": 60,
+        "left": 60,
+        "right": 60
+      },
+      "isEdited": false
+    },
+    "guidesColor": "#6c29ff"
+  },
+  "svgRefs": {
+    "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=": "<div class=\"button-shape-group-container\">\n  <div class=\"button-shape-right-div\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 115.19 230\" preserveAspectRatio=\"xMinYMid meet\" height=\"100%\" class=\"button-shape-right\">\n      <path d=\"M115,230A115,115,0,0,1,115,0Z\" class=\"color1\" style=\"fill:#696B74\"/>\n    </svg>\n  </div> \n  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 115.19 230\" preserveAspectRatio=\"none\" width=\"100%\">\n    <rect width=\"173.42\" height=\"230.01\" class=\"color1\" style=\"fill:#696B74\"/>\n  </svg>\n  <div class=\"button-shape-left-div\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 115.19 230\" preserveAspectRatio=\"xMaxYMid meet\" height=\"100%\" class=\"button-shape-left\">\n      <path d=\"M.19,0a115,115,0,0,1,115,115A115,115,0,0,1,.19,230Z\" class=\"color1\" style=\"fill:#696B74\"/>\n    </svg>\n  </div>\n</div>\n\n<style>\n.button-shape-group-container {\n  display:flex;                                      \n  width:100%;\n  height:inherit;\n}\n\n.button-shape-right-div {\n  height:100%;\n}\n\n.button-shape-right {\n  transform:translateX(2px);\n}\n\n.button-shape-left-div {\n  height:100%;\n}\n\n.button-shape-left {\n  transform:translateX(-2px);\n}\n</style>",
+    "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 182\">\n  <g class=\"color1\" style=\"fill:#232323\">\n  <path d=\"m254.58,88.77c-.1-.47-.26-.9-.41-1.35-.07-.21-.11-.42-.2-.62-.2-.48-.47-.93-.73-1.37-.08-.14-.15-.31-.24-.44-.39-.58-.83-1.12-1.32-1.6L171.8,3.48c-4.13-4.13-10.83-4.13-14.96,0s-4.13,10.83,0,14.96l61.84,61.84H11.5c-5.84,0-10.58,4.74-10.58,10.58s4.74,10.58,10.58,10.58h207.19l-61.84,61.84c-4.13,4.13-4.13,10.83,0,14.96,2.07,2.07,4.77,3.1,7.48,3.1s5.41-1.03,7.48-3.1l79.89-79.89c.49-.49.94-1.03,1.32-1.6.1-.14.15-.3.24-.44.27-.44.53-.89.73-1.37.08-.2.12-.42.2-.62.15-.44.32-.88.41-1.35.14-.69.21-1.39.21-2.09s-.07-1.41-.21-2.09Z\"/>\n  </g>\n</svg>",
+    "svg/SourceSvg;3VDr4e2/7XRFCsiUBnr+Lt9nDTLWwUTtNxxlisMwS68=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 43.24 38.77\">\n  <g class=\"color1\" style=\"fill:#232323\">\n<path d=\"M42.56,31.27,25.95,2.5a5,5,0,0,0-8.66,0L.68,31.27A5,5,0,0,0,5,38.77H38.23a5,5,0,0,0,4.33-7.5Zm-4.33,5.5H5a3,3,0,0,1-2.6-4.5L19,3.5a3,3,0,0,1,5.2,0L40.83,32.27A3,3,0,0,1,38.23,36.77Z\"/>\n<path d=\"M21.62,24a3,3,0,0,0,3-3V13a3,3,0,1,0-6,0v8A3,3,0,0,0,21.62,24Zm-1-11a1,1,0,1,1,2,0v8a1,1,0,0,1-2,0Z\"/>\n<path d=\"M21.62,25.64a3.25,3.25,0,1,0,3.25,3.25A3.25,3.25,0,0,0,21.62,25.64Zm0,4.5a1.25,1.25,0,1,1,1.25-1.25A1.25,1.25,0,0,1,21.62,30.14Z\"/>\n</g>\n</svg>",
+    "svg/SourceSvg;8nLNGzWaPxfjfA07BSyfv/M9P8GQLxIkHBiR+RS3T7Y=": "<svg xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" width=\"100%\" height=\"100%\" xml:space=\"preserve\" preserveAspectRatio=\"none\" overflow=\"hidden\"><rect  class=\"color1\" style=\"fill:#696B74;\" width=\"100%\" height=\"100%\"></rect></svg>",
+    "svg/SourceSvg;Cfd/SgWVZYGVJ9f94WmYvzeJDD1UisvmQEwgR4ZlFl0=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 41.31 32.7\">\n<path d=\"M38.31,3.48H18l-1.69-2A4.29,4.29,0,0,0,13,0H4.3A4.3,4.3,0,0,0,0,4.3V28.4a4.3,4.3,0,0,0,4.3,4.3H37a4.3,4.3,0,0,0,4.3-4.3V6.48A3,3,0,0,0,38.31,3.48Zm0,2a1,1,0,0,1,1,1V7.72H21.62L19.7,5.48Zm1,22.92A2.3,2.3,0,0,1,37,30.7H4.3A2.3,2.3,0,0,1,2,28.4V4.3A2.3,2.3,0,0,1,4.3,2H13a2.3,2.3,0,0,1,1.75.8l5.61,6.56a1,1,0,0,0,.76.35H39.31Z\" class=\"color1\" style=\"fill:#232323\"/>\n</svg>",
+    "svg/SourceSvg;T4K52Tb7WIEB1mqdhqMiMW/30cWFzQMzGIw4k13NnSY=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 45.7 37.6\">\n  <g class=\"color1\" style=\"fill:#232323\">\n<path d=\"M45.22,13.43l-1.56-1V2a1,1,0,0,0-1-1H36.52a1,1,0,0,0-1,1V7.53L23.37.14,23.23.08a1,1,0,0,0-.76,0l-.14.06L.48,13.43a1,1,0,0,0,1,1.71L2,14.82V36.6a1,1,0,0,0,1,1H42.66a1,1,0,0,0,1-1V14.82l.52.32a1,1,0,1,0,1-1.71ZM37.52,3h4.13v8.31L37.52,8.75ZM19.71,35.6V26.52a.32.32,0,0,1,.32-.32h5.63a.32.32,0,0,1,.32.32V35.6Zm8.28,0V26.52a2.33,2.33,0,0,0-2.32-2.32H20a2.33,2.33,0,0,0-2.32,2.32V35.6H4V13.83L22.85,2.17,41.66,13.83V35.6Z\"/>\n<path d=\"M15.54,14.76H10.93A2.22,2.22,0,0,0,8.71,17v4.62a2.22,2.22,0,0,0,2.22,2.22h4.62a2.22,2.22,0,0,0,2.22-2.22V17A2.22,2.22,0,0,0,15.54,14.76Zm.22,6.83a.22.22,0,0,1-.22.22H10.93a.22.22,0,0,1-.22-.22V17a.22.22,0,0,1,.22-.22h4.62a.22.22,0,0,1,.22.22Z\"/>\n<path d=\"M34.77,14.76H30.16A2.22,2.22,0,0,0,27.94,17v4.62a2.22,2.22,0,0,0,2.22,2.22h4.62A2.22,2.22,0,0,0,37,21.59V17A2.22,2.22,0,0,0,34.77,14.76ZM35,21.59a.22.22,0,0,1-.22.22H30.16a.22.22,0,0,1-.22-.22V17a.22.22,0,0,1,.22-.22h4.62A.22.22,0,0,1,35,17Z\"/>\n</g>\n</svg>"
+  },
+  "collaborativeVersion": {
+    "saved": [
+      2163,
+      "89mNQPUAJhfV4HeWNdOHZ"
+    ],
+    "live": [
+      2163,
+      "89mNQPUAJhfV4HeWNdOHZ"
+    ]
+  },
+  "Genially": {
+    "DateDisabled": null,
+    "Id": "68b75b5725eb1f89be5b9f38",
+    "Name": "Copia de seguridad - Moodle 4.5",
+    "ImageRender": "https://genially-thumbnails.genially.com/68b75b5725eb1f89be5b9f38.png?ts=1757533624009",
+    "TypeSubscription": 9,
+    "FriendlyUrl": "https://view.genially.com/68b75b5725eb1f89be5b9f38/interactive-content-copia-de-seguridad-moodle-45",
+    "IdUser": "5f7360fd3bba5c1b9f8c0c90",
+    "Description": null,
+    "UrlPro": "https://view.genially.com/68b75b5725eb1f89be5b9f38",
+    "HasGeniallyAnalytics": true,
+    "Reusable": false,
+    "IdTeam": "655f74127b640d001042eba8",
+    "IdSpace": "655f74127b640d001042ebdf",
+    "IsOwnerAChild": null,
+    "IsCreatedByStudent": false,
+    "SkipTeamDomainRestrictions": null,
+    "SelectedLogoId": "66d61eb6cb437ada9b057ac2",
+    "Public": true,
+    "Published": true,
+    "WatermarkLink": "https://genially.com",
+    "CustomLogo": null,
+    "CustomLogoPosition": null,
+    "IdAnalytics": null,
+    "CustomWatermark": null,
+    "SizeWatermark": "medium",
+    "PrivacyStatus": "Public",
+    "HasPassword": false,
+    "SettingGenially": {
+      "Weave": null,
+      "ShowPage": false,
+      "TooltTipStyle": "light",
+      "FullScreen": true,
+      "DisableTitles": false,
+      "AutoPagination": false,
+      "BucleAutoPagination": false,
+      "TimePagination": 5,
+      "DisableShare": false,
+      "Interactivity": false,
+      "IsPaintable": false,
+      "IsDraggable": false,
+      "HideLogo": false,
+      "IgnoreGlobalBranding": false,
+      "ShowLoader": true,
+      "ShowWatermark": false,
+      "LoadMobile": false,
+      "ShowDraggableIndicator": true,
+      "IsTrackable": false,
+      "ShowZoom": false,
+      "InteractiveQuestionsSettings": {
+        "ShowResultsSummary": false,
+        "ResultsSummaryType": null,
+        "ResponseAction": null,
+        "SettingsPreset": null,
+        "IndividualResultsSummarySettings": {}
+      },
+      "AliasModalSettings": {
+        "Title": null,
+        "Placeholder": null,
+        "DesignType": null,
+        "InputType": null,
+        "FullScreen": false,
+        "AliasGenerator": false,
+        "FontFamily": null,
+        "BackgroundColor": null,
+        "TextColor": null,
+        "PrimaryColor": null,
+        "Description": null,
+        "ButtonText": null,
+        "ButtonTextColor": null,
+        "AliasGeneratorText": null
+      },
+      "Responsive": false
+    }
+  },
+  "tasks": {
+    "B5pVnqkXly7swRXl_XZzw": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/e03a30db-d285-4600-8b20-006cab44bf12.png",
+      "finished": true
+    },
+    "48_hXLggp4b_mIeqS3Fba": {
+      "value": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "finished": true
+    },
+    "T91LiaKCj8G_CA7yzkKzk": {
+      "value": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "finished": true
+    },
+    "ZOtTuP8hGlZSNq_E3nxfe": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1e82701f-17fa-44da-8220-2d9597104855.png",
+      "finished": true
+    },
+    "kHddt7UkEiRjKjM1pEEKM": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/83e8da32-6328-4cc8-ad52-5e8e75340724.png",
+      "finished": true
+    },
+    "vr7kBBgi-Ar7fConiZa85": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "feqMcDRG0wpGALUXsLrdH": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/20b8ed38-06f7-4fed-a22b-32444a939d24.png",
+      "finished": true
+    },
+    "MlZjnhWazqCNSgx1m7hAM": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "YVhO6bAT-jJCo3zReDrMs": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/de95d7f1-84e2-4d2e-847b-8683857227cb.png",
+      "finished": true
+    },
+    "FVDPlUg8QJAE07kgC-hLv": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "YuQYrEPqpfoHU7nUgeycE": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/55043b4c-4372-4947-82be-045ac36bdec2.png",
+      "finished": true
+    },
+    "qqq76QWDZ51pxGOI-gpGg": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "iYG5MRhyibZhxheZVaz37": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/580e5eeb-30a8-4d3c-b946-9ac4610fc4a1.png",
+      "finished": true
+    },
+    "LUeIMfZx6YOKvgQXylG9-": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/6930c494-eecf-4ed3-8254-8e84d95a0764.png",
+      "finished": true
+    },
+    "nSrhVX9onAOQKqWUKvntQ": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "UyweTZaboAIxCzM8JZnob": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/84ccd594-96e0-40e0-8de8-27a50b105a1a.png",
+      "finished": true
+    },
+    "2qoPas4XcITlf8d2ZZnuQ": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/d9e90d5c-04db-41b1-a8e7-76d153dcadda.png",
+      "finished": true
+    },
+    "Ga3C51d1E4yRaytVhXN1K": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/94dcc946-060e-47b2-9355-ce6b5ecb0b26.png",
+      "finished": true
+    },
+    "ent7d1XY9N1zfH_QgzdA2": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/01e57ebc-557d-4533-903e-03721a4df457.png",
+      "finished": true
+    },
+    "5nh--mhIxe9_hZDuqFL7m": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "1bvAeY3zqfTZ0lcRm_jgp": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/905e1af0-2c27-4f4b-a447-7bd9e8c1b9ad.png",
+      "finished": true
+    }
+  }
+}

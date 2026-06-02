@@ -1,0 +1,269 @@
+[
+  {
+    "slide_id": "5f18d8c8-383b-4858-9867-8a14f56ca4c9",
+    "slide_name": "Portada",
+    "texts": [
+      "Actividad Foro"
+    ],
+    "videos": [],
+    "title_candidate": "Portada"
+  },
+  {
+    "slide_id": "2a9c79fb-87f1-416b-9968-751ff9a0ec57",
+    "slide_name": "Índice",
+    "texts": [
+      "Contenidos",
+      "¿Qué es un Foro?",
+      "¿Cómo se añade un Foro?",
+      "¿Cómo se configura un Foro?",
+      "¿Cuáles son las opciones de administración del Foro?",
+      "¿Cómo se ve la actividad en la página de la plataforma?",
+      "¿Cómo se califica un Foro?",
+      "¿Cómo se participa en un Foro?"
+    ],
+    "videos": [],
+    "title_candidate": "Índice"
+  },
+  {
+    "slide_id": "d9e3f26c-802f-4ff9-ac19-81f448973cfd",
+    "slide_name": "Definición",
+    "texts": [
+      "¿Qué es la actividad Foro?",
+      "Los Foros son una actividad que permite a las personas participantes tener diálogos y plenaries de manera asincrónicas (en diferentes tiempos), que suceden a lo largo de un período determinado. El rol del docente ​en el foro es de moderador y esto se verá reflejado en la comunicación de las indicaciones, las participaciones que comentan y el seguimiento posterior con un resumen de las intervenciones.",
+      "En su función de actividad puede utilizarse como​: Discusión de posturas Resolución de casos Entrega de documentos, imágenes o enlaces Reportes de actividades Lluvia de ideas colaborativas"
+    ],
+    "videos": [],
+    "title_candidate": "Definición"
+  },
+  {
+    "slide_id": "b3fe26d8-a9a2-45a3-bcd6-6903387332e5",
+    "slide_name": "Insertar tarea",
+    "texts": [
+      "¿Cómo se inserta una actividad?",
+      "Activemos edición Vayamos a la semana o sesión donde colocaremos el Foro. Vayamos a la pestaña Actividades Hagamos clic en la opción Foro. Observe el siguiente vídeo a continuación para ver el paso a paso:"
+    ],
+    "videos": [
+      {
+        "video_id": "NMDUz0DaSaY",
+        "source": "https://youtu.be/NMDUz0DaSaY",
+        "transcript": "En este vídeo aprenderemos a armontar los materiales del curso en su entorno virtual. Seguidamente, dirijámonos a la semana o el tema que desea completar. Podremos integrar nuestros materiales o actividades a través de la opción añadir una actividad o un recurso. En ella encontraremos la pestaña de actividades con las diferentes opciones que nos permiten interactuar con las personas estudiantes e ir haciendo evaluaciones tanto sumativas como formativas. En la pestaña de recursos encontraremos todas las herramientas para poder compartir aquella información necesaria para el curso, sea por archivos, enlaces u otros materiales propios creados para reforzarlos a aprendizajes. Además, tendremos la opción de seleccionar nuestras herramientas favoritas haciendo clic en la estrella. Estas aparecerán en la pestaña de destacados. Ya podemos crear nuestras semanas o secciones con las posibilidades que nos ofrece esta nueva mediación virtual."
+      }
+    ],
+    "title_candidate": "Insertar tarea"
+  },
+  {
+    "slide_id": "fc391f60-5049-4654-935c-7e2a93c86418",
+    "slide_name": "Menú",
+    "texts": [
+      "Menú del Foro",
+      "Permite ir a las entradas del foro.",
+      "Permite configurar el foro como calificaciones, formatos y tiempos.",
+      "Permite configurar Listas de verificación, Guía de Evaluación, Rúbricas.",
+      "Permite administrar las suscripciones y ver las personas suscritas.",
+      "Permite ver un informe por persona y exportar las participaciones.",
+      "Registros: muestra los movimientos que hubo específicamente en la actividad. Copia de seguridad: hace una copia de seguridad solo del foro. Exportar: permite descargar las participaciones en formato de tabla en diferentes tipos de documentos."
+    ],
+    "videos": [],
+    "title_candidate": "Menú"
+  },
+  {
+    "slide_id": "a1c5c981-28bb-4561-9414-a2117338f63d",
+    "slide_name": "Configuración",
+    "texts": [
+      "¿Cómo se configura la actividad Foro?"
+    ],
+    "videos": [],
+    "title_candidate": "Configuración"
+  },
+  {
+    "slide_id": "adccdc27-ffd7-47f6-a0bf-044d584d5784",
+    "slide_name": "General",
+    "texts": [
+      "General",
+      "Nombre del foro: muestra el nombre como aparece en el prograna de curso",
+      "Descripción del foro: se describe en formato de texto escrito el qué, el cómo, el cuando. el formato y el valor de la participación.",
+      "Tipos de foros: Uso general: es el ideal para consultas o dudas. Cada persona plantea un tema: permite que cada participante plantee solo un tema. Discusión sencilla: la persona docente propone el tema y las personas participantes intervienen. Preguntas y respuestas: permite a los estudiantes ver las respuestas de las personas compañeras hasta que aporten una participación acerca del tema en diálogo."
+    ],
+    "videos": [],
+    "title_candidate": "General"
+  },
+  {
+    "slide_id": "8315b6bb-1a1f-4ea5-a087-62eccde590ff",
+    "slide_name": "Disponibilidad",
+    "texts": [
+      "Disponibilidad",
+      "Al activarla, después de esta fecha no se aceptan más participaciones. Es útil para entregas de etapas de proyecto o pruebas escritas.",
+      "Señala la fecha de estrega esperada y previamente anunciada en el programa de curso, pero permite que después de la fehca hayan participaciones. Es útil para configurar el Calendario y la Línea de Tiempo del Entorno Virtual. Para utilizarlo haga clic en el recuadro al lado de Habilitar."
+    ],
+    "videos": [],
+    "title_candidate": "Disponibilidad"
+  },
+  {
+    "slide_id": "f525c2af-5beb-4aee-8783-eaecaac93afc",
+    "slide_name": "Tipos de entrega",
+    "texts": [
+      "Tipos de entrega",
+      "Esta opción permite configurar la subida de archivos a las entredas del foro. Tamaño máximo del archivo adjunto: El tamaño predeterminado 2 MB y el máximo son 500 MB. Se recomienda utilizar documentos con un tamaño de 100 MB. Número máximo de archivos adjuntos: Indica la cantidad máxima de archivos que se pueden adjuntar por parte del estudiantado. Mostrar número de palabras: Almarcar SI se establece el mecanismo para contar las palabras que contiene la participación de cada estudiante."
+    ],
+    "videos": [],
+    "title_candidate": "Tipos de entrega"
+  },
+  {
+    "slide_id": "06c2e39a-5cb1-454a-98cb-fada5aebd6a1",
+    "slide_name": "Tipos de retroalimentació",
+    "texts": [
+      "Suscripción y seguimiento",
+      "Suscripción opcional: las personas participantes pueden elegir si desean o no ser suscritos. Suscripción forzosa: las personas participantes están suscritas y no puede darse de baja. Suscripción automática: las personas participantes están suscritos inicialmente, pero cada usuario puede elegir desactivar la suscripción en cualquier momento. Suscripción deshabilitada: ​ No se permiten suscripciones.",
+      "Rastreo de lectura: permite que se realice un monitoreo de lectura a los participantes para revisar rápidamente cuáles publicaciones que aún no han sido vistas al resaltar cualquier nueva publicación."
+    ],
+    "videos": [],
+    "title_candidate": "Tipos de retroalimentació"
+  },
+  {
+    "slide_id": "bb23a45c-957c-417a-9045-0502d3bd0acd",
+    "slide_name": "",
+    "texts": [
+      "Bloqueo de discusión",
+      "La discusión del foro puede ser bloqueada automáticamente después de haber pasado un tiempo seleccionado.",
+      "Establece un periodo de tiempo en el cual va a estar habilitado el foro y que pasado este periodo se limitará la participación de las y los estudiantes.",
+      "Umbral de mensajes para bloqueo"
+    ],
+    "videos": [],
+    "title_candidate": "Bloqueo de discusión"
+  },
+  {
+    "slide_id": "8f5b5477-c7b0-4c18-938e-f37356f7c670",
+    "slide_name": "",
+    "texts": [
+      "Evaluación del foro completo",
+      "Puntuación: la persona docente elige la C alificación máxima, el Método de calificación, la Categoría de calificaciones, Calificación para aprobar. Escala: la persona docente elige la escala previamente configurada. No se recomienda usar las propias del sistema, ya que su evaluación debe apegarse al programa de curso. Si esta opción no es viable para su curso, solo debemos dejar la opción Ninguna.",
+      "Esta opción permite dar una única calificación global a cada participante por toda su participación en el foro , en lugar de calificar mensaje por mensaje. Por ejemplo: La persona docente revisa todas las intervenciones de un estudiante en un foro y otorga una sola nota global, basada en el conjunto de aportes (cantidad, calidad, pertinencia, etc.). Para ello tiene 2 opciones de calificación :"
+    ],
+    "videos": [],
+    "title_candidate": "Evaluación del foro completo"
+  },
+  {
+    "slide_id": "9283e7d2-c71e-45c7-8beb-ab256f0fb928",
+    "slide_name": "",
+    "texts": [
+      "Calificaciones",
+      "Roles con permiso de calificar: Estos roles son preestablecidad por el sistema, permitiendo evaluar solamente a los Docente, Docente Colaborador y Asistente de curso.",
+      "No hay valuaciones: la actividad no aparece en el libro de calificaciones. Promedio de valoraciones: la media de todas las calificaciones realizadas por los docentes en cada entrada. Número de valoraciones: número de elementos evaluados se convierte en la calificación final. Calificación Máxima: La evaluación más alta se convierte en la calificación final. Calificación Mínima: La evaluación más baja se convierte en la calificación final. Suma de valoraciones: todas las evaluaciones se suman.."
+    ],
+    "videos": [],
+    "title_candidate": "Calificaciones"
+  },
+  {
+    "slide_id": "1cd71833-ec33-4aff-97e2-efd4fbda8b12",
+    "slide_name": "",
+    "texts": [
+      "¿Cuándo usar cada tipo de calificación?",
+      "Con evaluación del foro completo: Mediación Virtual muestra todas las intervenciones del estudiante juntas, y cada docente asigna una sola nota por toda su participación. Con la configuración Calificaciones: la persona docente debe calificar cada aporte por separado.",
+      "Actividad de foro donde cada estudiante hace varias publicaciones",
+      "Con evaluación del foro completo: no es requerida esta Con la configuración Calificaciones: la persona docente puede calificar cada aporte individual de cada estudiante.",
+      "Actividad de foro donde cada estudiante hace una sola publicación",
+      "Recomendamos solo utilizar una de las opciones de acuerdo al tipo de interacción planificada."
+    ],
+    "videos": [],
+    "title_candidate": "¿Cuándo usar cada tipo de calificación?"
+  },
+  {
+    "slide_id": "2a09477d-8755-4a96-91d1-4ba84b09c828",
+    "slide_name": "Ajustes comunes del módulo",
+    "texts": [
+      "Ajustes comunes del módulo",
+      "Disponibilidad: Permite Mostrar la actividad en la sesión o semana u Ocultarla cuando aún no se realiza la actividad. Recuerde hacerla disponible antes de que llegue la fecha de entrega. Forzar idioma: útil para los cursos de lenguas modernas. Modo de grupo: Depende de la Configuración de entrega por grupo y puede configurarlo por Grupos Visibles o Grupos Separados. Agrupamiento: esta función se activa al escoger el Modo de Grupo y le abrirá la opción de escoger el Agrupamiento previamente configurado en Participantes."
+    ],
+    "videos": [],
+    "title_candidate": "Ajustes comunes del módulo"
+  },
+  {
+    "slide_id": "0fa66c47-cf0e-4e0e-bcc6-852d7dc40647",
+    "slide_name": "Configuración del complemento Turnitin Integrity",
+    "texts": [
+      "Configuración del complemento Turnitin Integrity",
+      "Turnitin es una herramienta que brinda servicio en la comparación y revisión de documentos, con el fin de constatar el nivel de originalidad en la redacción de los mismos. Esta herramienta está disponible en la Universidad de Costa Rica a través del SIBDI y en Mediación Virtual. La primera casilla es la que hace referencia a si desea o no habilitar el Turnitin. Por defecto este rubro está sin marcar y esto hace que el resto de opciones de este apartado se encuentren sin posibilidad de ser seleccionadas; por tanto, es importante que comience esta configuración marcando la primer casilla."
+    ],
+    "videos": [],
+    "title_candidate": "Configuración del complemento Turnitin Integrity"
+  },
+  {
+    "slide_id": "a290b2ad-dc6a-42db-b264-9d40b73c3d4e",
+    "slide_name": "Vistas",
+    "texts": [
+      "¿Cómo se ve la actividad en la página de la plataforma?",
+      "Vista en la sesión",
+      "Vista de docente",
+      "Vista de estudiante"
+    ],
+    "videos": [],
+    "title_candidate": "Vistas"
+  },
+  {
+    "slide_id": "0b00f85e-07e9-4058-8f3e-46fc49d7f5b2",
+    "slide_name": "",
+    "texts": [
+      "¿Cómo se califica el foro?",
+      "Evaluación del foro completo",
+      "Configuración Calificaciones (individual)",
+      "Recomendamos solo utilizar una de las opciones de acuerdo al tipo de interacción planificada."
+    ],
+    "videos": [
+      {
+        "video_id": "e3VjX5fR3WQ",
+        "source": "https://youtu.be/e3VjX5fR3WQ",
+        "transcript": "La evaluación del foro completo se realiza ingresando al botón calificar usuarios. Seguidamente entraremos a una pantalla donde se muestran todas las participaciones de la persona estudiante. Coloquemos en el panel de calificación la nota total. Además podemos seleccionar la opción Si enviar notificación al estudiante, que compartirá la nota al correo institucional. Al final, la plataforma nos indicará que la calificación fue registrada."
+      },
+      {
+        "video_id": "FTS3Z4hLMRw",
+        "source": "https://youtu.be/FTS3Z4hLMRw",
+        "transcript": "Ingresemos a la entrada de la persona estudiante"
+      }
+    ],
+    "title_candidate": "¿Cómo se califica el foro?"
+  },
+  {
+    "slide_id": "407e1b10-580e-4cbb-aa6a-a1a3c4a5dbf8",
+    "slide_name": "",
+    "texts": [
+      "¿Cómo se participa en el foro?",
+      "En el siguiente vídeo, podemos observar la forma de participación en un foro. Le recomendamos compartir el enlace de este vídeo en la descripción del foro- Enlace: https://youtu.be/1yjqCye8waQ?si=4KNjLByz1SUtlBQM)"
+    ],
+    "videos": [
+      {
+        "video_id": "1yjqCye8waQ",
+        "source": "https://youtu.be/1yjqCye8waQ?si=4KNjLByz1SUtlBQM",
+        "transcript": "Una vez que accedemos al enlace donde está este foro, tenemos que darle clic al responder. En este cuadro de texto podemos agregar nuestra respuesta y para enviarla solo tenemos que seleccionar enviar al foro. Ahora si debemos hacer una respuesta más elaborada podemos seleccionar avanzada. Aquí tenemos múltiples opciones de formato de texto e incluso la opción de adjunta a archivos. Si parte de la situación compreender responder al comentario de otra persona podemos ir a la respuesta que nos interesa seleccionar responder y ahí mismo escribir nuestra réplica. Y listo, así es como podemos participar en un foro en mediación virtual."
+      }
+    ],
+    "title_candidate": "¿Cómo se participa en el foro?"
+  },
+  {
+    "slide_id": "13f350d4-3c20-404a-9081-42749653c6ff",
+    "slide_name": "",
+    "texts": [
+      "Observe la imagen. Esta será la vista dentro de la sección o semana."
+    ],
+    "videos": [],
+    "title_candidate": "Observe la imagen. Esta será la vista dentro"
+  },
+  {
+    "slide_id": "2e82ba5e-3bad-4d46-902d-9f052bd41a94",
+    "slide_name": "",
+    "texts": [
+      "Vista al agregar participación",
+      "Vista de participación en foro"
+    ],
+    "videos": [],
+    "title_candidate": "Vista al agregar participación"
+  },
+  {
+    "slide_id": "48216995-1017-4cdd-89b1-cc6d4b3b8348",
+    "slide_name": "",
+    "texts": [
+      "Observe la imagen. Esta será la vista de la persona docente al entrar a la actividad:"
+    ],
+    "videos": [],
+    "title_candidate": "Observe la imagen. Esta será la vista de"
+  }
+]

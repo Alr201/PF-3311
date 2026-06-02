@@ -1,0 +1,98 @@
+[
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "5f18d8c8-383b-4858-9867-8a14f56ca4c9",
+    "slide_name": "Portada",
+    "title_candidate": "Portada",
+    "content": "TITULO_CANDIDATO: Portada\n\nCONTENIDO:\n\nConfiguración de grupos y agrupamientos"
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "2a9c79fb-87f1-416b-9968-751ff9a0ec57",
+    "slide_name": "Índice",
+    "title_candidate": "Índice",
+    "content": "TITULO_CANDIDATO: Índice\n\nCONTENIDO:\n\nContenidos\nCreación de grupos\nAgregar y eliminar usuarios en los grupos\nConfigurar las actividades en grupos\nCrear y configurar agrupamientos"
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "d9e3f26c-802f-4ff9-ac19-81f448973cfd",
+    "slide_name": "Definición",
+    "title_candidate": "Definición",
+    "content": "TITULO_CANDIDATO: Definición\n\nCONTENIDO:\n\nCreación de Grupos\nAcceder al Panel de Participantes:\nEn su entorno en Mediación Virtual, busque el panel de \"Participantes\" ubicado en el menú superior.\nAbrir el menú de grupos\nEn el menú del lado izquierdo de la pantalla, seleccione la opción “Grupos”."
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "bad3ca0e-96a1-4af6-90dc-060286725955",
+    "slide_name": "",
+    "title_candidate": "Crear nuevo grupo:",
+    "content": "TITULO_CANDIDATO: Crear nuevo grupo:\n\nCONTENIDO:\n\nCrear nuevo grupo:\nDentro del menú Grupos, busque y haga clic en el botón \"crear grupos\", que generalmente se encuentra más abajo en la página.\nConfigurar los ajustes del grupo\nEn la página Crear Grupo, proporcione un nombre para su grupo en el campo “Nombre del Grupo”. Opcionalmente, también puede agregar una descripción para su grupo en el cuadro de texto \"Descripción\", así como otros ajustes según sus necesidades.\nGuardar cambios\nUna vez que haya terminado de configurar el grupo, haga clic en el botón \"Guardar cambios\". Su nuevo grupo ahora aparecerá en el panel de Grupos."
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "3c572382-3a87-4cc6-aaea-87d102223a38",
+    "slide_name": "",
+    "title_candidate": "Agregar y eliminar usuarios en los grupos",
+    "content": "TITULO_CANDIDATO: Agregar y eliminar usuarios en los grupos\n\nCONTENIDO:\n\nAgregar y eliminar usuarios en los grupos\nSeleccionar un grupo\nEn el panel izquierdo, seleccione el grupo específico que desea administrar.\nAgregar o eliminar usuarios\nUna vez que el grupo está seleccionado, haga clic en el botón \"Agregar o quitar usuarios\" ubicado en el panel de la derecha."
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "1ea35b0b-5013-40db-9263-fff9183ea893",
+    "slide_name": "",
+    "title_candidate": "Eliminar estudiantes del grupo",
+    "content": "TITULO_CANDIDATO: Eliminar estudiantes del grupo\n\nCONTENIDO:\n\nEliminar estudiantes del grupo\nPara eliminar estudiantes, seleccione los nombres de las personas que desea eliminar de la lista en el lado izquierdo de la pantalla. Los estudiantes seleccionados se moverán a la lista de usuarios en el panel de la derecha.\nAgregar estudiantes al grupo\nEn el nuevo menú que aparece, seleccione a los estudiantes que desea agregar de la lista en el lado derecho de la pantalla. Los estudiantes seleccionados se moverán a la lista del grupo en el panel de la izquierda.\nRegresar al panel de grupos\nDespués de agregar o eliminar usuarios, haga clic en el botón \"Regresar a los grupos\"."
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "a65720bd-19df-4b5c-90a3-db0b459963b1",
+    "slide_name": "",
+    "title_candidate": "III. Configuración de los modos de grupo",
+    "content": "TITULO_CANDIDATO: III. Configuración de los modos de grupo\n\nCONTENIDO:\n\nIII. Configuración de los modos de grupo\nMediación Virtual ofrece dos configuraciones de modo de grupo para controlar la interacción de los estudiantes: a) Grupos Visibles: Los participantes están separados en grupos pero pueden ver las contribuciones de otros grupos. b) Grupos Separados: Los participantes solo pueden ver las actividades y el contenido dentro de su propio grupo. Opciones de configuración: 1. Modo de Grupo Específico para una Actividad: Si desea utilizar grupos solo para actividades específicas (por ejemplo, Tareas o Foros), configure el modo de grupo dentro de la configuración de la actividad. En la configuración de la actividad, busque la pestaña \"Ajustes comunes de módulo\" y active el modo de grupo deseado. Enseguida se muestra el ejemplo dentro de una actividad Tarea:"
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "0bc337a5-202b-42a4-9bb9-acca9f8ccce4",
+    "slide_name": "",
+    "title_candidate": "Modo de Grupo para Todo el Curso: a)",
+    "content": "TITULO_CANDIDATO: Modo de Grupo para Todo el Curso: a)\n\nCONTENIDO:\n\nModo de Grupo para Todo el Curso: a) Para aplicar un modo de grupo a todo el curso, navegue a la opción \"Configuración\", que generalmente se encuentra en un bloque en la parte superior de la página del curso.\nb) En la pestaña \"Grupos\", seleccione el modo de grupo que desea para todo el curso y guarde los cambios."
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "69dd9a4a-ea12-43cc-af80-3a11648abca4",
+    "slide_name": "",
+    "title_candidate": "Crear y configurar agrupamientos",
+    "content": "TITULO_CANDIDATO: Crear y configurar agrupamientos\n\nCONTENIDO:\n\nCrear y configurar agrupamientos\nLos agrupamientos le permiten categorizar y organizar sus grupos (crear “grupos de grupos”), lo que puede ser útil para administrar actividades o crear rutas de aprendizaje específicas. Acceder al Panel de Participantes: Navegue al panel de \"Participantes\" ubicado en el menú superior.\nAbrir el Menú de Agrupamientos: En el panel del lado izquierdo de la pantalla, seleccione la opción “agrupamientos”."
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "7fd0f8a1-a418-46a3-a41c-6230f4349ea6",
+    "slide_name": "",
+    "title_candidate": "Crear un Nuevo Agrupamiento: En la página Agrupamientos,",
+    "content": "TITULO_CANDIDATO: Crear un Nuevo Agrupamiento: En la página Agrupamientos,\n\nCONTENIDO:\n\nCrear un Nuevo Agrupamiento: En la página Agrupamientos, haga clic en el botón \"Crear agrupamiento\".\nConfigurar los Ajustes del Agrupamiento: Dé un nombre a su nuevo agrupamiento en el campo \"Nombre del Agrupamiento\", así como otros ajustes según sus necesidades"
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "f34752e7-6cf8-458f-bfb4-85e0abb60bb3",
+    "slide_name": "",
+    "title_candidate": "Gestionar Agrupamientos: Sus agrupamientos configurados ahora aparecerán en",
+    "content": "TITULO_CANDIDATO: Gestionar Agrupamientos: Sus agrupamientos configurados ahora aparecerán en\n\nCONTENIDO:\n\nGestionar Agrupamientos: Sus agrupamientos configurados ahora aparecerán en una lista. Para cada agrupamiento, verá opciones a la derecha para: Editar: Modificar la configuración del agrupamiento. Eliminar: Eliminar el agrupamiento. Mostrar los grupos del agrupamiento: Ver y administrar los grupos dentro del agrupamiento.\nAgregar Grupos a un Agrupamiento: a) Haga clic en \"Mostrar los grupos del agrupamiento\" para el agrupamiento que desea administrar. b) En el nuevo panel, seleccione los grupos que desea incluir del panel de la izquierda. c) Haga clic en \"Añadir\". Los grupos seleccionados se moverán al agrupamiento en el panel de la derecha."
+  },
+  {
+    "source": "https://view.genially.com/693074d0b7244a7bcc5c2f4c/interactive-content-configuracion-de-grupos-y-agrupamientos",
+    "genially_id": "693074d0b7244a7bcc5c2f4c",
+    "slide_id": "67c482dc-5edd-42d4-8342-e0daba9f7c78",
+    "slide_name": "",
+    "title_candidate": "Eliminar Grupos de un Agrupamiento: a) Seleccione los",
+    "content": "TITULO_CANDIDATO: Eliminar Grupos de un Agrupamiento: a) Seleccione los\n\nCONTENIDO:\n\nEliminar Grupos de un Agrupamiento: a) Seleccione los grupos que desea eliminar del agrupamiento en el panel de la derecha. b) Haga clic en \"Quitar\". Los grupos seleccionados se moverán a los grupos en el panel de la izquierda.\nRegresar al Panel de Agrupamientos: Cuando termine, haga clic en \"Regresar a los agrupamientos\"."
+  }
+]

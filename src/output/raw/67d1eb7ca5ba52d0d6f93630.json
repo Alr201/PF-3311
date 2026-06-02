@@ -1,0 +1,5477 @@
+{
+  "Pins": [],
+  "Svgs": [
+    {
+      "Id": "37d8da4b-4a13-40ba-99ec-aa95310879d4",
+      "Name": "SVG",
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 3,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "75312aa4-84bf-442c-be91-58232d9a25c6",
+      "IdSlide": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 3,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "e9a6a647-9968-4d05-bd1c-0fcbacccbbe0",
+      "Name": "NEXT",
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 7,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "75312aa4-84bf-442c-be91-58232d9a25c6",
+      "IdSlide": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "15.9943394735111px",
+        "PositionLeft": "32.6530827668174px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 7,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "DurationIn": "vel3",
+      "LayerTitle": "NEXT",
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "8bd82a2f-65e9-4ec2-87c1-e1f448dc8209",
+      "Name": "SVG",
+      "Size": {
+        "Width": "37.88090355399187px",
+        "Height": "63.37027967562138px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 9,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "28.120384047267322px",
+        "PositionLeft": "1161.6118687592987px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 9,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;8nLNGzWaPxfjfA07BSyfv/M9P8GQLxIkHBiR+RS3T7Y=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "3c5ccd82-989a-4ce3-acce-0910aa8788aa",
+      "Name": "SVG",
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 1,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "77c484e1-e18c-4b20-a7b0-f5a4c9ffb7bb",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 1,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "9c4737be-3e41-4cf6-a708-a42aecb7b9fc",
+      "Name": "NEXT",
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 3,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "77c484e1-e18c-4b20-a7b0-f5a4c9ffb7bb",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "15.9943394735111px",
+        "PositionLeft": "32.6530827668174px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 3,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "DurationIn": "vel3",
+      "LayerTitle": "NEXT",
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "2e3723c9-9a5e-462d-829a-debe52835a8c",
+      "Name": "SVG",
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 4,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "44e1cc15-9086-4a26-b844-ca8a4ddb73bb",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 4,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "0e6411d5-e55c-43b7-b967-bfdacf6f797c",
+      "Name": "BACK",
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 6,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "44e1cc15-9086-4a26-b844-ca8a4ddb73bb",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "15.962933394700087px",
+        "PositionLeft": "46.69114995090247px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "BigZIndex": 6,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "DurationIn": "vel3",
+      "LayerTitle": "BACK",
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "d74b0356-3cb4-4f06-802a-25291c7139b2",
+      "Name": "SVG",
+      "Size": {
+        "Width": "79.25397144345855px",
+        "Height": "79.25397144345855px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 10,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "42e26364-692d-417a-a449-33dc2e971333",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Category": "58d127807c2081128c99d792",
+      "DelayOut": "0",
+      "EffectIn": "scale-in-center",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 10,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;FqnY9wh0rq08cQXZEYjHmMud7iDD5bcF1i+WCmzoYZc=",
+      "DurationIn": "vel1",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "c9a8844f-61a8-4640-a31d-5ce467df0847",
+      "Name": "SVG",
+      "Size": {
+        "Width": "79.25397144345855px",
+        "Height": "79.25397144345855px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 12,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "557ecb8c-c774-4f78-a731-ef5005c68a9d",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Category": "58d127807c2081128c99d792",
+      "DelayOut": "0",
+      "EffectIn": "scale-in-center",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 12,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;FqnY9wh0rq08cQXZEYjHmMud7iDD5bcF1i+WCmzoYZc=",
+      "DurationIn": "vel1",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "040e7e70-200f-4650-9816-f649c376bcf3",
+      "Name": "SVG",
+      "Size": {
+        "Width": "37.88090355399187px",
+        "Height": "63.37027967562138px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 16,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "28.120384047267322px",
+        "PositionLeft": "1161.6118687592987px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 16,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;8nLNGzWaPxfjfA07BSyfv/M9P8GQLxIkHBiR+RS3T7Y=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "baa65f5b-aa5f-4d98-b583-aa9ce43b7438",
+      "Name": "SVG",
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 2,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "f9956f48-2e6f-47cd-9cfd-3cdafe3150fb",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 2,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "07d91c06-ea4b-42e2-83b6-992f98bff35d",
+      "Name": "NEXT",
+      "Size": {
+        "Width": "19.391236245872108px",
+        "Height": "13.820662924330668px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 4,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "f9956f48-2e6f-47cd-9cfd-3cdafe3150fb",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "15.9943394735111px",
+        "PositionLeft": "32.6530827668174px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 4,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "DurationIn": "vel3",
+      "LayerTitle": "NEXT",
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "c8ba8fdd-358f-47d2-ae6f-694deda291d2",
+      "Name": "SVG",
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 5,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "f17869b5-319b-45ba-901f-5ab69c6ee832",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 5,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "25d4db66-99a1-453e-9ff3-8d571b0682f7",
+      "Name": "BACK",
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 7,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "f17869b5-319b-45ba-901f-5ab69c6ee832",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "15.962933394700087px",
+        "PositionLeft": "46.69114995090247px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "BigZIndex": 7,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "DurationIn": "vel3",
+      "LayerTitle": "BACK",
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "08bb2455-b2a3-4d87-b538-257e910f9562",
+      "Name": "SVG",
+      "Size": {
+        "Width": "252.54658401995246px",
+        "Height": "62.53534461446442px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 9,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "4f27f7f6-b1cd-400e-beba-cc54b477bcf7",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 9,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "fe4e89f3-2af9-4895-8522-1091a4208605",
+      "Name": "SVG",
+      "Size": {
+        "Width": "252.54658401995246px",
+        "Height": "62.53534461446442px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 10,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "6daea248-05aa-462e-9165-988aef05ca80",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 10,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "bce8ab3b-a61e-4147-ae51-f782bf74dcef",
+      "Name": "SVG",
+      "Size": {
+        "Width": "37.88090355399187px",
+        "Height": "63.37027967562138px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 17,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "28.120384047267322px",
+        "PositionLeft": "1161.6118687592987px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 17,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;8nLNGzWaPxfjfA07BSyfv/M9P8GQLxIkHBiR+RS3T7Y=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "3b24020f-08cb-453d-a810-50b7c99997fc",
+      "Name": "SVG",
+      "Size": {
+        "Width": "181.87398355183174px",
+        "Height": "45.03546259378691px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 2,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "9db30ab5-c706-47b9-afab-09566fee6e83",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 2,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "58ccf495-6ee7-4e59-a151-d8eeb6ab5b05",
+      "Name": "BACK",
+      "Size": {
+        "Width": "28.137578490284877px",
+        "Height": "23.150140979392013px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 4,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "9db30ab5-c706-47b9-afab-09566fee6e83",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "56fbfcfdff06eb20b02e1505",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "9.021247305826769px",
+        "PositionLeft": "29.14078696160862px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 4,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;T4K52Tb7WIEB1mqdhqMiMW/30cWFzQMzGIw4k13NnSY=",
+      "DurationIn": "vel3",
+      "LayerTitle": "BACK",
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "0d53ee3c-e8d5-458f-bd12-f4b1f9b427ba",
+      "Name": "SVG",
+      "Size": {
+        "Width": "184.69669138678012px",
+        "Height": "45.734418819583645px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(0, 93, 163, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 5,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "bbfe7386-8866-4be7-af9d-8605df8a0622",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 5,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "83fe2d1e-e341-4bfd-a406-adc97e4dd06f",
+      "Name": "BACK",
+      "Size": {
+        "Width": "19.349177192900775px",
+        "Height": "13.790686290212916px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 7,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "bbfe7386-8866-4be7-af9d-8605df8a0622",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "15.962933394700087px",
+        "PositionLeft": "46.69114995090247px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(180deg)"
+      },
+      "BigZIndex": 7,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=",
+      "DurationIn": "vel3",
+      "LayerTitle": "BACK",
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "29bb04e4-4a0b-4b7f-81ed-4a199e5004c3",
+      "Name": "SVG",
+      "Size": {
+        "Width": "252.54658401995246px",
+        "Height": "62.53534461446442px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 9,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "23dab181-cefb-48dd-b204-892c658dc074",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 9,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "bb5dd829-daf6-4e8f-adf7-231f5ba9442b",
+      "Name": "SVG",
+      "Size": {
+        "Width": "252.54658401995246px",
+        "Height": "62.53534461446442px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 10,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "44121060-8c02-481c-ad7d-66b6ad26e101",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 10,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "bd715b74-e0ff-4f80-af2d-5a9da8656764",
+      "Name": "SVG",
+      "Size": {
+        "Width": "37.88090355399187px",
+        "Height": "63.37027967562138px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 17,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "28.120384047267322px",
+        "PositionLeft": "1161.6118687592987px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 17,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;8nLNGzWaPxfjfA07BSyfv/M9P8GQLxIkHBiR+RS3T7Y=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "1c8a33a7-e33a-48ba-9a7a-7a9db7710555",
+      "Name": "SVG",
+      "Size": {
+        "Width": "210px",
+        "Height": "52px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(109, 192, 103, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 2,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "56eedc38-f8b4-4cf7-8214-ebfb3d00fb68",
+      "IdSlide": "14fa80cd-9c4f-4c39-875b-618c4e0f7eb4",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 2,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "e457be3e-9820-4337-9ece-817df7a5b772",
+      "Name": "SVG",
+      "Size": {
+        "Width": "20px",
+        "Height": "18.25px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 4,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": "56eedc38-f8b4-4cf7-8214-ebfb3d00fb68",
+      "IdSlide": "14fa80cd-9c4f-4c39-875b-618c4e0f7eb4",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "16.181370597572254px",
+        "PositionLeft": "58.405258870156786px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 4,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;Gh1nPEBWnFuh2dUs1Xi1SHrD+TMkLwsaEcReslrCLPc=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "09597f87-ac07-405e-af7b-937c10fa5692",
+      "Name": "SVG",
+      "Size": {
+        "Width": "1125.35800943606px",
+        "Height": "601.0589154476285px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 1,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "121e0f84-933a-44f1-895c-d10d59d934c1",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "45.028968799125835px",
+        "PositionLeft": "38.21623846774537px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 1,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "04383124-5170-4417-875a-f49e285e9e49",
+      "Name": "SVG",
+      "Size": {
+        "Width": "60px",
+        "Height": "60px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(32, 32, 32, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 7,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "121e0f84-933a-44f1-895c-d10d59d934c1",
+      "Opacity": "1",
+      "Category": "58d127807c2081128c99d792",
+      "DelayOut": "0",
+      "EffectIn": "scale-in-center",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "13.238765570911227px",
+        "PositionLeft": "1119.2507160124192px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 7,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=",
+      "DurationIn": "vel2",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "S6WiLD-_ISdZWS94D7y1M"
+      },
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "1becbb3c-96b6-42d3-a3d3-f87702bc9d53",
+      "Name": "SVG",
+      "Size": {
+        "Width": "1125.35800943606px",
+        "Height": "601.0589154476285px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 1,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "45.028968799125835px",
+        "PositionLeft": "38.21623846774537px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 1,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "a9a7ee59-70f6-4df1-a06f-096fe6d65492",
+      "Name": "SVG",
+      "Size": {
+        "Width": "60px",
+        "Height": "60px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(32, 32, 32, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 13,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Opacity": "1",
+      "Category": "58d127807c2081128c99d792",
+      "DelayOut": "0",
+      "EffectIn": "scale-in-center",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "13.238765570911227px",
+        "PositionLeft": "1119.2507160124192px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 13,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=",
+      "DurationIn": "vel2",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "mdmzNZtbyIFNgxqvvU3p9"
+      },
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "73f2555c-1db2-4640-aed1-5ebfc4a2c6f4",
+      "Name": "SVG",
+      "Size": {
+        "Width": "1125.35800943606px",
+        "Height": "601.0589154476285px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 1,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "45.028968799125835px",
+        "PositionLeft": "38.21623846774537px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 1,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "4f4ddd89-bbf1-435a-85bb-b9235e08ac9a",
+      "Name": "SVG",
+      "Size": {
+        "Width": "234.02401228225847px",
+        "Height": "29.88260090140548px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 12,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "295.10707969413306px",
+        "PositionLeft": "104.31034482758614px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 12,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;8nLNGzWaPxfjfA07BSyfv/M9P8GQLxIkHBiR+RS3T7Y=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "4493992c-4baa-4f4e-a894-28841f0b7e1d",
+      "Name": "SVG",
+      "Size": {
+        "Width": "60px",
+        "Height": "60px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(32, 32, 32, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 14,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Opacity": "1",
+      "Category": "58d127807c2081128c99d792",
+      "DelayOut": "0",
+      "EffectIn": "scale-in-center",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "13.238765570911227px",
+        "PositionLeft": "1119.2507160124192px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 14,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=",
+      "DurationIn": "vel2",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "lf6idGTFa-Xr2Qn9pHxk0"
+      },
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "f5021ddd-bb11-4eda-8c6c-63d83bc73a77",
+      "Name": "SVG",
+      "Size": {
+        "Width": "1125.35800943606px",
+        "Height": "601.0589154476285px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 1,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4",
+      "Opacity": "1",
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "45.028968799125835px",
+        "PositionLeft": "38.21623846774537px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 1,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": false,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "AspectRatioDirection": null
+    },
+    {
+      "Id": "cbc23080-0f5a-4a15-b6a6-0bd721c40a5c",
+      "Name": "SVG",
+      "Size": {
+        "Width": "60px",
+        "Height": "60px"
+      },
+      "Frame": "none",
+      "Colors": [
+        "rgba(32, 32, 32, 1)"
+      ],
+      "Effect": "none",
+      "ZIndex": 7,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4",
+      "Opacity": "1",
+      "Category": "58d127807c2081128c99d792",
+      "DelayOut": "0",
+      "EffectIn": "scale-in-center",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "13.238765570911227px",
+        "PositionLeft": "1119.2507160124192px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 7,
+      "EffectOut": "none",
+      "SourceSvg": "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=",
+      "DurationIn": "vel2",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "AspectRatio": true,
+      "ColorsCount": 1,
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "6TWDpdyZCwKYbbFJF7ewz"
+      },
+      "AspectRatioDirection": null
+    }
+  ],
+  "Areas": [
+    {
+      "Id": "afee37b5-68c7-49a4-ade8-52f21219aa05",
+      "Name": "Area",
+      "Size": {
+        "Width": "466.96857986716424px",
+        "Height": "48.819287528520675px"
+      },
+      "ZIndex": 6,
+      "Blocked": false,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "326.51856763925736px",
+        "PositionLeft": "652.9973474801061px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 6,
+      "LayerTitle": null,
+      "interactivities": {
+        "hover": "gAX1m0eZFMuyvj4ur1C6V"
+      }
+    },
+    {
+      "Id": "07f03342-6258-4ad9-bf8d-12d22152e025",
+      "Name": "Area",
+      "Size": {
+        "Width": "466.96857986716424px",
+        "Height": "38.07855660882976px"
+      },
+      "ZIndex": 8,
+      "Blocked": false,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "404.902358911369px",
+        "PositionLeft": "652.9973474801061px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 8,
+      "LayerTitle": null,
+      "interactivities": {
+        "hover": "Ykk-hFhhFtG2u_WxiQ94P"
+      }
+    },
+    {
+      "Id": "982eb44d-5315-4ca0-b7c0-6f0cc1c06a59",
+      "Name": "Area",
+      "Size": {
+        "Width": "189.41551345185852px",
+        "Height": "16.577130086613273px"
+      },
+      "ZIndex": 9,
+      "Blocked": false,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "452.8731811925361px",
+        "PositionLeft": "642.9816374136882px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 9,
+      "LayerTitle": null,
+      "interactivities": {
+        "hover": "MY7uWbqGBu5_KHlPXvDbM"
+      }
+    },
+    {
+      "Id": "835100a5-4a24-444d-a035-e600fa979dff",
+      "Name": "Area",
+      "Size": {
+        "Width": "133.96162864601519px",
+        "Height": "47.02101671305939px"
+      },
+      "ZIndex": 10,
+      "Blocked": false,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "497.3637028866762px",
+        "PositionLeft": "975.1033968084329px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 10,
+      "LayerTitle": null,
+      "interactivities": {
+        "hover": "IE_vcLU2bJQEw8wbJdWep"
+      }
+    },
+    {
+      "Id": "eabfd250-cc9c-4837-b8fb-ee655927e51e",
+      "Name": "Area",
+      "Size": {
+        "Width": "504.4251083797537px",
+        "Height": "28.99735587826968px"
+      },
+      "ZIndex": 7,
+      "Blocked": false,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "295.10707969413306px",
+        "PositionLeft": "640.3863379619056px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 7,
+      "LayerTitle": null,
+      "interactivities": {
+        "hover": "Veu2GeRnL6BDA9AZGKhlt"
+      }
+    },
+    {
+      "Id": "fd072d4c-54e9-4b8e-ad9b-fdde7faf818f",
+      "Name": "Area",
+      "Size": {
+        "Width": "332.8369469606301px",
+        "Height": "24.760983933175403px"
+      },
+      "ZIndex": 8,
+      "Blocked": false,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "332.32627939262096px",
+        "PositionLeft": "764.6380878630167px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 8,
+      "LayerTitle": null,
+      "interactivities": {
+        "hover": "zOU6B8OAbrzGmtAYm86XO"
+      }
+    },
+    {
+      "Id": "fde124cb-4d69-4855-aba1-c7dec664b16f",
+      "Name": "Area",
+      "Size": {
+        "Width": "120.19529231482126px",
+        "Height": "23.928944206201997px"
+      },
+      "ZIndex": 9,
+      "Blocked": false,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "357.0857343284095px",
+        "PositionLeft": "768.8537117332514px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 9,
+      "LayerTitle": null,
+      "interactivities": {
+        "hover": "21Vtoame-jH7Nd7GxFZA7"
+      }
+    },
+    {
+      "Id": "6ac7195a-d318-40d8-8d33-6a50a3d545cc",
+      "Name": "Area",
+      "Size": {
+        "Width": "499.70817939863065px",
+        "Height": "145.31972230134366px"
+      },
+      "ZIndex": 10,
+      "Blocked": false,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "388.6214563002622px",
+        "PositionLeft": "647.0028707119321px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 10,
+      "LayerTitle": null,
+      "interactivities": {
+        "hover": "ED-Q8fNmDTabLch1IqXfY"
+      }
+    },
+    {
+      "Id": "e1426513-4867-41e3-9a1a-dd9e4e4117df",
+      "Name": "Area",
+      "Size": {
+        "Width": "252.92364574013655px",
+        "Height": "23.928944206201997px"
+      },
+      "ZIndex": 11,
+      "Blocked": false,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "545.1623666927379px",
+        "PositionLeft": "640.3863379619056px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 11,
+      "LayerTitle": null,
+      "interactivities": {
+        "hover": "FxRNcF7ljsJtcUs5K4RY2"
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Id": "17061962-4970-48e7-8f24-c5f63e436b71",
+      "Name": "Colocaci...",
+      "Size": {
+        "Width": "611.97274457987px",
+        "Height": "189.75px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 2,
+      "Blocked": false,
+      "Classes": [],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "55px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "154.99898469160448px",
+        "PositionLeft": "50.75227519693067px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 2,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "title_1",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"font-weight: bold;\"><span style=\"color: rgb(36, 36, 36);\">Colocación de recursos externos en la nueva Mediación Virtual</span></div>",
+      "DisplayHtmlAs": "title_1",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "8f00de3a-39e7-4f86-a005-09b0547befd8",
+      "Name": "WATCH",
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 5,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "75312aa4-84bf-442c-be91-58232d9a25c6",
+      "IdSlide": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "20.2727px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "9.834826193103671px",
+        "PositionLeft": "63.00212588025153px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 5,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Schibsted Grotesk",
+      "LayerTitle": "WATCH",
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<font color=\"#ffffff\">Empezar</font>",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "3643631e-bf03-43a3-8c19-505dd39b6a59",
+      "Name": "Hagamos ...",
+      "Size": {
+        "Width": "604.0203760483886px",
+        "Height": "46px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 6,
+      "Blocked": false,
+      "Classes": [],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "20px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "386.7649738945934px",
+        "PositionLeft": "50.75227519693067px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 6,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Inter",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"font-weight: normal; color: rgb(0, 0, 0);   \"><span style=\"\">Hagamos clic en el botón \"Empezar\" para navegar a través del recurso y sus contenidos.</span></div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "a814dff7-38cf-4973-bb91-89aaa66c5ec6",
+      "Name": "WATCH",
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 2,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "77c484e1-e18c-4b20-a7b0-f5a4c9ffb7bb",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "20.2727px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "9.834826193103671px",
+        "PositionLeft": "63.00212588025153px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 2,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Schibsted Grotesk",
+      "LayerTitle": "WATCH",
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "7b07465c-d6aa-4917-af3f-4b31b268881a",
+      "Name": "Anterior",
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 5,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "44e1cc15-9086-4a26-b844-ca8a4ddb73bb",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "20.2287px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "9.815172095682973px",
+        "PositionLeft": "76.93760488619239px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 5,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Schibsted Grotesk",
+      "LayerTitle": null,
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Anterior</span>",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "9aa1f981-e0c5-47e5-9d06-bfd961201de1",
+      "Name": "ASISTENTES",
+      "Size": {
+        "Width": "606.6305086898701px",
+        "Height": "41.56px"
+      },
+      "Color": "rgba(36, 36, 36, 1)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 9,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0.2",
+      "IdGroup": "42e26364-692d-417a-a449-33dc2e971333",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "fade-in-right",
+      "FontSize": "37.7896px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "19.15761271154288px",
+        "PositionLeft": "105.93777218795333px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 9,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "title_2",
+      "DurationIn": "vel1",
+      "FontFamily": "Roboto",
+      "LayerTitle": "ASISTENTES",
+      "LineHeight": "1.1",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"\">URL</div>",
+      "DisplayHtmlAs": "title_2",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "3f9b2c93-dc3a-427f-9aa2-893b4009f30a",
+      "Name": "objetivos de la reunión",
+      "Size": {
+        "Width": "608.2245862368708px",
+        "Height": "41.56px"
+      },
+      "Color": "rgba(36, 36, 36, 1)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 11,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0.2",
+      "IdGroup": "557ecb8c-c774-4f78-a731-ef5005c68a9d",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "fade-in-right",
+      "FontSize": "37.7896px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "19.157612711542786px",
+        "PositionLeft": "105.93777218795321px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 11,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "title_2",
+      "DurationIn": "vel1",
+      "FontFamily": "Roboto",
+      "LayerTitle": "objetivos de la reunión",
+      "LineHeight": "1.1",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"\">HTLM</div>",
+      "DisplayHtmlAs": "title_2",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "930701db-384c-491b-8757-a3f60738c8c4",
+      "Name": "Menú",
+      "Size": {
+        "Width": "196.29971739790733px",
+        "Height": "55px"
+      },
+      "Color": "rgba(36, 36, 36, 1)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 13,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left",
+        "uppercase"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "fade-in-right",
+      "FontSize": "50px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "142.56103657192182px",
+        "PositionLeft": "68.46410926639199px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 13,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "title_1",
+      "DurationIn": "vel1",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.1",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"\"><span style=\"font-weight: 700;\">Menú</span></div>",
+      "DisplayHtmlAs": "title_1",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "d643fd4e-f228-4eb7-b542-c885ae4b4176",
+      "Name": "HTML",
+      "Size": {
+        "Width": "456.15431147534747px",
+        "Height": "41.39px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 1,
+      "Blocked": false,
+      "Classes": [],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "36px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "115.63858340761445px",
+        "PositionLeft": "65.98483604624249px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 1,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "title_1",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);   \">HTML</div>",
+      "DisplayHtmlAs": "title_1",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "2c907e96-39fa-488d-8357-5d20eaabc896",
+      "Name": "WATCH",
+      "Size": {
+        "Width": "109.32384701184098px",
+        "Height": "26.95px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 3,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "f9956f48-2e6f-47cd-9cfd-3cdafe3150fb",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "20.2727px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "9.834826193103671px",
+        "PositionLeft": "63.00212588025153px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 3,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Schibsted Grotesk",
+      "LayerTitle": "WATCH",
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Siguiente</span>",
+      "LetterSpacing": "0.44071",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "c42933bf-fff7-4182-bfa7-df34bd04d16a",
+      "Name": "Anterior",
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 6,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "f17869b5-319b-45ba-901f-5ab69c6ee832",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "20.2287px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "9.815172095682973px",
+        "PositionLeft": "76.93760488619239px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 6,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Schibsted Grotesk",
+      "LayerTitle": null,
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Anterior</span>",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "d1c45698-0c75-41e4-9a1e-95d7626cb883",
+      "Name": "El HTML ...",
+      "Size": {
+        "Width": "467.3892488544949px",
+        "Height": "252.97px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 8,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "222.43241252673735px",
+        "PositionLeft": "65.98483604624248px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 8,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\">El HTML es un lenguaje de programación que se utiliza para crear y estructurar páginas web.</div><div style=\"color: rgb(0, 0, 0);\"><br></div><div style=\"color: rgb(0, 0, 0);\">En el caso de Mediación Virtual, se incluye la herramienta<span style=\"font-weight: bold;\"> HTML dentro de las Etiquetas y editores de texto</span> para incluir recursos.</div><div style=\"color: rgb(0, 0, 0);\"><br></div><div style=\"color: rgb(0, 0, 0);\">Haga clic en cada tipo de recursos para observar cómo se muestra en la plataforma.</div><div style=\"color: rgb(0, 0, 0);\"><br></div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "3ff52ce5-3eed-4774-bdcf-00665166a4bf",
+      "Name": "Presenta...",
+      "Size": {
+        "Width": "212.57178898671887px",
+        "Height": "36.78px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 11,
+      "Blocked": false,
+      "Classes": [
+        "text-align-center"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "6daea248-05aa-462e-9165-988aef05ca80",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "27.6599px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "13.28687934509642px",
+        "PositionLeft": "21.187734254178537px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 11,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255); font-weight: bold;\">Presentaciones</span>",
+      "LetterSpacing": "0.6013",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "40ce1af8-d1bc-432d-b1cd-8b8a87d9e4e8",
+      "Name": "Vídeos",
+      "Size": {
+        "Width": "212.57178898671887px",
+        "Height": "36.78px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 12,
+      "Blocked": false,
+      "Classes": [
+        "text-align-center"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "4f27f7f6-b1cd-400e-beba-cc54b477bcf7",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "27.6599px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "13.28687934509642px",
+        "PositionLeft": "21.187734254178537px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 12,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255); font-weight: bold;\">Vídeos</span>",
+      "LetterSpacing": "0.6013",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "0a9ca724-31f3-460f-ab07-0197b95e315b",
+      "Name": "URL",
+      "Size": {
+        "Width": "456.15431147534747px",
+        "Height": "41.39px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 1,
+      "Blocked": false,
+      "Classes": [],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "36px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "115.63858340761445px",
+        "PositionLeft": "65.98483604624249px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 1,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "title_1",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);   \">URL</div>",
+      "DisplayHtmlAs": "title_1",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "e5c025b9-c41d-4682-9d37-3796e7c5ca69",
+      "Name": "Inicio",
+      "Size": {
+        "Width": "93.86982426372924px",
+        "Height": "26.48px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 3,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "9db30ab5-c706-47b9-afab-09566fee6e83",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "19.9195px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "9.665167442281614px",
+        "PositionLeft": "71.2648881355901px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 3,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Schibsted Grotesk",
+      "LayerTitle": null,
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Inicio</span>",
+      "LetterSpacing": "0.43303",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "9ff5188e-dd27-4dd6-a898-380290dc7afe",
+      "Name": "Anterior",
+      "Size": {
+        "Width": "95.32669612214401px",
+        "Height": "26.91px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 6,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "bbfe7386-8866-4be7-af9d-8605df8a0622",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "20.2287px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "9.815172095682973px",
+        "PositionLeft": "76.93760488619239px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 6,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Schibsted Grotesk",
+      "LayerTitle": null,
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Anterior</span>",
+      "LetterSpacing": "0.43975",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "9f22c266-4016-48e8-9c26-23a58c06c19d",
+      "Name": "Una URL ...",
+      "Size": {
+        "Width": "467.3892488544949px",
+        "Height": "303.56px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 8,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "222.43241252673735px",
+        "PositionLeft": "65.98483604624248px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 8,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\">Una URL es una dirección única que identifica un recurso en internet, como una página web, imagen o archivo de audio.</div><div style=\"color: rgb(0, 0, 0);\"><br></div><div style=\"color: rgb(0, 0, 0);\">En el caso de Mediación Virtual, se incluye en la herramienta URL como recurso o directamente en el editor de texto sobre el contenido como enlace.</div><div style=\"color: rgb(0, 0, 0);\"><br></div><div style=\"color: rgb(0, 0, 0);\">Haga clic en cada tipo de recursos para observar cómo se muestra en la plataforma.</div><div style=\"color: rgb(0, 0, 0);\"><br></div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "e33ea6b1-c74b-4130-90dc-c7612f737f73",
+      "Name": "Enlace",
+      "Size": {
+        "Width": "212.57178898671887px",
+        "Height": "36.78px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 11,
+      "Blocked": false,
+      "Classes": [
+        "text-align-center"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "44121060-8c02-481c-ad7d-66b6ad26e101",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "27.6599px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "13.28687934509642px",
+        "PositionLeft": "21.187734254178537px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 11,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255); font-weight: bold;\">Enlace</span>",
+      "LetterSpacing": "0.6013",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "5fcdee5a-a3d8-432d-a214-131dfd4fbece",
+      "Name": "URL",
+      "Size": {
+        "Width": "212.57178898671887px",
+        "Height": "36.78px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 12,
+      "Blocked": false,
+      "Classes": [
+        "text-align-center"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "23dab181-cefb-48dd-b204-892c658dc074",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "27.6599px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "13.28687934509642px",
+        "PositionLeft": "21.187734254178537px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 12,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255); font-weight: bold;\">URL</span>",
+      "LetterSpacing": "0.6013",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "ca9608c9-f356-4f09-828d-955906b73187",
+      "Name": "Inicio",
+      "Size": {
+        "Width": "107.3147293394675px",
+        "Height": "30.58px"
+      },
+      "Color": "rgb(116,116,116)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 3,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": "56eedc38-f8b4-4cf7-8214-ebfb3d00fb68",
+      "IdSlide": "14fa80cd-9c4f-4c39-875b-618c4e0f7eb4",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "23px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "11.056378176216924px",
+        "PositionLeft": "90.4779992255825px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 3,
+      "EffectOut": "none",
+      "Background": "",
+      "DurationIn": "vel3",
+      "FontFamily": "Schibsted Grotesk",
+      "LayerTitle": null,
+      "LineHeight": "1.33",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<span style=\"color: rgb(255, 255, 255);\">Inicio</span>",
+      "LetterSpacing": "0.5",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "99a113a4-818d-4170-b5e4-bf256ed9f333",
+      "Name": "Vídeos",
+      "Size": {
+        "Width": "504px",
+        "Height": "41.39px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 3,
+      "Blocked": false,
+      "Classes": [],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "121e0f84-933a-44f1-895c-d10d59d934c1",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "36px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "94.26047745358093px",
+        "PositionLeft": "79.43236074270555px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 3,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "subtitle",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">Vídeos</span></div>",
+      "DisplayHtmlAs": "subtitle",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "7ae0f8b9-45ea-4668-af2e-a85231d82dcf",
+      "Name": "¿Cómo se...",
+      "Size": {
+        "Width": "414.5349170255958px",
+        "Height": "50.59px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 4,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "121e0f84-933a-44f1-895c-d10d59d934c1",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "181.9925729442971px",
+        "PositionLeft": "79.43236074270555px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 4,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">¿Cómo se ve una presentación de Genially con HTML en Mediación Virtual?</span></div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "b20a2c97-13d9-443b-bc0b-e83087109efa",
+      "Name": "¿Cómo se...",
+      "Size": {
+        "Width": "437.7948831636445px",
+        "Height": "75.89px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 5,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "121e0f84-933a-44f1-895c-d10d59d934c1",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "181.9925729442971px",
+        "PositionLeft": "642.0888367632218px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 5,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">¿Cómo se hace?</span></div><div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\"><br></span></div><div style=\"color: rgb(0, 0, 0);\">Hagamos clic en el vídeo para ver los pasos</div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "44b6a8cb-e773-46b3-ba86-a8c88c573989",
+      "Name": "Enlace",
+      "Size": {
+        "Width": "504px",
+        "Height": "41.39px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 2,
+      "Blocked": false,
+      "Classes": [],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "36px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "94.26047745358093px",
+        "PositionLeft": "79.43236074270555px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 2,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "subtitle",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">Enlace</span></div>",
+      "DisplayHtmlAs": "subtitle",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "2abb0c94-5f4a-4a2b-9d38-0a0ef83ad6db",
+      "Name": "¿Cómo se...",
+      "Size": {
+        "Width": "414.5349170255958px",
+        "Height": "50.59px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 3,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "181.9925729442971px",
+        "PositionLeft": "79.43236074270555px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 3,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">¿Cómo se ve un Enlace en el Editor de Texto dentro Mediación Virtual?</span></div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "e4880959-55a6-468f-a2a6-212e2bea12af",
+      "Name": "¿Cómo se...",
+      "Size": {
+        "Width": "437.7948831636445px",
+        "Height": "75.89px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 4,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "181.9925729442971px",
+        "PositionLeft": "642.0888367632218px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 4,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">¿Cómo se hace?</span></div><div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\"><br></span></div><div style=\"color: rgb(0, 0, 0);\">Coloquemos el cursor sobre cada opción:</div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "1897d7ba-0c70-4d82-bc84-4dbf23bbdbf5",
+      "Name": "URL",
+      "Size": {
+        "Width": "504px",
+        "Height": "41.39px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 3,
+      "Blocked": false,
+      "Classes": [],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "36px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "94.26047745358093px",
+        "PositionLeft": "79.43236074270555px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 3,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "subtitle",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">URL</span></div>",
+      "DisplayHtmlAs": "subtitle",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "fb0e0230-7771-4f8e-978f-0dc3f9d23cc7",
+      "Name": "¿Cómo se...",
+      "Size": {
+        "Width": "414.5349170255958px",
+        "Height": "50.59px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 4,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "181.9925729442971px",
+        "PositionLeft": "79.43236074270555px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 4,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">¿Cómo se ve un URL en la página principal del curso?</span></div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "5adc404a-63aa-43da-87ae-5f173d7d4600",
+      "Name": "¿Cómo se...",
+      "Size": {
+        "Width": "459.28224121535555px",
+        "Height": "75.89px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 5,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "181.9925729442971px",
+        "PositionLeft": "642.0888367632218px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 5,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">¿Cómo se hace?</span></div><div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\"><br></span></div><div style=\"color: rgb(0, 0, 0);\">Hagamos clic sobre cada configuración:</div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "b4e26b3d-857b-45d3-a15f-e57262d9bff6",
+      "Name": "Vídeos",
+      "Size": {
+        "Width": "504px",
+        "Height": "41.39px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 3,
+      "Blocked": false,
+      "Classes": [],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "36px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "94.26047745358093px",
+        "PositionLeft": "79.43236074270555px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 3,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "subtitle",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">Vídeos</span></div>",
+      "DisplayHtmlAs": "subtitle",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "609ca7b0-2450-430b-9197-d864d8718a1b",
+      "Name": "¿Cómo se...",
+      "Size": {
+        "Width": "414.5349170255958px",
+        "Height": "50.59px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 4,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "181.9925729442971px",
+        "PositionLeft": "79.43236074270555px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 4,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">¿Cómo se ve el vídeo insertado con HTML en Mediación Virtual?</span></div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    },
+    {
+      "Id": "594a622c-f727-49a3-af49-7af4d2355570",
+      "Name": "¿Cómo se...",
+      "Size": {
+        "Width": "459.28224121535555px",
+        "Height": "75.89px"
+      },
+      "Color": "rgb(0, 0, 0)",
+      "Effect": "none",
+      "Shadow": "",
+      "ZIndex": 5,
+      "Blocked": false,
+      "Classes": [
+        "text-align-left"
+      ],
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4",
+      "Opacity": "1",
+      "Padding": "0px",
+      "Version": 6,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "FontSize": "22px",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "181.9925729442971px",
+        "PositionLeft": "642.0888367632218px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 5,
+      "EffectOut": "none",
+      "Background": "",
+      "BrandStyle": "content",
+      "DurationIn": "vel3",
+      "FontFamily": "Roboto",
+      "LayerTitle": null,
+      "LineHeight": "1.15",
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\">¿Cómo se hace?</span></div><div style=\"color: rgb(0, 0, 0);\"><span style=\"font-weight: bold;\"><br></span></div><div style=\"color: rgb(0, 0, 0);\">Hagamos clic en el vídeo para ver los pasos</div>",
+      "DisplayHtmlAs": "content",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "interactivities": {}
+    }
+  ],
+  "fixes": [
+    "ORPHAN_ITEMS",
+    "CLEAN_HTML_INTERACTIVITIES",
+    "AUDIOS_BASE64_23_11_22",
+    "BACKGROUND_AUDIOS_25_01_2023",
+    "THUMBNAILS_OF_WIDGET_VIDEO",
+    "LAYER_TITLE_NAME",
+    "URLS_OF_WIDGET_VIDEO"
+  ],
+  "Arrows": [],
+  "Audios": [],
+  "Charts": [],
+  "Groups": [
+    {
+      "Id": "75312aa4-84bf-442c-be91-58232d9a25c6",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Effect": "none",
+      "ZIndex": 4,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "462.2540456881944px",
+        "PositionLeft": "50.75227519693067px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 4,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "2BV2ZGkPQSPozFfxf9ul1"
+      }
+    },
+    {
+      "Id": "77c484e1-e18c-4b20-a7b0-f5a4c9ffb7bb",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Effect": "none",
+      "ZIndex": 7,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "588.4172389788367px",
+        "PositionLeft": "967.4982909567553px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 7,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "jfcJRBNkb9TqHWyRukwrS"
+      }
+    },
+    {
+      "Id": "44e1cc15-9086-4a26-b844-ca8a4ddb73bb",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Effect": "none",
+      "ZIndex": 8,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "588.5166512858599px",
+        "PositionLeft": "80.06713527751909px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 8,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "hvr-float",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "oct_iMF-fS3zcHRkdulei"
+      }
+    },
+    {
+      "Id": "557ecb8c-c774-4f78-a731-ef5005c68a9d",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "714.162358424824px",
+        "Height": "79.2539714434585px"
+      },
+      "Effect": "none",
+      "ZIndex": 14,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "256.1189871692704px",
+        "PositionLeft": "80.06713527751909px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 14,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "gLwh5dkEGwI-aqri_rNwY"
+      }
+    },
+    {
+      "Id": "42e26364-692d-417a-a449-33dc2e971333",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "712.5682808778233px",
+        "Height": "79.25397144345855px"
+      },
+      "Effect": "none",
+      "ZIndex": 15,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "372.55777208253113px",
+        "PositionLeft": "80.06713527751909px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 15,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "XGrdfkGb4A2Ohafui6nRV"
+      }
+    },
+    {
+      "Id": "f9956f48-2e6f-47cd-9cfd-3cdafe3150fb",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "185.09816416514286px",
+        "Height": "45.8338311266068px"
+      },
+      "Effect": "none",
+      "ZIndex": 13,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "588.4172389788367px",
+        "PositionLeft": "967.4982909567553px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 13,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "MA0w1ASTQMj3y_I_v1ogG"
+      }
+    },
+    {
+      "Id": "f17869b5-319b-45ba-901f-5ab69c6ee832",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Effect": "none",
+      "ZIndex": 14,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "588.5166512858599px",
+        "PositionLeft": "80.06713527751909px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 14,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "hvr-float",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "41H0HnrBtfAVoIgBaaZ2M"
+      }
+    },
+    {
+      "Id": "4f27f7f6-b1cd-400e-beba-cc54b477bcf7",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "252.54658401995246px",
+        "Height": "62.53534461446442px"
+      },
+      "Effect": "none",
+      "ZIndex": 15,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "232.90945496705564px",
+        "PositionLeft": "725.9681697612732px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 15,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "hvr-float",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "FARG14XY7xVH4hEsFEk1b"
+      }
+    },
+    {
+      "Id": "6daea248-05aa-462e-9165-988aef05ca80",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "252.54658401995246px",
+        "Height": "62.53534461446442px"
+      },
+      "Effect": "none",
+      "ZIndex": 16,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "348.91741252673734px",
+        "PositionLeft": "725.9681697612732px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 16,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "hvr-float",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "BHLP5eqHnt588hGxlVH05"
+      }
+    },
+    {
+      "Id": "bbfe7386-8866-4be7-af9d-8605df8a0622",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "184.69669138678023px",
+        "Height": "45.734418819583645px"
+      },
+      "Effect": "none",
+      "ZIndex": 13,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "588.5166512858599px",
+        "PositionLeft": "80.06713527751909px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 13,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "hvr-float",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "aUwN5kJJ0jfMEebF0LmId"
+      }
+    },
+    {
+      "Id": "23dab181-cefb-48dd-b204-892c658dc074",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "252.54658401995246px",
+        "Height": "62.53534461446442px"
+      },
+      "Effect": "none",
+      "ZIndex": 14,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "232.90945496705564px",
+        "PositionLeft": "725.9681697612732px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 14,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "hvr-float",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "KN7Z5dxgIn3tBzGyKFGw_"
+      }
+    },
+    {
+      "Id": "44121060-8c02-481c-ad7d-66b6ad26e101",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "252.54658401995246px",
+        "Height": "62.53534461446442px"
+      },
+      "Effect": "none",
+      "ZIndex": 15,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "348.91741252673734px",
+        "PositionLeft": "725.9681697612732px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 15,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "hvr-float",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "NvZesMByHlrSmdHWHfz29"
+      }
+    },
+    {
+      "Id": "9db30ab5-c706-47b9-afab-09566fee6e83",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "181.87398355183174px",
+        "Height": "45.03546259378691px"
+      },
+      "Effect": "none",
+      "ZIndex": 16,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "589.2157511430067px",
+        "PositionLeft": "953.9479539195066px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 16,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "hvr-float",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "OoI_FYYlUNOaOSGS49Bbq"
+      }
+    },
+    {
+      "Id": "56eedc38-f8b4-4cf7-8214-ebfb3d00fb68",
+      "Name": "Grupo",
+      "Size": {
+        "Width": "210.0000000000001px",
+        "Height": "52px"
+      },
+      "Effect": "none",
+      "ZIndex": 5,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdSlide": "14fa80cd-9c4f-4c39-875b-618c4e0f7eb4",
+      "Opacity": "1",
+      "Category": "buttons_with_text",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "393.25775480059076px",
+        "PositionLeft": "483.0354505169867px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 5,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "hvr-float",
+      "IsDraggable": false,
+      "interactivities": {}
+    }
+  ],
+  "Images": [
+    {
+      "Id": "ec28bcc5-faf3-45b1-9881-f75389b20dad",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "1198.8665398560127px",
+        "Height": "674.3624286690072px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/b0dbe108-13ef-44a3-a520-dce9ed03205c.png",
+      "ZIndex": 1,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "2.842170943040401e-14px",
+        "PositionLeft": "0px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 1,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "2fc92a5e-273e-4db4-abf3-42b46726aea9",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "77.11796949599436px",
+        "Height": "32.92993587967642px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/946d53be-8996-462a-83ae-9eaba77133d3.png",
+      "ZIndex": 8,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "584.2450022469799px",
+        "PositionLeft": "1043.9506664082344px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 8,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "5a52b28f-e8c6-4744-919f-f6792b6d059d",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "1207.043060899985px",
+        "Height": "694.6191199518781px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/905e1af0-2c27-4f4b-a447-7bd9e8c1b9ad.png",
+      "ZIndex": 1,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "14fa80cd-9c4f-4c39-875b-618c4e0f7eb4",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "-9.80955997593905px",
+        "PositionLeft": "-5.684341886080802e-14px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 1,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "d63c5434-ec85-4da4-b5bb-944226a5db1b",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "478.42971948669026px",
+        "Height": "337.51478876774104px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0.843664198078581,
+        "left": 0,
+        "right": 0,
+        "bottom": -0.7477780035377105
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/3016e74c-1aac-4e46-b5cf-3ca22258818a.png",
+      "ZIndex": 2,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "121e0f84-933a-44f1-895c-d10d59d934c1",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "248.3045028046815px",
+        "PositionLeft": "74.06100795755967px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 2,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "3d26eab8-e791-480c-b446-b678a37ee412",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "487px",
+        "Height": "263px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/f628602c-4107-477e-838b-57c67bcc6c95.png",
+      "ZIndex": 5,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "287.0702917771883px",
+        "PositionLeft": "642.9816374136882px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 5,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "5672cd49-4249-4554-880e-f07f59af4126",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "168.50928381962856px",
+        "Height": "89.52254641909815px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": -194.89777777777778,
+        "left": -190.19172648281076,
+        "right": 0,
+        "bottom": 0
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/0c9e0b95-cef7-45fd-9508-16e7d9a2bb22.png",
+      "ZIndex": 7,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "461.54774535809014px",
+        "PositionLeft": "950.7414321927905px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 7,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "36d28e0c-05a4-4816-8864-225b67d8635b",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "546.0785358811881px",
+        "Height": "211.0685576889087px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9ac26854-dbf5-4bfe-9946-fea6ecd5fa88.png",
+      "ZIndex": 11,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "244.82080588919024px",
+        "PositionLeft": "79.43236074270555px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 11,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "d8efe13b-adff-47dc-9abc-062e04f8bcad",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "162.9115468000127px",
+        "Height": "162.9115468000127px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9c73d6d4-8ba0-4a36-9bbe-b89a2a0fca8c.png",
+      "ZIndex": 12,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "349.1506871016366px",
+        "PositionLeft": "364.56631299734744px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(90deg)"
+      },
+      "BigZIndex": 12,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "d4cd9993-4d82-4a45-9f7e-f7bde9fd592e",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "464.92954105449024px",
+        "Height": "298.1960985112908px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": -0.4940978452107385,
+        "left": -45.848560705315045,
+        "right": 0,
+        "bottom": -0.4940978452107385
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/004735b2-6eb7-4ef9-b2bf-2abcb5a191a5.png",
+      "ZIndex": 2,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "246.96626818144702px",
+        "PositionLeft": "85.76484964357329px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 2,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "0d6b3534-3ae8-4466-b37a-85e2e06b06c2",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "517.649538610774px",
+        "Height": "306.368303428341px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": -29.243622258690138
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/4253d1e9-e83d-4de6-a981-b197073fb387.png",
+      "ZIndex": 6,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "269.789913945265px",
+        "PositionLeft": "631.6012756526798px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 6,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "c871ff77-534b-4a13-bf6e-a7634a5cb355",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "118.14680255106519px",
+        "Height": "118.14680255106519px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9c73d6d4-8ba0-4a36-9bbe-b89a2a0fca8c.png",
+      "ZIndex": 13,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "450.94450834787466px",
+        "PositionLeft": "266.5391678701808px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 13,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    },
+    {
+      "Id": "c1bacc4a-6346-4b48-b5aa-5dc3850f398f",
+      "Name": "Imagen",
+      "Size": {
+        "Width": "478.42971948669026px",
+        "Height": "264.10630070408064px"
+      },
+      "Frame": "none",
+      "Effect": "none",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": -30.611029682114395,
+        "bottom": 0
+      },
+      "Source": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/e1fc0585-7399-4d2a-a40a-b26c1169f1ca.png",
+      "ZIndex": 2,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4",
+      "Opacity": "1",
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "287.69442322908463px",
+        "PositionLeft": "74.06100795755967px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 2,
+      "EffectOut": "none",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "IsDraggable": false,
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "interactivities": {}
+    }
+  ],
+  "Slides": [
+    {
+      "Id": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+      "Name": "Portada",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Order": 1,
+      "Popup": false,
+      "Guides": [],
+      "Hidden": false,
+      "scripts": [],
+      "BigOrder": "2",
+      "Password": null,
+      "Background": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9ce4ccca-0a74-4a04-ae00-b48042681224.png",
+      "Transition": "17",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "TimePagination": null,
+      "BackgroundColor": "transparent",
+      "OpacityBackground": "1",
+      "PasswordPageConfig": {
+        "title": null,
+        "baseColor": "#FFFFFF",
+        "backgroundColor": "rgb(0, 15, 51)",
+        "passwordPlaceholder": null
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      }
+    },
+    {
+      "Id": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+      "Name": "Menú",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Order": 2,
+      "Popup": false,
+      "Guides": [],
+      "Hidden": false,
+      "scripts": [],
+      "BigOrder": "2.25",
+      "Password": null,
+      "Background": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9ce4ccca-0a74-4a04-ae00-b48042681224.png",
+      "Transition": "17",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "TimePagination": null,
+      "BackgroundColor": "transparent",
+      "OpacityBackground": "1",
+      "PasswordPageConfig": {
+        "title": null,
+        "baseColor": "#FFFFFF",
+        "backgroundColor": "rgb(0, 15, 51)",
+        "passwordPlaceholder": null
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      }
+    },
+    {
+      "Id": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+      "Name": "Configuración ",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Order": 3,
+      "Popup": false,
+      "Guides": [],
+      "Hidden": false,
+      "scripts": [],
+      "BigOrder": "2.5",
+      "Password": null,
+      "Background": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9ce4ccca-0a74-4a04-ae00-b48042681224.png",
+      "Transition": "17",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "TimePagination": null,
+      "BackgroundColor": "transparent",
+      "OpacityBackground": "1",
+      "PasswordPageConfig": {
+        "title": null,
+        "baseColor": "#FFFFFF",
+        "backgroundColor": "rgb(0, 15, 51)",
+        "passwordPlaceholder": null
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      }
+    },
+    {
+      "Id": "824788dc-e036-46f6-9633-ddf6cabdd711",
+      "Name": "Configuración  Copia",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Order": 4,
+      "Popup": false,
+      "Guides": [],
+      "Hidden": false,
+      "scripts": [],
+      "BigOrder": "7.625",
+      "Password": null,
+      "Background": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9ce4ccca-0a74-4a04-ae00-b48042681224.png",
+      "Transition": "17",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "TimePagination": null,
+      "BackgroundColor": "transparent",
+      "OpacityBackground": "1",
+      "PasswordPageConfig": {
+        "title": null,
+        "baseColor": "#FFFFFF",
+        "backgroundColor": "rgb(0, 15, 51)",
+        "passwordPlaceholder": null
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      }
+    },
+    {
+      "Id": "14fa80cd-9c4f-4c39-875b-618c4e0f7eb4",
+      "Name": "2 Copia",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Order": 5,
+      "Popup": false,
+      "Guides": [],
+      "Hidden": false,
+      "scripts": [],
+      "BigOrder": "12.75",
+      "Password": null,
+      "Background": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9ce4ccca-0a74-4a04-ae00-b48042681224.png",
+      "Transition": "17",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "TimePagination": null,
+      "BackgroundColor": "transparent",
+      "OpacityBackground": "1",
+      "PasswordPageConfig": {
+        "title": null,
+        "baseColor": "#FFFFFF",
+        "backgroundColor": "rgb(0, 15, 51)",
+        "passwordPlaceholder": null
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      }
+    },
+    {
+      "Id": "121e0f84-933a-44f1-895c-d10d59d934c1",
+      "Name": " Copia",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Order": 6,
+      "Popup": true,
+      "Guides": [],
+      "Hidden": false,
+      "scripts": [],
+      "BigOrder": "9007199254740991",
+      "Password": null,
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "Transition": "17",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "TimePagination": null,
+      "BackgroundColor": "transparent",
+      "OpacityBackground": "1",
+      "PasswordPageConfig": {
+        "title": null,
+        "baseColor": "#FFFFFF",
+        "backgroundColor": "rgb(0, 15, 51)",
+        "passwordPlaceholder": null
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      }
+    },
+    {
+      "Id": "963a04f5-457e-4042-9794-032990ec5e0e",
+      "Name": " Copia Copia",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Order": 7,
+      "Popup": true,
+      "Guides": [],
+      "Hidden": false,
+      "scripts": [],
+      "BigOrder": "9007199254740991",
+      "Password": null,
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "Transition": "17",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "TimePagination": null,
+      "BackgroundColor": "transparent",
+      "OpacityBackground": "1",
+      "PasswordPageConfig": {
+        "title": null,
+        "baseColor": "#FFFFFF",
+        "backgroundColor": "rgb(0, 15, 51)",
+        "passwordPlaceholder": null
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      }
+    },
+    {
+      "Id": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+      "Name": " Copia",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Order": 8,
+      "Popup": true,
+      "Guides": [],
+      "Hidden": false,
+      "scripts": [],
+      "BigOrder": "9007199254740991",
+      "Password": null,
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "Transition": "17",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "TimePagination": null,
+      "BackgroundColor": "transparent",
+      "OpacityBackground": "1",
+      "PasswordPageConfig": {
+        "title": null,
+        "baseColor": "#FFFFFF",
+        "backgroundColor": "rgb(0, 15, 51)",
+        "passwordPlaceholder": null
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      }
+    },
+    {
+      "Id": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4",
+      "Name": "",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "Order": 9,
+      "Popup": true,
+      "Guides": [],
+      "Hidden": false,
+      "scripts": [],
+      "BigOrder": "9007199254740991",
+      "Password": null,
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "Transition": "17",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "TimePagination": null,
+      "BackgroundColor": "transparent",
+      "OpacityBackground": "1",
+      "PasswordPageConfig": {
+        "title": null,
+        "baseColor": "#FFFFFF",
+        "backgroundColor": "rgb(0, 15, 51)",
+        "passwordPlaceholder": null
+      },
+      "PositionBackground": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      }
+    }
+  ],
+  "Videos": [
+    {
+      "Id": "799af2d1-3560-49d3-b3da-d1c3b82759fa",
+      "Loop": false,
+      "Mute": false,
+      "Name": "Vídeo",
+      "Size": {
+        "Width": "500px",
+        "Height": "296px"
+      },
+      "Effect": "none",
+      "Source": "https://youtu.be/8tnd10y5Yv8",
+      "ZIndex": 6,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "121e0f84-933a-44f1-895c-d10d59d934c1",
+      "Opacity": "1",
+      "AutoPlay": false,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "287.69442322908463px",
+        "PositionLeft": "642.0888367632218px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 6,
+      "EffectOut": "none",
+      "Thumbnail": "https://img.youtube.com/vi/8tnd10y5Yv8/maxresdefault.jpg",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "InitialTime": 0,
+      "UploadedFrom": "url",
+      "DisplayPlayer": true
+    },
+    {
+      "Id": "2df23c22-133b-4b04-a8cf-66f2faa41b91",
+      "Loop": false,
+      "Mute": false,
+      "Name": "Vídeo",
+      "Size": {
+        "Width": "500px",
+        "Height": "296px"
+      },
+      "Effect": "none",
+      "Source": "https://youtu.be/nS7OEJiQp7w",
+      "ZIndex": 6,
+      "Blocked": false,
+      "DelayIn": "0",
+      "IdGroup": null,
+      "IdSlide": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4",
+      "Opacity": "1",
+      "AutoPlay": false,
+      "DelayOut": "0",
+      "EffectIn": "none",
+      "IsHidden": false,
+      "Position": {
+        "PositionTop": "287.69442322908463px",
+        "PositionLeft": "642.0888367632218px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "BigZIndex": 6,
+      "EffectOut": "none",
+      "Thumbnail": "https://img.youtube.com/vi/nS7OEJiQp7w/maxresdefault.jpg",
+      "DurationIn": "vel3",
+      "LayerTitle": null,
+      "clickProps": {},
+      "hoverProps": {},
+      "DurationOut": "vel3",
+      "EffectClick": "none",
+      "EffectHover": "none",
+      "InitialTime": 0,
+      "UploadedFrom": "url",
+      "DisplayPlayer": true
+    }
+  ],
+  "config": {
+    "grid": {
+      "row": {
+        "gap": 40,
+        "count": 1
+      },
+      "color": "#30DFE6",
+      "column": {
+        "gap": 40,
+        "count": 3
+      },
+      "margin": {
+        "top": 60,
+        "left": 60,
+        "right": 60,
+        "bottom": 60
+      },
+      "isEdited": false
+    },
+    "guidesColor": "#6c29ff"
+  },
+  "Scripts": [],
+  "svgRefs": {
+    "svg/SourceSvg;8nLNGzWaPxfjfA07BSyfv/M9P8GQLxIkHBiR+RS3T7Y=": "<svg xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" width=\"100%\" height=\"100%\" xml:space=\"preserve\" preserveAspectRatio=\"none\" overflow=\"hidden\"><rect  class=\"color1\" style=\"fill:#696B74;\" width=\"100%\" height=\"100%\"></rect></svg>",
+    "svg/SourceSvg;FqnY9wh0rq08cQXZEYjHmMud7iDD5bcF1i+WCmzoYZc=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 437.5 437.5\">\n\t<circle class=\"color1 circle-rarrow\" cx=\"218.75\" cy=\"218.75\" r=\"175\"/>\n\t<path class=\"color2\" style=\"fill:#ffffff; pointer-events:none;\" d=\"M224.49,285l66.26-66.26-66.26-66.26a11.61,11.61,0,0,0-16.42,16.41l.06.07,38.18,38.18h-88a11.6,11.6,0,0,0,0,23.2h88l-38.18,38.18a11.6,11.6,0,0,0-.06,16.41l.06.07A11.6,11.6,0,0,0,224.49,285Z\"/>\n</svg>\n\n<style>\n\n.circle-rarrow {\n  fill:#525FFF;\n  transform-origin: 50% 50%;\n  transition: transform 0.4s cubic-bezier(.4,0,.2,1);\n}\n\n.circle-rarrow:hover {\n  transform:scale(1.25);\n  transform-origin: 50% 50%;\n  transition: transform 0.4s cubic-bezier(.4,0,.2,1);\n}\n\n.circle-rarrow:active {\n  transform:scale(0.9);\n  transform-origin: 50% 50%;\n  transition: all 0.1s;\n}\n\n</style>",
+    "svg/SourceSvg;Gh1nPEBWnFuh2dUs1Xi1SHrD+TMkLwsaEcReslrCLPc=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 19.28 17.5\">\n  <g class=\"color1\" style=\"fill:#232323\">\n    <path d=\"m18.73,7.21L10.19.35c-.32-.26-.78-.26-1.09,0L.54,7.21c-.38.3-.44.85-.14,1.23s.85.44,1.23.14l.94-.75v8.65c0,.48.39.88.88.88h12.38c.48,0,.88-.39.88-.88V7.82l.93.75c.16.13.35.19.55.19.26,0,.51-.11.68-.33.3-.38.24-.93-.14-1.23Zm-3.78,8.39H4.33V6.41l5.31-4.26,5.31,4.26v9.18Z\"/>\n  </g>\n</svg>",
+    "svg/SourceSvg;T4K52Tb7WIEB1mqdhqMiMW/30cWFzQMzGIw4k13NnSY=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 45.7 37.6\">\n  <g class=\"color1\" style=\"fill:#232323\">\n<path d=\"M45.22,13.43l-1.56-1V2a1,1,0,0,0-1-1H36.52a1,1,0,0,0-1,1V7.53L23.37.14,23.23.08a1,1,0,0,0-.76,0l-.14.06L.48,13.43a1,1,0,0,0,1,1.71L2,14.82V36.6a1,1,0,0,0,1,1H42.66a1,1,0,0,0,1-1V14.82l.52.32a1,1,0,1,0,1-1.71ZM37.52,3h4.13v8.31L37.52,8.75ZM19.71,35.6V26.52a.32.32,0,0,1,.32-.32h5.63a.32.32,0,0,1,.32.32V35.6Zm8.28,0V26.52a2.33,2.33,0,0,0-2.32-2.32H20a2.33,2.33,0,0,0-2.32,2.32V35.6H4V13.83L22.85,2.17,41.66,13.83V35.6Z\"/>\n<path d=\"M15.54,14.76H10.93A2.22,2.22,0,0,0,8.71,17v4.62a2.22,2.22,0,0,0,2.22,2.22h4.62a2.22,2.22,0,0,0,2.22-2.22V17A2.22,2.22,0,0,0,15.54,14.76Zm.22,6.83a.22.22,0,0,1-.22.22H10.93a.22.22,0,0,1-.22-.22V17a.22.22,0,0,1,.22-.22h4.62a.22.22,0,0,1,.22.22Z\"/>\n<path d=\"M34.77,14.76H30.16A2.22,2.22,0,0,0,27.94,17v4.62a2.22,2.22,0,0,0,2.22,2.22h4.62A2.22,2.22,0,0,0,37,21.59V17A2.22,2.22,0,0,0,34.77,14.76ZM35,21.59a.22.22,0,0,1-.22.22H30.16a.22.22,0,0,1-.22-.22V17a.22.22,0,0,1,.22-.22h4.62A.22.22,0,0,1,35,17Z\"/>\n</g>\n</svg>",
+    "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=": "<div class=\"rounded-shading-rectangle-form\">\n  <svg width=\"100%\" height=\"100%\" xml:space=\"preserve\">\n    <rect class=\"color1\" width=\"100%\" height=\"100%\" style=\"fill:#C0C2CC\" >\n    </rect>\n  </svg>\n</div>\n    \n<style>\n  \n.rounded-shading-rectangle-form {\n  overflow:hidden;\n  border-radius:10px;\n  width:100%;\n  height:100%;\n  box-shadow:rgba(0, 0, 0, 0.25) 3px 4px 18px; \n}\n  \n</style>",
+    "svg/SourceSvg;byyeIfxhZB0JKda8zEJVOlgO++KFcSMrfUf7psgtnKI=": "<div class=\"button-shape-group-container\">\n  <div class=\"button-shape-right-div\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 115.19 230\" preserveAspectRatio=\"xMinYMid meet\" height=\"100%\" class=\"button-shape-right\">\n      <path d=\"M115,230A115,115,0,0,1,115,0Z\" class=\"color1\" style=\"fill:#696B74\"/>\n    </svg>\n  </div> \n  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 115.19 230\" preserveAspectRatio=\"none\" width=\"100%\">\n    <rect width=\"173.42\" height=\"230.01\" class=\"color1\" style=\"fill:#696B74\"/>\n  </svg>\n  <div class=\"button-shape-left-div\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 115.19 230\" preserveAspectRatio=\"xMaxYMid meet\" height=\"100%\" class=\"button-shape-left\">\n      <path d=\"M.19,0a115,115,0,0,1,115,115A115,115,0,0,1,.19,230Z\" class=\"color1\" style=\"fill:#696B74\"/>\n    </svg>\n  </div>\n</div>\n\n<style>\n.button-shape-group-container {\n  display:flex;                                      \n  width:100%;\n  height:inherit;\n}\n\n.button-shape-right-div {\n  height:100%;\n}\n\n.button-shape-right {\n  transform:translateX(2px);\n}\n\n.button-shape-left-div {\n  height:100%;\n}\n\n.button-shape-left {\n  transform:translateX(-2px);\n}\n</style>",
+    "svg/SourceSvg;m0dPQF1d7p88VQUVGf9+H69x3xRceOSKEVZVUMRZ2/k=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 182\">\n  <g class=\"color1\" style=\"fill:#232323\">\n  <path d=\"m254.58,88.77c-.1-.47-.26-.9-.41-1.35-.07-.21-.11-.42-.2-.62-.2-.48-.47-.93-.73-1.37-.08-.14-.15-.31-.24-.44-.39-.58-.83-1.12-1.32-1.6L171.8,3.48c-4.13-4.13-10.83-4.13-14.96,0s-4.13,10.83,0,14.96l61.84,61.84H11.5c-5.84,0-10.58,4.74-10.58,10.58s4.74,10.58,10.58,10.58h207.19l-61.84,61.84c-4.13,4.13-4.13,10.83,0,14.96,2.07,2.07,4.77,3.1,7.48,3.1s5.41-1.03,7.48-3.1l79.89-79.89c.49-.49.94-1.03,1.32-1.6.1-.14.15-.3.24-.44.27-.44.53-.89.73-1.37.08-.2.12-.42.2-.62.15-.44.32-.88.41-1.35.14-.69.21-1.39.21-2.09s-.07-1.41-.21-2.09Z\"/>\n  </g>\n</svg>",
+    "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 437.5 437.5\">\n\t<circle class=\"color1 circle-cancel\" cx=\"218.75\" cy=\"218.75\" r=\"175\"/>\n\t<path class=\"color2\" style=\"fill:#ffffff; pointer-events:none;\" d=\"M255.12,167.84,218.75,204.2l-36.37-36.36a10.28,10.28,0,0,0-14.54,14.54l36.36,36.37-36.36,36.37a10.28,10.28,0,0,0,14.54,14.54l36.37-36.36,36.37,36.36a10.28,10.28,0,0,0,14.54-14.54L233.3,218.75l36.36-36.37a10.28,10.28,0,0,0-14.54-14.54\"/>\n</svg>\n\n<style>\n\n.circle-cancel {\n  fill:#525FFF;\n  transform-origin: 50% 50%;\n  transition: transform 0.4s cubic-bezier(.4,0,.2,1);\n}\n\n.circle-cancel:hover {\n  transform:scale(1.25);\n  transform-origin: 50% 50%;\n  transition: transform 0.4s cubic-bezier(.4,0,.2,1);\n}\n\n.circle-cancel:active {\n  transform:scale(0.9);\n  transform-origin: 50% 50%;\n  transition: all 0.1s;\n}\n\n</style>"
+  },
+  "version": 24,
+  "Activities": [],
+  "BaseWidgets": [],
+  "RichContents": [],
+  "ContainerBoxes": [],
+  "DocumentConfig": {
+    "colors": {
+      "Primary": null,
+      "Tertiary": null,
+      "Secondary": null
+    }
+  },
+  "collaborativeVersion": {
+    "live": [
+      1651,
+      "SD2b-6rV0x5S-yX9yevaI"
+    ],
+    "saved": [
+      1651,
+      "SD2b-6rV0x5S-yX9yevaI"
+    ]
+  },
+  "interactivityActions": {
+    "21Vtoame-jH7Nd7GxFZA7": {
+      "html": "<head></head><body><p>Este botón solo se utiliza para recursos previamente subidos a ´Mediación Virtual</p><p><br></p></body>",
+      "type": "htmlTooltip",
+      "refId": "D96e5eAmsu0h78za8Aryf",
+      "padding": "22px",
+      "version": 2,
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "defaultTextColor": "#000000"
+    },
+    "2BV2ZGkPQSPozFfxf9ul1": {
+      "type": "goToSlide",
+      "refId": "HYidE5U8uOx7A1KNFceKy",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "41H0HnrBtfAVoIgBaaZ2M": {
+      "type": "goToSlide",
+      "refId": "2xxvkX9tVOzB1-6NdcB1j",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "6TWDpdyZCwKYbbFJF7ewz": {
+      "type": "closeSlidePopup",
+      "refId": "xhkItKNAZdUhH4bUnmBPr"
+    },
+    "BHLP5eqHnt588hGxlVH05": {
+      "type": "slidePopup",
+      "refId": "oa-mQz8I61dFx-QxJJUmO",
+      "targetSlideId": "121e0f84-933a-44f1-895c-d10d59d934c1"
+    },
+    "ED-Q8fNmDTabLch1IqXfY": {
+      "html": "<head></head><body><p>Escriba una descripción de 2 o 3 líneas sobre el contenido del enlace.&nbsp;</p><p><br></p></body>",
+      "type": "htmlTooltip",
+      "refId": "KrUYoCQRGUNBEvadoLqn6",
+      "padding": "22px",
+      "version": 2,
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "defaultTextColor": "#000000"
+    },
+    "FARG14XY7xVH4hEsFEk1b": {
+      "type": "slidePopup",
+      "refId": "nidHoCBdYsVx5cuP_hI2k",
+      "targetSlideId": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4"
+    },
+    "FxRNcF7ljsJtcUs5K4RY2": {
+      "html": "<head></head><body><p>En este menú se puede seleccionar cómo quiere que se abra el enlace. Puede:</p><p><img src=\"https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/1740002274148-Captura+de+pantalla+2025-02-19+155442.png\" style=\"width: 300px;\" class=\"fr-fic fr-dib fr-dragging\" id=\"fbdc797b-c532-41bd-80da-5ccaa900e61f\"></p><p><br></p></body>",
+      "type": "htmlTooltip",
+      "refId": "GGhn1XYkBXmyyEglPbXL_",
+      "padding": "22px",
+      "version": 2,
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "defaultTextColor": "#000000"
+    },
+    "IE_vcLU2bJQEw8wbJdWep": {
+      "html": "<head></head><body><p>Botón que permite crear el enlace dentro del texto</p></body>",
+      "type": "htmlTooltip",
+      "refId": "WFO2mBoD4R_Mr9G9CACl4",
+      "padding": "22px",
+      "version": 2,
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "defaultTextColor": "#000000"
+    },
+    "KN7Z5dxgIn3tBzGyKFGw_": {
+      "type": "slidePopup",
+      "refId": "UqvbTVrYnAYvBZmX1pzYk",
+      "targetSlideId": "b00694fb-b70b-4536-8ab1-e018cef32e1a"
+    },
+    "MA0w1ASTQMj3y_I_v1ogG": {
+      "type": "goToSlide",
+      "refId": "uVOF1c4CGb7wLUvLx1oup",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "MY7uWbqGBu5_KHlPXvDbM": {
+      "html": "<head></head><body><p>Procure que esté activada esta opción, para que la persona no se salga de Mediación Virtual.</p></body>",
+      "type": "htmlTooltip",
+      "refId": "SNLZqPVOaj5VbCeBY0Rwe",
+      "padding": "22px",
+      "version": 2,
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "defaultTextColor": "#000000"
+    },
+    "NvZesMByHlrSmdHWHfz29": {
+      "type": "slidePopup",
+      "refId": "as6zNhsqD0G-tUclF46mi",
+      "targetSlideId": "963a04f5-457e-4042-9794-032990ec5e0e"
+    },
+    "OoI_FYYlUNOaOSGS49Bbq": {
+      "type": "goToSlide",
+      "refId": "MUyjjUraGL7c5MIUvmRps",
+      "target": {
+        "slideId": "2b111d25-fef0-4020-a5c7-7aad22396a2d"
+      }
+    },
+    "S6WiLD-_ISdZWS94D7y1M": {
+      "type": "closeSlidePopup",
+      "refId": "1NTjD9Xj_nEi60uSUxtlA"
+    },
+    "Veu2GeRnL6BDA9AZGKhlt": {
+      "html": "<head></head><body><p>Coloque el nombre que tendrá el recurso.<br>Se recomienda que sea un título que explique el contenido.</p><p><strong>Importante:&nbsp;</strong>asegúrese que el enlace sea seguro, estos por lo regular empiezan con <strong>https://</strong></p></body>",
+      "type": "htmlTooltip",
+      "refId": "7Ex84r0ph2L71HyvfShVk",
+      "padding": "22px",
+      "version": 2,
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "defaultTextColor": "#000000"
+    },
+    "XGrdfkGb4A2Ohafui6nRV": {
+      "type": "goToSlide",
+      "refId": "SNlRPLqi7PBHJ9AEV9CyD",
+      "target": {
+        "slideId": "824788dc-e036-46f6-9633-ddf6cabdd711"
+      }
+    },
+    "Ykk-hFhhFtG2u_WxiQ94P": {
+      "html": "<head></head><body><p>Pegue el enlace (o link) que copió previamente de una página web. Cerciórese que sea de una página confiable.</p></body>",
+      "type": "htmlTooltip",
+      "refId": "RxeiHvnbxEvoGZnP0yOsN",
+      "padding": "22px",
+      "version": 2,
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "defaultTextColor": "#000000"
+    },
+    "aUwN5kJJ0jfMEebF0LmId": {
+      "type": "goToSlide",
+      "refId": "oMxNl2HAbEAJW3b89fZSQ",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "gAX1m0eZFMuyvj4ur1C6V": {
+      "html": "<head></head><body><p>Aparece el texto que está escrito en el editor.</p></body>",
+      "type": "htmlTooltip",
+      "refId": "M5-9RQ36CsYc4VQj6xIe2",
+      "padding": "22px",
+      "version": 2,
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "defaultTextColor": "#000000"
+    },
+    "gLwh5dkEGwI-aqri_rNwY": {
+      "type": "goToSlide",
+      "refId": "azajufDfgtsSEYCqWhAF-",
+      "target": {
+        "slideId": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95"
+      }
+    },
+    "jfcJRBNkb9TqHWyRukwrS": {
+      "type": "goToSlide",
+      "refId": "1ynoSJsR3owcfErlBGjND",
+      "target": {
+        "smartLink": "nextPage"
+      }
+    },
+    "lf6idGTFa-Xr2Qn9pHxk0": {
+      "type": "closeSlidePopup",
+      "refId": "S5WbpWFQ9A92yynJBWL31"
+    },
+    "mdmzNZtbyIFNgxqvvU3p9": {
+      "type": "closeSlidePopup",
+      "refId": "Lewlw47QGK2iejkyUPwRG"
+    },
+    "oct_iMF-fS3zcHRkdulei": {
+      "type": "goToSlide",
+      "refId": "Clh7pHqXojxvjUt1_v9HD",
+      "target": {
+        "smartLink": "previousPage"
+      }
+    },
+    "zOU6B8OAbrzGmtAYm86XO": {
+      "html": "<head></head><body><p>En el navegador, busque el enlace de la página o recurso que desea compartir, cópielo y péguelo en este espacio.&nbsp;</p><p><br></p></body>",
+      "type": "htmlTooltip",
+      "refId": "fb58gire--vKcFt3tvpCa",
+      "padding": "22px",
+      "version": 2,
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "defaultTextColor": "#000000"
+    }
+  },
+  "Genially": {
+    "DateDisabled": null,
+    "Id": "67d1eb7ca5ba52d0d6f93630",
+    "Name": "Colocación de recursos externos en Mediación Virtual URL y HTML",
+    "ImageRender": "https://genially-thumbnails.genially.com/67d1eb7ca5ba52d0d6f93630.png?ts=1750970096675",
+    "TypeSubscription": 9,
+    "FriendlyUrl": "https://view.genially.com/67d1eb7ca5ba52d0d6f93630/interactive-content-colocacion-de-recursos-externos-en-mediacion-virtual-url-y-html",
+    "IdUser": "5f7360fd3bba5c1b9f8c0c90",
+    "Description": null,
+    "UrlPro": "https://view.genially.com/67d1eb7ca5ba52d0d6f93630",
+    "HasGeniallyAnalytics": false,
+    "Reusable": false,
+    "IdTeam": "655f74127b640d001042eba8",
+    "IdSpace": "655f74127b640d001042ebdf",
+    "IsOwnerAChild": null,
+    "IsCreatedByStudent": false,
+    "SkipTeamDomainRestrictions": null,
+    "SelectedLogoId": "66d61eb6cb437ada9b057ac2",
+    "Public": true,
+    "Published": true,
+    "WatermarkLink": "https://genially.com",
+    "CustomLogo": null,
+    "CustomLogoPosition": null,
+    "IdAnalytics": null,
+    "CustomWatermark": null,
+    "SizeWatermark": "medium",
+    "PrivacyStatus": "Public",
+    "HasPassword": false,
+    "SettingGenially": {
+      "Weave": null,
+      "ShowPage": false,
+      "TooltTipStyle": "light",
+      "FullScreen": true,
+      "DisableTitles": false,
+      "AutoPagination": false,
+      "BucleAutoPagination": false,
+      "TimePagination": 5,
+      "DisableShare": false,
+      "Interactivity": false,
+      "IsPaintable": false,
+      "IsDraggable": false,
+      "HideLogo": false,
+      "IgnoreGlobalBranding": true,
+      "ShowLoader": true,
+      "ShowWatermark": false,
+      "LoadMobile": false,
+      "ShowDraggableIndicator": true,
+      "IsTrackable": false,
+      "ShowZoom": false,
+      "InteractiveQuestionsSettings": {
+        "ShowResultsSummary": false,
+        "ResultsSummaryType": null,
+        "ResponseAction": null,
+        "SettingsPreset": null,
+        "IndividualResultsSummarySettings": {}
+      },
+      "AliasModalSettings": {
+        "Title": null,
+        "Placeholder": null,
+        "DesignType": null,
+        "InputType": null,
+        "FullScreen": false,
+        "AliasGenerator": false,
+        "FontFamily": null,
+        "BackgroundColor": null,
+        "TextColor": null,
+        "PrimaryColor": null,
+        "Description": null,
+        "ButtonText": null,
+        "ButtonTextColor": null,
+        "AliasGeneratorText": null
+      },
+      "Responsive": false
+    }
+  },
+  "tasks": {
+    "0OVYfmmblvo4JanXrOWxZ": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/3016e74c-1aac-4e46-b5cf-3ca22258818a.png",
+      "finished": true
+    },
+    "1bvAeY3zqfTZ0lcRm_jgp": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/905e1af0-2c27-4f4b-a447-7bd9e8c1b9ad.png",
+      "finished": true
+    },
+    "4p7juBKPb2O9e2DJ0BDry": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "5uSOnJ6UEwBUIKb9jN2v-": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9ac26854-dbf5-4bfe-9946-fea6ecd5fa88.png",
+      "finished": true
+    },
+    "BZrGvmxQuzcfIKf9jp1v8": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/f628602c-4107-477e-838b-57c67bcc6c95.png",
+      "finished": true
+    },
+    "CinsOk12DkesVvwVTbQAX": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "DNh7F5AfE3Hm4Oyums7xP": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9ce4ccca-0a74-4a04-ae00-b48042681224.png",
+      "finished": true
+    },
+    "GFjRzPPceZm_-nUNyFFPB": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/004735b2-6eb7-4ef9-b2bf-2abcb5a191a5.png",
+      "finished": true
+    },
+    "GVNUvNK_Abgv6BRbinb9l": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "KBuWm4RDi-vvdslSnUqkN": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/0c9e0b95-cef7-45fd-9508-16e7d9a2bb22.png",
+      "finished": true
+    },
+    "PH4VdRXJ2zPxTp1cW-x9k": {
+      "value": {
+        "PositionTop": "0px",
+        "PositionLeft": "0px"
+      },
+      "finished": true
+    },
+    "SgXPAfrE0Saq5TYywubtg": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/e1fc0585-7399-4d2a-a40a-b26c1169f1ca.png",
+      "finished": true
+    },
+    "ThA6rSPv_L0S3TM_7GS8W": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "TzXpdN-iCRJvCMuwdYA1l": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9c73d6d4-8ba0-4a36-9bbe-b89a2a0fca8c.png",
+      "finished": true
+    },
+    "VMF_qQmyUykiDDstHTSUr": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "_MI7v6cuPPpw8Pe4SCHAZ": {
+      "value": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "finished": true
+    },
+    "bHEEDF9Ptybt5rdNL7kuu": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/946d53be-8996-462a-83ae-9eaba77133d3.png",
+      "finished": true
+    },
+    "lmsRtnpMnuqddwJDuyX_S": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "u-TLoL_yqwiDUzotaiuva": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/9c73d6d4-8ba0-4a36-9bbe-b89a2a0fca8c.png",
+      "finished": true
+    },
+    "v3f33M5V0WwTikBBq9Fcb": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/4253d1e9-e83d-4de6-a981-b197073fb387.png",
+      "finished": true
+    },
+    "vWeu52E_VDrDzeLjoMhP8": {
+      "value": "https://img.genially.com/5f7360fd3bba5c1b9f8c0c90/b0dbe108-13ef-44a3-a520-dce9ed03205c.png",
+      "finished": true
+    },
+    "wcFE_J9_5N7KcxvYQvgDs": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    }
+  }
+}

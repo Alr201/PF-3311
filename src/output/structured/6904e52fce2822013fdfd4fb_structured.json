@@ -1,0 +1,290 @@
+[
+  {
+    "slide_id": "5f18d8c8-383b-4858-9867-8a14f56ca4c9",
+    "slide_name": "Portada",
+    "texts": [
+      "Actividad Glosario"
+    ],
+    "videos": [],
+    "title_candidate": "Portada"
+  },
+  {
+    "slide_id": "2a9c79fb-87f1-416b-9968-751ff9a0ec57",
+    "slide_name": "Índice",
+    "texts": [
+      "Contenidos",
+      "¿Qué es un Glosario?",
+      "¿Cómo se añade una Glosario?",
+      "¿Cómo se configura un Glosario?",
+      "¿Cómo se ve la actividad en la página de la plataforma?",
+      "¿Cómo se califica el Glosario?",
+      "Recomendaciones"
+    ],
+    "videos": [],
+    "title_candidate": "Índice"
+  },
+  {
+    "slide_id": "d9e3f26c-802f-4ff9-ac19-81f448973cfd",
+    "slide_name": "Definición",
+    "texts": [
+      "¿Qué es la actividad Glosario?",
+      "El Glosario es una herramienta que la persona docente puede utilizar de diferentes maneras, como:",
+      "Actividad colaborativa general: la persona docente configura un Glosario Global, pero todas las y los estudiantes hacen las entradas de manera colaborativa sobre todo lo aprendido. Se realiza ya sea uno general para todo el semestre. Actividad colaborativa por sesión o semana: la persona docente configura un Glosario Secundario, pero todas las y los estudiantes hacen las entradas de manera colaborativa en la semana o la sesión. Actividad individual: la persona docente configura Glosarios secundarios para cada estudiantes, colocando el nombre en el título de la actividad, los cuales servirán como registro de los aprendizajes obtenidos en el ciclo lectivo. Recurso: la persona docente lo configura y hace todas las entradas y queda un material donde las y los estudiantes pueden recorrer los conceptos por medio de enlaces. Recurso colaborativo: la persona docente configura un Glosario general, pero las y los estudiantes hacen las entradas que luego servirá para hacer otras actividades evaluativas, como juegos."
+    ],
+    "videos": [],
+    "title_candidate": "Definición"
+  },
+  {
+    "slide_id": "f6e4d6bd-4e31-4d52-ba1b-a9a1b0268897",
+    "slide_name": "",
+    "texts": [
+      "¿Cómo se inserta una actividad?",
+      "Activemos edición Vayamos a la semana o sesión donde colocaremos el Glosario. Vayamos a la pestaña Actividades Hagamos clic en la opción Glosario. Observe el siguiente vídeo a continuación para ver el paso a paso:"
+    ],
+    "videos": [
+      {
+        "video_id": "NMDUz0DaSaY",
+        "source": "https://youtu.be/NMDUz0DaSaY",
+        "transcript": "En este vídeo aprenderemos a armontar los materiales del curso en su entorno virtual. Seguidamente, dirijámonos a la semana o el tema que desea completar. Podremos integrar nuestros materiales o actividades a través de la opción añadir una actividad o un recurso. En ella encontraremos la pestaña de actividades con las diferentes opciones que nos permiten interactuar con las personas estudiantes e ir haciendo evaluaciones tanto sumativas como formativas. En la pestaña de recursos encontraremos todas las herramientas para poder compartir aquella información necesaria para el curso, sea por archivos, enlaces u otros materiales propios creados para reforzarlos a aprendizajes. Además, tendremos la opción de seleccionar nuestras herramientas favoritas haciendo clic en la estrella. Estas aparecerán en la pestaña de destacados. Ya podemos crear nuestras semanas o secciones con las posibilidades que nos ofrece esta nueva mediación virtual."
+      }
+    ],
+    "title_candidate": "¿Cómo se inserta una actividad?"
+  },
+  {
+    "slide_id": "edaeaa6f-a00e-4398-b991-49ddef0c74d8",
+    "slide_name": "",
+    "texts": [
+      "Menú del Glosario",
+      "Glosario: permite ingresar a las interacciones Configuración: permite trabajar el formato, descripciones, calificaciones, entre otros, de la actividad. Roles asignados y Comprobar los permisos: permite ver los permisos que tienen las personas dentro de la actividad. Registros: muestra los movimientos que hubo específicamente en la actividad. Copia de seguridad: hace una copia de seguridad solo de la actividad."
+    ],
+    "videos": [],
+    "title_candidate": "Menú del Glosario"
+  },
+  {
+    "slide_id": "a1c5c981-28bb-4561-9414-a2117338f63d",
+    "slide_name": "Configuración",
+    "texts": [
+      "¿Cómo se configura la actividad Glosario?"
+    ],
+    "videos": [],
+    "title_candidate": "Configuración"
+  },
+  {
+    "slide_id": "fc391f60-5049-4654-935c-7e2a93c86418",
+    "slide_name": "General",
+    "texts": [
+      "General",
+      "Nombre: muestra el nombre de la actividad como aparece en el programa de curso.",
+      "Descripción: el qué, el cómo, el cuando. el formato, tipo de citación y el valor de la participación.",
+      "Glosario general: crea un espacio útil para todo el entorno y abarca los temas de todo el curso. Glosario secundario: se utiliza cuando es una actividad para una semana o una sesión específica. Si anteriormente se creó un glosario general, la opción de secundario está determinado automáticamente."
+    ],
+    "videos": [],
+    "title_candidate": "General"
+  },
+  {
+    "slide_id": "8315b6bb-1a1f-4ea5-a087-62eccde590ff",
+    "slide_name": "Disponibilidad",
+    "texts": [
+      "Entradas",
+      "Estado de aprobación por defecto Si: las entradas se han visible para todos inmediatamente. No: las entradas necesitan la aprobación del docente antes de ser visibles",
+      "Permitir editar siempre Si: las entradas se pueden editar en cualquier momento No: las entradas sólo pueden editar por un periodo de tiempo específico.",
+      "REVISAR Enlace automático a las entradas del glosario",
+      "Permitir comentar las entradas Si: permite a todos los usuarios hacer comentarios. No: evita que todos usuarios realicen comentarios en las entradas.",
+      "Permitir entradas duplicadas Si: permite que haya varias entradas con el mismo nombre del concepto. No: no permite más de una entrada con el mismo nombre del concepto."
+    ],
+    "videos": [],
+    "title_candidate": "Disponibilidad"
+  },
+  {
+    "slide_id": "9ec711fc-8682-4df7-8b8d-0b1908a125ce",
+    "slide_name": "",
+    "texts": [
+      "Apariencia",
+      "Entradas por página Número de entradas que desea que se muestren por página. Mostrar enlaces a alfabeto Si:​ los usuarios pueden buscar conceptos según la letra. No: ​No se pueden buscar los términos por medio del alfabeto. Mostrar enlace “TODAS” Si:​ los usuarios pueden buscar todas las entradas a la vez. No:​ los usuarios no cuentan con la opción de que se desplieguen todas las entradas. Mostrar enlace “Especial” Permitir vista de impresión Si:​ permite a los usuarios buscar en el glosario usando caracteres especiales. No:​ Los usuarios no pueden realizar búsquedas con caracteres especiales. Si:​ Permite a los estudiantes usar la vista de impresión. No: Los estudiantes no pueden utilizar la vista de impresión, aunque los docentes pueden usarla en cualquier momento."
+    ],
+    "videos": [],
+    "title_candidate": "Apariencia"
+  },
+  {
+    "slide_id": "c21ffb63-a287-47d4-9b3d-ea3ed698d878",
+    "slide_name": "",
+    "texts": [
+      "Calificaciones",
+      "El módulo de Calificaciones, es funcional cuando la persona docente tiene configurado el Libro de calificaciones, pues permite colocar la actividad en una categoría antes creada. Primero escoja el Tipo de consolidación (o Forma de calificación):",
+      "No hay valoraciones: Se utiliza en actividades formativas sin calificación sumativa y la actividad no aparece en el libro de calificaciones. Promedio de valoraciones: Calcula la nota final como el promedio de todas las calificaciones obtenidas en los diferentes intentos. Número de calificaciones: El número de elementos calificados se convierte en la nota final. Tomemos en cuenta que el total no puede exceder la nota máxima de la actividad. Máxima calificación: La calificación más alta se convierte en la nota final. Mínima calificación: La calificación más baja se convierte en la nota final. Suma de calificaciones: Todas las calificaciones se suman. Tengamos en cuenta que el total no puede exceder la nota máxima de la actividad."
+    ],
+    "videos": [],
+    "title_candidate": "Calificaciones"
+  },
+  {
+    "slide_id": "df13e6a2-c141-424d-82f9-f056cd1d6b69",
+    "slide_name": "",
+    "texts": [
+      "Calificaciones",
+      "Una vez que selecciona el tipo de consolidació, aparecerán las opciones para calificarlo e integrarlo en el libro de calificaciones"
+    ],
+    "videos": [],
+    "title_candidate": "Calificaciones"
+  },
+  {
+    "slide_id": "2a09477d-8755-4a96-91d1-4ba84b09c828",
+    "slide_name": "Ajustes comunes del módulo",
+    "texts": [
+      "Ajustes comunes del módulo",
+      "Disponibilidad: Permite Mostrar la actividad en la sesión o semana u Ocultarla cuando aún no se realiza la actividad. Recuerde hacerla disponible antes de que llegue la fecha de entrega. Forzar idioma: útil para los cursos de lenguas modernas."
+    ],
+    "videos": [],
+    "title_candidate": "Ajustes comunes del módulo"
+  },
+  {
+    "slide_id": "a290b2ad-dc6a-42db-b264-9d40b73c3d4e",
+    "slide_name": "",
+    "texts": [
+      "¿Cómo se ve la actividad en la página de la plataforma?",
+      "Vista en la sesión",
+      "Vista de docente",
+      "Vista de estudiante"
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo se ve la actividad en la página"
+  },
+  {
+    "slide_id": "09b5c4bf-10d5-4acb-b9c6-dbf45fc9d7a9",
+    "slide_name": "",
+    "texts": [
+      "¿Cómo se califica?",
+      "Para calificar, en cada entrada habrá un espacio donde encontraremos un rango de puntajes para asignar la nota, que luego aparecerá en el Libro de Calificaciones."
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo se califica?"
+  },
+  {
+    "slide_id": "13f350d4-3c20-404a-9081-42749653c6ff",
+    "slide_name": "",
+    "texts": [
+      "Observe la imagen. Esta será la vista dentro de la sección o semana."
+    ],
+    "videos": [],
+    "title_candidate": "Observe la imagen. Esta será la vista dentro"
+  },
+  {
+    "slide_id": "2e82ba5e-3bad-4d46-902d-9f052bd41a94",
+    "slide_name": "",
+    "texts": [
+      "Vista al subir los conceptos",
+      "Vista inicial de Glosario"
+    ],
+    "videos": [],
+    "title_candidate": "Vista al subir los conceptos"
+  },
+  {
+    "slide_id": "48216995-1017-4cdd-89b1-cc6d4b3b8348",
+    "slide_name": "",
+    "texts": [
+      "Observe la imagen. Esta será la vista de la persona docente al entrar a la actividad:"
+    ],
+    "videos": [],
+    "title_candidate": "Observe la imagen. Esta será la vista de"
+  },
+  {
+    "slide_id": "b0465a5b-38af-44f9-813f-117a9c2fad87",
+    "slide_name": "",
+    "texts": [
+      "Completo con autor: muestra los datos del autor de cada entrada y los archivos adjuntos como enlaces. Completo sin autor: no muestra la información del autor y los archivos adjuntos se muestran como enlaces. Continuo sin autor: muestra las entradas una tras otra con una separación mínima. Enciclopedia: muestra los datos del autor de cada entrada, pero las imágenes adjuntas se muestran incrustadas en la entrada y no como enlaces. FAQ: muestra listas de preguntas y respuestas. Mediación Virtual añade automáticamente los espacios \"PREGUNTA\" al concepto y \"RESPUESTA\" a la definición. Lista de entradas: muestra solo los conceptos, uno debajo del otro. La definición completa solo aparece al hacer clic sobre el concepto. Simple, estilo diccionario: Muestra las entradas como en un diccionario convencional, con las definiciones separadas y los archivos adjuntos como enlaces. No se muestra el autor.",
+      "Formato de visualización de entradas"
+    ],
+    "videos": [],
+    "title_candidate": "Completo con autor: muestra los datos del autor"
+  },
+  {
+    "slide_id": "01bf1276-ac7e-49bf-ade3-19bc5a5868f2",
+    "slide_name": "",
+    "texts": [
+      "Si requiere un formato diferente al de visualización, a la hora de aprobar y revisar las entradas del glosario, puede hacer el cambio. Las opciones son iguales a las de visualización. Por ejemplo: Las personas participantes completan el glosario de forma anónima en \"Completo sin autor\", pero usted necesita ver los nombres para calificar, por lo que puede escoge \"Completo con autor\". Todo dependerá de su intención didáctica.",
+      "Formato de visualización durante la aprobación"
+    ],
+    "videos": [],
+    "title_candidate": "Si requiere un formato diferente al de visualización,"
+  },
+  {
+    "slide_id": "64c8e75b-51cb-4f29-bdf7-c1657e9c119b",
+    "slide_name": "",
+    "texts": [
+      "Número de entradas que desea que se muestren por página. Pocas participaciones: procure que todas estén en una misma página. Recomendación: hasta 8 entradas de texto por página y hasta 5 entradas de texto e imagen por pagina. Muchas participaciones: Esto permite llevar una visualización más organizada, por páginas cuando son muchas las entradas.",
+      "Entradas por página"
+    ],
+    "videos": [],
+    "title_candidate": "Número de entradas que desea que se muestren"
+  },
+  {
+    "slide_id": "d6f70287-1bc6-41aa-aad2-d1ee18bf4950",
+    "slide_name": "",
+    "texts": [
+      "Si:​ los usuarios pueden buscar conceptos según la letra. No: ​No se pueden buscar los términos por medio del alfabeto.",
+      "Mostrar enlaces del alfabeto"
+    ],
+    "videos": [],
+    "title_candidate": "Si:​ los usuarios pueden buscar conceptos según la"
+  },
+  {
+    "slide_id": "08aa39d3-0167-43fd-a517-b0a3575f2ee4",
+    "slide_name": "",
+    "texts": [
+      "Si:​ los usuarios pueden buscar todas las entradas a la vez. No:​ los usuarios no cuentan con la opción de que se desplieguen todas las entradas.",
+      "Mostrar enlace 'TODAS'"
+    ],
+    "videos": [],
+    "title_candidate": "Si:​ los usuarios pueden buscar todas las entradas"
+  },
+  {
+    "slide_id": "49ff63d2-d4fc-42d4-bc66-0313b531485a",
+    "slide_name": "",
+    "texts": [
+      "Si:​ permite a los usuarios buscar en el glosario usando caracteres especiales. No:​ Los usuarios no pueden realizar búsquedas con caracteres especiales.",
+      "Mostrar enlace 'Especial'"
+    ],
+    "videos": [],
+    "title_candidate": "Si:​ permite a los usuarios buscar en el"
+  },
+  {
+    "slide_id": "75b5500b-b0e9-4c5b-b3e2-7857c7b5a5e9",
+    "slide_name": "",
+    "texts": [
+      "Si: ​ Permite a los estudiantes usar la vista de impresión. No: Los estudiantes no pueden utilizar la vista de impresión, aunque los docentes pueden usarla en cualquier momento.",
+      "Permitir vista de impresión"
+    ],
+    "videos": [],
+    "title_candidate": "Si: ​ Permite a los estudiantes usar la"
+  },
+  {
+    "slide_id": "272312e8-8d5b-4e9f-a415-c4989b717f2a",
+    "slide_name": "",
+    "texts": [
+      "Escala",
+      "Escala: sirve para usar una escala predefinida o una personalizada. Puntuación: para establecer un valor, por ejemplo, de 1 a 100.",
+      "Calificación máxima: establezca la calificación de acuerdo a lo expuesto en su programa de curso."
+    ],
+    "videos": [],
+    "title_candidate": "Escala"
+  },
+  {
+    "slide_id": "74d07ed2-6f46-4370-91bf-f40521236653",
+    "slide_name": "",
+    "texts": [
+      "Categoría de calificaciones",
+      "Controla la categoría donde se ubicará la la actividad dentro del Libro de Calificaciones, previamente configurada."
+    ],
+    "videos": [],
+    "title_candidate": "Categoría de calificaciones"
+  },
+  {
+    "slide_id": "32877d1c-c347-4f11-afe9-457fcb17cbec",
+    "slide_name": "",
+    "texts": [
+      "Calificación para aprobar",
+      "Determina la calificación mínima requerida para aprobar la actividad."
+    ],
+    "videos": [],
+    "title_candidate": "Calificación para aprobar"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "slide_id": "6ae438c2-48b4-4ce3-b6c0-30e88c218cf7",
+    "slide_name": "2",
+    "texts": [
+      "Recursos de Mediación Virtual"
+    ],
+    "videos": [],
+    "title_candidate": "2"
+  },
+  {
+    "slide_id": "30e2e166-7f3c-43f6-a14c-eec5ddf2e891",
+    "slide_name": "",
+    "texts": [
+      "Recursos",
+      "Recorreremos primero los cambios en las opciones que tiene la plataforma para compartir o crear contenido. Para conocer las novedades, coloque el cursor sobre los opciones de cada herramienta. En cada herramienta encontrará:",
+      "El ícono que lo identifica Las partes nuevas de la herrmienta La visibilidad por parte de los estudiantes"
+    ],
+    "videos": [],
+    "title_candidate": "Recursos"
+  },
+  {
+    "slide_id": "6786a8ba8e85771a85675ea9",
+    "slide_name": "Genially sin título",
+    "texts": [
+      "Indicaciones de la sesión",
+      "Coloque el nombre que identifica el contenido de la Etiqueta. Por ejemplo \"Indicaciones de la sesión\"",
+      "La Etiqueta es el Recurso con más cambios, observémoslos colocando el cursor obre cada opción a la derecha.",
+      "Vista del estudiantes",
+      "Coloquemos el cursor sobre los botones del cuadro de texto para conocer sus características."
+    ],
+    "videos": [],
+    "title_candidate": "Genially sin título"
+  },
+  {
+    "slide_id": "4c8992c8-abaf-4a0d-b564-ab20fb3c8771",
+    "slide_name": "Archivo",
+    "texts": [
+      "El Archivo mantiene sus características, sin embargo, el mayor cambio está en las opciones de localización para cargar un documento.",
+      "Vista del estudiantes"
+    ],
+    "videos": [],
+    "title_candidate": "Archivo"
+  },
+  {
+    "slide_id": "5406d04f-cfbe-4f7b-b357-ee929a1f899a",
+    "slide_name": "URL",
+    "texts": [
+      "La URL o Enlace no presenta cambios, solamente el espacio de descripción que es igual a la Etiqueta. Coloque el cursor sobre cada opción a la derecha.",
+      "Colquemos el cursor sobre las opciones más abajo para conocer sus características.",
+      "Vista del estudiantes"
+    ],
+    "videos": [],
+    "title_candidate": "URL"
+  },
+  {
+    "slide_id": "1770a20c-44f8-4cc7-af44-acd73380a670",
+    "slide_name": "",
+    "texts": [
+      "El Libro ahora muestra un menú de opciones que facilitan la importación de contenidos a cada página.",
+      "Vista del estudiantes"
+    ],
+    "videos": [],
+    "title_candidate": "El Libro ahora muestra un menú de opciones"
+  },
+  {
+    "slide_id": "ab4f77d4-a3fb-4726-bf50-e09b08e0abc1",
+    "slide_name": "",
+    "texts": [
+      "La Carpeta es una herramienta que permite agrupar lois archivos del curso, ya sea totales, administrativos o por sesiones/Semanas.",
+      "Vista del estudiantes",
+      "Coloquemos el cursor sobre diferentes áreas para conocer sus características."
+    ],
+    "videos": [],
+    "title_candidate": "La Carpeta es una herramienta que permite agrupar"
+  },
+  {
+    "slide_id": "06344994-9f9b-4ca4-b1ff-085fd70c581e",
+    "slide_name": "",
+    "texts": [
+      "Incluye las funciones del libro de calificaciones dentro de las funciones generales de administración de un curso."
+    ],
+    "videos": [],
+    "title_candidate": "Incluye las funciones del libro de calificaciones dentro"
+  },
+  {
+    "slide_id": "2acaa3f7-a241-4d11-9cf2-d827e2ae0251",
+    "slide_name": "",
+    "texts": [
+      "Esta opción permite importar un contenido desde un formato HTML previamente descargado de otra plataforma. Este debe incluir los archivos HTML y multimedia en un archivo ZIP. Es útil si solo desea importar un capítulo desde la plataforma anterior."
+    ],
+    "videos": [],
+    "title_candidate": "Esta opción permite importar un contenido desde un"
+  },
+  {
+    "slide_id": "33997306-ff85-4152-bf20-8b3a5625e723",
+    "slide_name": "",
+    "texts": [
+      "Vista en sección",
+      "Vista al abrir la carpeta"
+    ],
+    "videos": [],
+    "title_candidate": "Vista en sección"
+  },
+  {
+    "slide_id": "7cff48cb-4821-4bb4-84e3-38d672476f4f",
+    "slide_name": "",
+    "texts": [
+      "Esta opción permite importar a cada página del libro un documento de Word solo en formato .docx El documento se subirá tal cual se presenta, incluyendo colores, cuadros y tamaños de letra. Esta opción es útil para intergrar desde la plataforma diferentes documentos."
+    ],
+    "videos": [],
+    "title_candidate": "Esta opción permite importar a cada página del"
+  },
+  {
+    "slide_id": "83a4ed20-2a89-413a-87d2-edb303da0dfb",
+    "slide_name": "",
+    "texts": [
+      "En la configuración podemos colocar en General el nombre y la descripción del mismo. En Apariencia se mantienen las mismas funciones de la antigua Mediación Virtual, pero cambiaron los nombres. Los Ajustes comunes del módulo y las Restricciones de acceso mantienen sus funciones."
+    ],
+    "videos": [],
+    "title_candidate": "En la configuración podemos colocar en General el"
+  },
+  {
+    "slide_id": "affb7806-2195-4e30-a9c3-6456eff831cd",
+    "slide_name": "",
+    "texts": [
+      "Vista en sección",
+      "Vista al abrir el archivo"
+    ],
+    "videos": [],
+    "title_candidate": "Vista en sección"
+  },
+  {
+    "slide_id": "bff03695-ae78-4a50-95fb-55f1983896b7",
+    "slide_name": "",
+    "texts": [
+      "En este espacio, la persona docente puede insertar el contenido de una de las páginas del libro, incluyendo el nombre del capítulo, la posibilidad de volverlo subcapítulo y el editor de texto, que es igual a la Etiqueta."
+    ],
+    "videos": [],
+    "title_candidate": "En este espacio, la persona docente puede insertar"
+  },
+  {
+    "slide_id": "ddaadfd0-5862-4a94-a50f-db1c2e9ac808",
+    "slide_name": "",
+    "texts": [
+      "Vista en sección",
+      "Vista al abrir el Libro"
+    ],
+    "videos": [],
+    "title_candidate": "Vista en sección"
+  },
+  {
+    "slide_id": "f83c2850-6e4e-433d-9eed-31910b561d44",
+    "slide_name": "",
+    "texts": [
+      "Esta opción nos permite descargar el documento en formato Word en .doc Las páginas se mantienen como subtítulos del libro, se descargan los tamaños de letra, las imágenes y los textos."
+    ],
+    "videos": [],
+    "title_candidate": "Esta opción nos permite descargar el documento en"
+  },
+  {
+    "slide_id": "d90ee59d-b78f-442d-8da7-7b465a6afcdd",
+    "slide_name": "",
+    "texts": [
+      "Coloquemos el cursor sobre las opciones para conocer sus características."
+    ],
+    "videos": [],
+    "title_candidate": "Coloquemos el cursor sobre las opciones para conocer"
+  },
+  {
+    "slide_id": "ab361222-b22c-4cab-b0b7-1788d5a40a6f",
+    "slide_name": "",
+    "texts": [
+      "En apariencia se decide cuál es la forma de presentar el documento.",
+      "Mostrar: Incrustar: aparece en una ventana dentro del entorno. Es funcional pero requiere de internet estable. Forzar descarga: obliga a la persona a bajar el recurso. Es funcional pero requiere que antes el documento esté revisado por antivirus. Abrir - Se abre en una ventana a parte. La opción más funcional para computadora. En ventana emergente - Se abre en una nueva ventana más pequeña. Es útil pero a las personas con ventanas emergentes bloquedas no les abre. Mostrar tamaño: muestra una leyenda con los GB del documento. Mostrar tipo: Muestra si es PDF, docx, pptx, entre otros Mostrar fecha de subida/modificación Mostrar descripción del recurso: la descripción escrita anteriormente aparece en la página principal de la semana o sección."
+    ],
+    "videos": [],
+    "title_candidate": "En apariencia se decide cuál es la forma"
+  }
+]

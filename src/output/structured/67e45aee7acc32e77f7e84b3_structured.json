@@ -1,0 +1,225 @@
+[
+  {
+    "slide_id": "6787eeecbdb3ca3cb6474fef",
+    "slide_name": "Novedades",
+    "texts": [
+      "Vista general del entorno para un curso en Mediación Virtual"
+    ],
+    "videos": [],
+    "title_candidate": "Novedades"
+  },
+  {
+    "slide_id": "3e045576-f1a2-4321-a463-c5947845b706",
+    "slide_name": "Entorno",
+    "texts": [
+      "Sector derecho del entorno",
+      "En el sector derecho encontraremos opciones que anteriormente también teníamos en Mediación Virtual"
+    ],
+    "videos": [],
+    "title_candidate": "Entorno"
+  },
+  {
+    "slide_id": "d7664fcf-c341-46c3-8dce-3c1506c73ccc",
+    "slide_name": "Elementos",
+    "texts": [
+      "¿Dónde encontramos las opciones para administrar el entorno?",
+      "Lo encontraremos debajo del nombre y sobre las sesiones"
+    ],
+    "videos": [],
+    "title_candidate": "Elementos"
+  },
+  {
+    "slide_id": "de0ee4c5-e8d8-4e02-b6b0-1b23ea118ad6",
+    "slide_name": "Curso",
+    "texts": [
+      "Curso",
+      "Esta pestaña nos permite acceder al muro de nuestro entorno virtual en cualquier momento de manera sencilla. Si cambiamos de ventana, con solo acceder de nuevo a esta opción estaremos de nuevo en la vista total de nuestro curso."
+    ],
+    "videos": [],
+    "title_candidate": "Curso"
+  },
+  {
+    "slide_id": "f1d68498-3861-4211-886b-0164c87581fc",
+    "slide_name": "Configuración",
+    "texts": [
+      "Ampliemos un poco sobre el bloque de Configuración",
+      "Como dijimos en configuración encontramos todos los ajustes del entorno virtual , que en la versión anterior de la plataforma se le conocía como \"Editar Ajustes\""
+    ],
+    "videos": [],
+    "title_candidate": "Configuración"
+  },
+  {
+    "slide_id": "46ab679e-ccb5-4256-8ffa-d6f43c7df772",
+    "slide_name": "Participantes",
+    "texts": [
+      "Participantes",
+      "En esta opción encontraremos todos los usuarios matriculados en el entorno virtual y tendremos la posibilidad de filtrar o incluir nuevos participantes. Más adelante en este módulo conoceremos más sobre este apartado."
+    ],
+    "videos": [],
+    "title_candidate": "Participantes"
+  },
+  {
+    "slide_id": "1a466f8f-f7d2-4765-ae6a-332c8223f125",
+    "slide_name": "Calificaciones",
+    "texts": [
+      "Calificaciones",
+      "En este apartado encontramos toda la sección de Calificaciones , solo que en esta versión de la plataforma se nos mostrará de primera entrada el Informe del calificador (anteriormente conocido como \"Reporte del calificador\"). Es decir,tendremos el registro de calificaciones de nuestros estudiantes más a la mano."
+    ],
+    "videos": [],
+    "title_candidate": "Calificaciones"
+  },
+  {
+    "slide_id": "4d71c31c-b12b-4633-bbad-9b5bc7b3338e",
+    "slide_name": "Informes",
+    "texts": [
+      "Informes",
+      "Este apartado permite recopilar los registros o bitácoras del curso o de sus actividades. En la versión anterior de la plataforma esta opción se conocía con el nombre de \"Reportes\" ."
+    ],
+    "videos": [],
+    "title_candidate": "Informes"
+  },
+  {
+    "slide_id": "95af3cf9-ee2d-4e28-9211-83144ff90fdf",
+    "slide_name": "Más",
+    "texts": [
+      "Más: funcionalidades para administrar nuestros entornos",
+      "Como vimos en este último apartado de \"Más\" podemos encontrar las opciones como: Banco de Preguntas, Banco de contenido, Papelera de Reciclaje y reutilización de curso"
+    ],
+    "videos": [],
+    "title_candidate": "Más"
+  },
+  {
+    "slide_id": "79c8a288-c1dd-40a0-9e7d-8d94735b7897",
+    "slide_name": "Finalmente",
+    "texts": [
+      "Finalmente, para concluir con este recorrido inicial, recordemos que al lado izquierdo contamos ahora con un índice que nos permite navegar por las distintas secciones que vayamos definiendo dentro de nuestro entorno virtual."
+    ],
+    "videos": [],
+    "title_candidate": "Finalmente"
+  },
+  {
+    "slide_id": "732edd40-ba60-41ee-aab3-eb9fd56c73b5",
+    "slide_name": "Recorrido Video",
+    "texts": [
+      "En el vídeo de la derecha, les acompañamos a hacer un recorrido sobre las posibilidades de edición de las semanas o seciones",
+      "Vídeo pendiente"
+    ],
+    "videos": [],
+    "title_candidate": "Recorrido Video"
+  },
+  {
+    "slide_id": "1a4a927a-0c73-48f5-b438-96821238b6b1",
+    "slide_name": "",
+    "texts": [
+      "Al igual que en la versión anterior, en este apartado podemos crear un banco de preguntas que sea de apoyo para las evaluaciones de nuestro curso. En la siguiente imagen podemos visualizar dónde crear las categorías y también las preguntas :",
+      "Banco de Preguntas",
+      "Esta versión además ofrece nuevas opciones de tipos de preguntas y la opción de realizar filtros dentro del banco para localizar las preguntas de manera más sencilla."
+    ],
+    "videos": [],
+    "title_candidate": "Al igual que en la versión anterior, en"
+  },
+  {
+    "slide_id": "2f5869e8-2e27-44ac-a9d1-8db12fe45cc8",
+    "slide_name": "",
+    "texts": [
+      "Permite agregar una breve descripción o un banner o imagen que sirva de identificador para el entorno virtual desde afuera; es decir, dará cierta presentación al entorno y lo diferenciará del resto en la ventana de \"Mi Escritorio Virtual\"",
+      "Lorem ipsum dolor sit"
+    ],
+    "videos": [],
+    "title_candidate": "Permite agregar una breve descripción o un banner"
+  },
+  {
+    "slide_id": "6aeb8056-bc7c-4a28-82ba-b0399724d873",
+    "slide_name": "",
+    "texts": [
+      "Permite colocar las fechas de inicio y finalización del entorno virtual. Además nos permite visualizar también si el entorno se encuentra Oculto o visible para nuestros estudiantes.",
+      "Lorem ipsum dolor",
+      "Lorem ipsum dolor sit"
+    ],
+    "videos": [],
+    "title_candidate": "Permite colocar las fechas de inicio y finalización"
+  },
+  {
+    "slide_id": "7e61de78-c9a3-4751-9a60-a17d7a4f9df7",
+    "slide_name": "",
+    "texts": [
+      "Esta última opción como vemos es muy importante , ya que es la que integra todas las funciones relacionadas con el respaldo del curso o con otros aspectos relacionados. Como vemos aquí podemos acceder a la copia de seguridad del curso , la importación, restauración o incluso hasta realizar una copia del entorno virtual.",
+      "Reutilización de curso"
+    ],
+    "videos": [],
+    "title_candidate": "Esta última opción como vemos es muy importante"
+  },
+  {
+    "slide_id": "89fb0a5c-ce69-4a15-a1f3-fb9c78b15594",
+    "slide_name": "",
+    "texts": [
+      "Esta es una nueva opción que integra esta versión de la plataforma que permite definir que el entorno virtual permita el seguimiento del grado de finalización por medio de un porcentaje. Es decir, si en este caso se ajustan las opciones a \"Sí\", podrá mostrarse a los estudiantes cuánto porcentaje del curso han avanzado según cuánto hayan ido completando del curso.",
+      "Rastreo de finalización",
+      "Importante: Para que este rastreo de finalización se muestre de forma correcta, el curso debe estar ya construido en su totalidad desde un inicio y haber asignado las condiciones de finalización para cada una de las actividades que sean condicionantes para el avance."
+    ],
+    "videos": [],
+    "title_candidate": "Esta es una nueva opción que integra esta"
+  },
+  {
+    "slide_id": "8ce0cf6f-a573-4baf-9e4a-66dee840e5e1",
+    "slide_name": "",
+    "texts": [
+      "En esta opción podemos cambiar el formato de nuestro curso según como queramos que se muestren las distintas secciones o semanas. En esta nueva plataforma encontramos nuevas opciones de formato como lo son: Formato Multitópico, Temas en pestañas y Formato mosaicos , estos además de los que ya contenía la antigua versión de Mediación Virtual.",
+      "Formato de curso"
+    ],
+    "videos": [],
+    "title_candidate": "En esta opción podemos cambiar el formato de"
+  },
+  {
+    "slide_id": "919ebcb8-af7f-4111-8f3b-bc2a0e00c21b",
+    "slide_name": "",
+    "texts": [
+      "Al igual que en la plataforma anterior, en esta opción se puede configurar que el entorno tenga un modo de grupo en específico o condicionarlo a algún agrupamiento si fuera necesario.",
+      "Grupos"
+    ],
+    "videos": [],
+    "title_candidate": "Al igual que en la plataforma anterior, en"
+  },
+  {
+    "slide_id": "9613043e-db8a-41ac-b749-d4e20ed9f438",
+    "slide_name": "",
+    "texts": [
+      "Esta opción permite definir aspectos de importancia como lo es el mostrar o no el libro de calificaciones a los estudiantes o los informes o fechas de actividades.",
+      "Apariencia",
+      "Lorem ipsum dolor sit"
+    ],
+    "videos": [],
+    "title_candidate": "Esta opción permite definir aspectos de importancia como"
+  },
+  {
+    "slide_id": "ab735106-6cf1-4758-87bf-9d5993a38249",
+    "slide_name": "",
+    "texts": [
+      "Archivos y subida",
+      "Permite definir el tamaño máximo de los archivos. Por defecto el sistema tiene asignada la opción más amplia que es de 500 MB, pero si por alguna razón se requiere ajustar esta opción a un número inferior se puede definir en esta casilla."
+    ],
+    "videos": [],
+    "title_candidate": "Archivos y subida"
+  },
+  {
+    "slide_id": "b5e3d503-ebe1-4172-8280-beaacbeb8918",
+    "slide_name": "",
+    "texts": [
+      "En esta opción nos dirigimos al panel donde se van guardando y agrupando nuestros mensajes. Como vemos aparece la sección de Mensajes Destacados, en Grupo o Privados. También nos aparece la opción de búsqueda para rastrear algún mensaje y también una opción para buscar los contactos.",
+      "Mensajería"
+    ],
+    "videos": [],
+    "title_candidate": "En esta opción nos dirigimos al panel donde"
+  },
+  {
+    "slide_id": "c48e6a99-2080-4bb1-b452-66d58aae161c",
+    "slide_name": "",
+    "texts": [
+      "En esta opción podremos tener acceso a todo el menú de nuestro perfil y algunas otras opciones que como usuarios queramos ajustar. En este caso contamos con la opción de acceder a Calificaciones, Calendario, Archivos privados, Preferencias, Idioma, Cambiar de rol y Cerrar la sesión.",
+      "Opción de Perfil y configuraciones de usuario",
+      "Lorem ipsum dolor sit"
+    ],
+    "videos": [],
+    "title_candidate": "En esta opción podremos tener acceso a todo"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "slide_id": "68af3a64a3cd32b1dc4c3f94",
+    "slide_name": "Inicio",
+    "texts": [
+      "Configurando Rúbricas en nuestras evaluaciones"
+    ],
+    "videos": [],
+    "title_candidate": "Inicio"
+  },
+  {
+    "slide_id": "1346d7c7-981f-427d-b7b0-d1dfc0c417b3",
+    "slide_name": "Recordatorio",
+    "texts": [
+      "Un poco sobre las rúbricas...",
+      "Las rúbricas son una de las herramientas para la evaluación de los aprendizajes que podemos encontrar dentro de Mediación Virtual. Permiten realizar una evaluación desde una perspectiva más formativa , donde se pueda brindar una retroalimentación más completa e inmediata del alcance en aspectos o criterios que son importantes para el desarrollo o ejecución de una tarea específica y por tanto, del cumplimiento del objetivo de aprendizaje. La rúbrica también va acompañada de una escala númerica, que permite brindar una calificación o puntaje a la evaluación realizada; sin embargo, su valor radica más en lo formativo que en lo sumativo."
+    ],
+    "videos": [],
+    "title_candidate": "Recordatorio"
+  },
+  {
+    "slide_id": "a68f58bd-f999-4c1d-8ee7-a782e6df8010",
+    "slide_name": "Información",
+    "texts": [
+      "¿En cuáles actividades puedo utilizar una rúbrica?",
+      "La rúbrica solo puede ser configurada dentro de Mediación Virtual en las siguientes actividades",
+      "Tarea",
+      "Taller"
+    ],
+    "videos": [],
+    "title_candidate": "Información"
+  },
+  {
+    "slide_id": "eee5f7c8-13d4-4b5a-8111-f67c7cf9add3",
+    "slide_name": "Paso 1 y 2",
+    "texts": [
+      "¿Cómo se configura dentro de una Tarea?",
+      "Debemos ingresar a las configuraciones de la Tarea y en el apartado de Calificación designemos en la opción de Tipo la que corresponde a Puntuación :",
+      "Luego, en la opción de Método de Calificación elijamos el que corresponde a Rúbrica :"
+    ],
+    "videos": [],
+    "title_candidate": "Paso 1 y 2"
+  },
+  {
+    "slide_id": "44d9d40a-8077-48cb-906c-31ab56dac262",
+    "slide_name": "Paso 3",
+    "texts": [
+      "Una vez guardados los cambios ubiquemos la opción de Calificación avanzada en el panel de administración de la actividad:"
+    ],
+    "videos": [],
+    "title_candidate": "Paso 3"
+  },
+  {
+    "slide_id": "66e04319-48b2-4681-bd02-758e579a6ded",
+    "slide_name": "Paso 4",
+    "texts": [
+      "Luego elijamos la opción de Nuevo formulario desde cero si queremos comenzar a diseñar nuestra rúbrica.",
+      "Nota: Si ya tenemos alguna rúbrica construida previamente, podemos elegir la opción de Nuevo formulario a partir de una plantilla."
+    ],
+    "videos": [],
+    "title_candidate": "Paso 4"
+  },
+  {
+    "slide_id": "3f44d8bd-4339-425d-8288-9876fa6e044e",
+    "slide_name": "Paso 5",
+    "texts": [
+      "En la siguiente pantalla coloquemos primeramente un nombre y una descripción a la evaluación en los apartados correspondientes:",
+      "Nota: En la descripción recuerde especificar el valor porcentual o puntaje que tiene esta rúbrica y cualquier otro detalle referente a esta evaluación."
+    ],
+    "videos": [],
+    "title_candidate": "Paso 5"
+  },
+  {
+    "slide_id": "15d30d84-c9e8-439f-9ff4-59eeb0b884aa",
+    "slide_name": "Paso 6",
+    "texts": [
+      "A continuación encontraremos las opciones para diseñar nuestra rúbrica",
+      "Las casillas de la izquierda son para añadir los criterios de calificación.",
+      "Las casillas que tienen puntos asignados son para colocar los niveles definidos para ese criterio de calificación.",
+      "Ajustes opcionales a desmarcar según los requerimientos de la rúbrica.",
+      "Finalmente elija las opciones de guardar según como lo requiera; sea para ser usada en el momento o dejarla como borrador."
+    ],
+    "videos": [],
+    "title_candidate": "Paso 6"
+  },
+  {
+    "slide_id": "47471ef4-3b62-42b0-996b-1a5261f51280",
+    "slide_name": "Vistas",
+    "texts": [
+      "Vista de docente",
+      "Vista de estudiante",
+      "¿Cómo se ve la rúbrica una vez configurada?"
+    ],
+    "videos": [],
+    "title_candidate": "Vistas"
+  },
+  {
+    "slide_id": "4bb98c91-db7e-45d0-bb9d-c3ec6f4b8538",
+    "slide_name": "Paso 1 calificación",
+    "texts": [
+      "¿Cómo se hace la calificación en la rúbrica?",
+      "Ingresemos a la Tarea y marquemos alguno de los botones para revisar las entregas:"
+    ],
+    "videos": [],
+    "title_candidate": "Paso 1 calificación"
+  },
+  {
+    "slide_id": "d34bc511-f075-46c3-8c05-f377b04cd62b",
+    "slide_name": "Paso 2 calificación",
+    "texts": [
+      "Una vez en la opción de Calificar, nos aparecerá la pantalla para poder utilizar la rúbrica en la evaluación"
+    ],
+    "videos": [],
+    "title_candidate": "Paso 2 calificación"
+  },
+  {
+    "slide_id": "3b6feef7-1624-47a0-978e-f5d7aa40b481",
+    "slide_name": "Vistas 2",
+    "texts": [
+      "¿Cómo visualizarán los estudiantes la rúbrica luego de la evaluación?",
+      "Los estudiantes podrán ver su evaluación con una vista similar a la siguiente:"
+    ],
+    "videos": [],
+    "title_candidate": "Vistas 2"
+  },
+  {
+    "slide_id": "6b209c35-2ef8-430c-bf34-1e9a9f6fc888",
+    "slide_name": "Recomendaciones finales",
+    "texts": [
+      "Algunas recomendaciones finales...",
+      "Tratemos primero de definir nuestra rúbrica primero en borrador en un documento para poder así esclarecer mejor nuestro objetivo de aprendizaje, así como los criterios y niveles de la evaluación. Al momento de configurar nuestra rúbrica, tengamos en cuenta todos los aspectos anteriormente descritos; sobre todo en los ajustes de la tarea, no coloquemos la escala como el tipo de calificación pues esto repercutirá en poder utilizar la rúbrica al momento de realizar la evaluación. Validemos la rúbrica con nuestros estudiantes sea antes de ser aplicada o posteriormente, para así estar seguros de su claridad y una retroalimentación efectiva para su aprendizaje."
+    ],
+    "videos": [],
+    "title_candidate": "Recomendaciones finales"
+  },
+  {
+    "slide_id": "a294e54e-97b5-4099-bae8-3f788e55697c",
+    "slide_name": "",
+    "texts": [
+      "Observe la imagen. Esta será la vista de la persona docente al entrar nuevamente a calificación avanzada y desde ahí se puede editar de nuevo:"
+    ],
+    "videos": [],
+    "title_candidate": "Observe la imagen. Esta será la vista de"
+  },
+  {
+    "slide_id": "12092dd2-065f-44d2-ad18-5a07bc5a2032",
+    "slide_name": "",
+    "texts": [
+      "Observe la imagen. Esta será la vista de la persona estudiante al momento de ingresar a la Tarea."
+    ],
+    "videos": [],
+    "title_candidate": "Observe la imagen. Esta será la vista de"
+  }
+]

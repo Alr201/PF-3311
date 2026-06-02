@@ -1,0 +1,66 @@
+[
+  {
+    "source": "https://view.genially.com/68b1f0b64407469de2560357",
+    "genially_id": "68b1f0b64407469de2560357",
+    "slide_id": "6787f1701e177088c871b858",
+    "slide_name": "Portada",
+    "title_candidate": "Portada",
+    "content": "TITULO_CANDIDATO: Portada\n\nCONTENIDO:\n\nImportación en un entorno virtual"
+  },
+  {
+    "source": "https://view.genially.com/68b1f0b64407469de2560357",
+    "genially_id": "68b1f0b64407469de2560357",
+    "slide_id": "fdade06e-ac56-40e9-999b-f188e6ac3105",
+    "slide_name": "Definición",
+    "title_candidate": "Definición",
+    "content": "TITULO_CANDIDATO: Definición\n\nCONTENIDO:\n\nLa importación es una función que permite traer la información, la estructura, los materiales o las actividades de un entorno virtual de un curso de origen a otro.\n¿Qué es la importación?"
+  },
+  {
+    "source": "https://view.genially.com/68b1f0b64407469de2560357",
+    "genially_id": "68b1f0b64407469de2560357",
+    "slide_id": "1e8e4963-bb44-4b68-a5a1-56f74309f1dc",
+    "slide_name": "Paso 1 y 2",
+    "title_candidate": "Paso 1 y 2",
+    "content": "TITULO_CANDIDATO: Paso 1 y 2\n\nCONTENIDO:\n\nDirijámonos al menú del entorno donde necesito la información, material o actividades a importar y hagamos clic en Más. Allí seleccionamos la opción Reutilización de curso .\n¿Cómo se realiza la importación?\nSe abrirán cuatro opciones, escojamos Importar ."
+  },
+  {
+    "source": "https://view.genially.com/68b1f0b64407469de2560357",
+    "genially_id": "68b1f0b64407469de2560357",
+    "slide_id": "c735d277-348e-4c48-847c-b4332b9f43ee",
+    "slide_name": "Paso 3",
+    "title_candidate": "Paso 3",
+    "content": "TITULO_CANDIDATO: Paso 3\n\nCONTENIDO:\n\nSeleccionemos el curso de origen desde donde desea importar. Luego hacemos clic en Continuar .\nImportante: Recuerde que para importar desde curso, debe tener el rol docente en el curso de origen."
+  },
+  {
+    "source": "https://view.genially.com/68b1f0b64407469de2560357",
+    "genially_id": "68b1f0b64407469de2560357",
+    "slide_id": "2dc63859-3720-48b1-8352-d7860d0d4bbf",
+    "slide_name": "Paso 4",
+    "title_candidate": "Paso 4",
+    "content": "TITULO_CANDIDATO: Paso 4\n\nCONTENIDO:\n\nMarquemos qué elementos del curso de origen queremos traer al entorno"
+  },
+  {
+    "source": "https://view.genially.com/68b1f0b64407469de2560357",
+    "genially_id": "68b1f0b64407469de2560357",
+    "slide_id": "1691b698-1fae-420e-8473-f4ac8bb7e243",
+    "slide_name": "Paso 5",
+    "title_candidate": "Paso 5",
+    "content": "TITULO_CANDIDATO: Paso 5\n\nCONTENIDO:\n\nMarquemos los bloques, las actividades y los recursos del curso de origen queremos traer al entorno."
+  },
+  {
+    "source": "https://view.genially.com/68b1f0b64407469de2560357",
+    "genially_id": "68b1f0b64407469de2560357",
+    "slide_id": "7ab87413-0744-4549-8ac3-83d1d945a8e4",
+    "slide_name": "Paso 6",
+    "title_candidate": "Paso 6",
+    "content": "TITULO_CANDIDATO: Paso 6\n\nCONTENIDO:\n\nVerifiquemos la importación\n\nTRANSCRIPCION:\n\nRevisemos todos los elementos que señala el sistema, los cuales importará del curso de origen al nuevo entorno. Seguidamente, hagamos clic en el botón Realizar la importación. Esto tardará dependiendo del peso del curso de origen. A continuación aparecerá una última pantalla que indicará importación completada. Allí, hagamos clic en el botón Continuar. La página nos llevará al entorno virtual donde podemos verificar que se trasladó el curso."
+  },
+  {
+    "source": "https://view.genially.com/68b1f0b64407469de2560357",
+    "genially_id": "68b1f0b64407469de2560357",
+    "slide_id": "cd407079-2b81-42d5-8a1f-62e1088c95d3",
+    "slide_name": "",
+    "title_candidate": "Utilícelo cuando se desea: Reutilizar contenido existente: Si",
+    "content": "TITULO_CANDIDATO: Utilícelo cuando se desea: Reutilizar contenido existente: Si\n\nCONTENIDO:\n\nUtilícelo cuando se desea: Reutilizar contenido existente: Si la persona docente ya tiene un curso con contenido que le gustaría usar en un curso nuevo u en un entorno ya existente, puede importar las actividades, recursos y preguntas directamente al nuevo curso. Compartir con otros docentes: Si una persona docente tiene un curso o partes del entorno que deba compartir con otro docente, puede importar esos datos si tiene el rol Docente del curso de origen. Crear una plantilla o base de curso: esta opción sirve para las personas coordinadoras puedan hacer un curso base y que las personas que conforman el equipo de docentes puedan importar el contenido a un entorno nuevo para desarrollar cursos similares, asegurando una estructura planteada por la cátedra.\nRecomendaciones"
+  }
+]

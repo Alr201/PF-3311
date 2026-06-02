@@ -1,0 +1,123 @@
+[
+  {
+    "slide_id": "6ae438c2-48b4-4ce3-b6c0-30e88c218cf7",
+    "slide_name": "2",
+    "texts": [
+      "Recurso: Archivo"
+    ],
+    "videos": [],
+    "title_candidate": "2"
+  },
+  {
+    "slide_id": "ff9cc66f-9fe8-43d7-8c57-f305b34dee27",
+    "slide_name": "2",
+    "texts": [
+      "¿Cómo se inserta un recurso?",
+      "¿Cómo se configura el recurso?",
+      "¿Cómo se ve en la página de la plataforma?",
+      "¿Cuáles son algunos usos que podemos darle a la actividad Etiqueta?",
+      "¿Qué es el recurso Archivo?",
+      "Menú"
+    ],
+    "videos": [],
+    "title_candidate": "2"
+  },
+  {
+    "slide_id": "4bc628c1-9795-44c4-8097-46f50121c202",
+    "slide_name": "Qué es un archivo",
+    "texts": [
+      "¿Qué es el recurso Archivo?",
+      "El recurso Archivo permite a las personas docentes proveer un archivo (documento) como un recurso del curso. Tiene una gran diversidad de formatos para subir."
+    ],
+    "videos": [],
+    "title_candidate": "Qué es un archivo"
+  },
+  {
+    "slide_id": "98c3b73a-7112-4e04-ad28-3c4e405a0885",
+    "slide_name": "Insertar recursos",
+    "texts": [
+      "¿Cómo inserto un archivo en Mediación virtual?",
+      "Activemos edición Vayamos a la semana o sesión donde colocaremos el archivo Hagamos clic en el botón Añadir una actividad o un recurso. Vayamos a la pestaña Recursos Hagamos clic en la opción Archivo. Observe el siguiente vídeo a continuación para ver el paso a paso:"
+    ],
+    "videos": [
+      {
+        "video_id": "NMDUz0DaSaY",
+        "source": "https://youtu.be/NMDUz0DaSaY",
+        "transcript": "En este vídeo aprenderemos a armontar los materiales del curso en su entorno virtual. Seguidamente, dirijámonos a la semana o el tema que desea completar. Podremos integrar nuestros materiales o actividades a través de la opción añadir una actividad o un recurso. En ella encontraremos la pestaña de actividades con las diferentes opciones que nos permiten interactuar con las personas estudiantes e ir haciendo evaluaciones tanto sumativas como formativas. En la pestaña de recursos encontraremos todas las herramientas para poder compartir aquella información necesaria para el curso, sea por archivos, enlaces u otros materiales propios creados para reforzarlos a aprendizajes. Además, tendremos la opción de seleccionar nuestras herramientas favoritas haciendo clic en la estrella. Estas aparecerán en la pestaña de destacados. Ya podemos crear nuestras semanas o secciones con las posibilidades que nos ofrece esta nueva mediación virtual."
+      }
+    ],
+    "title_candidate": "Insertar recursos"
+  },
+  {
+    "slide_id": "6786a8ba8e85771a85675ea9",
+    "slide_name": "Configuración",
+    "texts": [
+      "Indicaciones de la sesión",
+      "¿Cómo se configura el recurso Archivo?",
+      "Coloquemos el cursor sobre los distintos apartados que se ven en la imagen:"
+    ],
+    "videos": [],
+    "title_candidate": "Configuración"
+  },
+  {
+    "slide_id": "d4eae355-ad4a-44e7-ac33-47c0242268f1",
+    "slide_name": "Vista",
+    "texts": [
+      "Indicaciones de la sesión",
+      "Vista en la sesión",
+      "Vista de docente",
+      "Vista de estudiante",
+      "¿Cómo se ve en la página de la plataforma?"
+    ],
+    "videos": [],
+    "title_candidate": "Vista"
+  },
+  {
+    "slide_id": "04768bff-358b-4b27-a31c-a4ecd0fd47e5",
+    "slide_name": "Recomendaciones",
+    "texts": [
+      "¿Cuáles son algunos usos que podemos darle al recurso Archivo?",
+      "Subir documentos de texto (como Word, PDF, TXT, etc.), presentaciones (PowerPoint), hojas de cálculo y archivos comprimidos (ZIP) Compartir el Programa de curso (acción obligatoria segúnresolución VD-12784-2023) Proporcionar textos con derechos libres o Creative Commons"
+    ],
+    "videos": [],
+    "title_candidate": "Recomendaciones"
+  },
+  {
+    "slide_id": "05f60d0b-88da-458d-a499-934ca6817cbe",
+    "slide_name": "",
+    "texts": [
+      "Vista antes de ingresar o descargar un documento"
+    ],
+    "videos": [],
+    "title_candidate": "Vista antes de ingresar o descargar un documento"
+  },
+  {
+    "slide_id": "1bcfd4e2-0b25-4ab8-ad31-fc4a263876ef",
+    "slide_name": "",
+    "texts": [
+      "Coloquemos el cursor sobre las opciones para conocer sus características."
+    ],
+    "videos": [],
+    "title_candidate": "Coloquemos el cursor sobre las opciones para conocer"
+  },
+  {
+    "slide_id": "47b16d28-7868-4fb0-ba94-f199390f4ef7",
+    "slide_name": "",
+    "texts": [
+      "En apariencia se decide cuál es la forma de presentar el documento.",
+      "Mostrar: Incrustar: aparece en una ventana dentro del entorno. Es funcional pero requiere de internet estable. Forzar descarga: obliga a la persona a bajar el recurso. Es funcional pero requiere que antes el documento esté revisado por antivirus. Abrir - Se abre en una ventana a parte. La opción más funcional para computadora. En ventana emergente - Se abre en una nueva ventana más pequeña. Es útil pero a las personas con ventanas emergentes bloquedas no les abre. Mostrar tamaño: muestra una leyenda con los GB del documento. Mostrar tipo: Muestra si es PDF, docx, pptx, entre otros Mostrar fecha de subida/modificación Mostrar descripción del recurso: la descripción escrita anteriormente aparece en la página principal de la semana o sección."
+    ],
+    "videos": [],
+    "title_candidate": "En apariencia se decide cuál es la forma"
+  },
+  {
+    "slide_id": "e587c919-7dbe-4db6-8d49-dfe0105cee12",
+    "slide_name": "",
+    "texts": [
+      "Vista en sección",
+      "Vista al abrir el archivo"
+    ],
+    "videos": [],
+    "title_candidate": "Vista en sección"
+  }
+]

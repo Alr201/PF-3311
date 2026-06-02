@@ -1,0 +1,123 @@
+[
+  {
+    "slide_id": "6ae438c2-48b4-4ce3-b6c0-30e88c218cf7",
+    "slide_name": "2",
+    "texts": [
+      "Actividad Asistencia"
+    ],
+    "videos": [],
+    "title_candidate": "2"
+  },
+  {
+    "slide_id": "30e2e166-7f3c-43f6-a14c-eec5ddf2e891",
+    "slide_name": "",
+    "texts": [
+      "¿Qué es la asistencia?",
+      "El Asistencia es una herramienta que sirve para que cada estudiante pueda confirmar su participación en una sesión sincrónica o asincrónica. La encontramos dentro de Añadir una actividad o un recurso , en la pestaña Actividades ."
+    ],
+    "videos": [],
+    "title_candidate": "¿Qué es la asistencia?"
+  },
+  {
+    "slide_id": "7e629646-e92c-4c66-9b58-893cfdda9b54",
+    "slide_name": "Asistencia",
+    "texts": [
+      "¿Cómo se configura la actividad?"
+    ],
+    "videos": [],
+    "title_candidate": "Asistencia"
+  },
+  {
+    "slide_id": "d4ef6d00-f5f8-478e-a009-d4152c093494",
+    "slide_name": "",
+    "texts": [
+      "¿Cómo se configura una sesión de la actividad Asistencia?"
+    ],
+    "videos": [
+      {
+        "video_id": "zlgPzQYBV1s",
+        "source": "https://youtu.be/zlgPzQYBV1s",
+        "transcript": "Ingrese a la actividad de asistencia que configuró en su entorno virtual. Para editar una clase, hagamos clic en Añadir sesión. Se abrirán las opciones para calendarizarla. En fecha, seleccionemos el día, mes y año. En tiempo elijamos el horario en formato de 24 horas. Es requerido dejar claro a qué hora inicia y a qué hora finaliza la toma de asistencia. En descripción, coloque el objetivo de aprendizaje y las actividades de la sesión. En la opción Varias sesiones, puede programar la asistencia para todo el ciclo, seleccionando los días que se repite la sesión, la cantidad de semanas y la fecha de cierre del periodo. La asistencia puede ser registrada por la persona estudiante, habilitando la opción permitir a los estudiantes registrar su propia asistencia. Además existe la opción de que puedan actualizar la selección realizada. Es importante observar que se puede colocar una contraseña para la asistencia por sesión, permitiendo que se realice en clases presenciales o virtuales sin crónicas. Tome en cuenta que si no requiere contraseña, asegúrese que todas las opciones estén deshabilitadas. Por último, hagamos clic en Añadir. Así aparecerá la sesión o sesiones en nuestra actividad asistencia."
+      }
+    ],
+    "title_candidate": "¿Cómo se configura una sesión de la actividad"
+  },
+  {
+    "slide_id": "e73c1e63-4920-4601-a41b-562e5897b008",
+    "slide_name": "",
+    "texts": [
+      "¿Cómo se ve en la página de la plataforma?",
+      "Vista en la sesión",
+      "Vista de docente",
+      "Vista de estudiante"
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo se ve en la página de la"
+  },
+  {
+    "slide_id": "ca9e6aa4-e345-41f0-a053-afdbadd443f3",
+    "slide_name": "",
+    "texts": [
+      "¿Cuáles son algunos usos que podemos darle a la actividad Asistencia en el curso?",
+      "Marcar la asistencia: con el Rol Docente podemos registrar manualmente si un estudiante estuvo presente, ausente o si llegó tarde. Control de participaciones: además de la asistencia física, también podemos registrar participaciones en actividades en línea, principalmente sesiones sincrónicas. Generar informes: podemos generar informes de asistencia para llevar un control y evaluar la participación de los estudiantes a lo largo del curso. Configuración personalizada: con el Rol Docente podemos configurar el sistema de asistencia según las necesidades del curso, como establecer criterios específicos (por ejemplo, si se permite un número determinado de ausencias)."
+    ],
+    "videos": [],
+    "title_candidate": "¿Cuáles son algunos usos que podemos darle a"
+  },
+  {
+    "slide_id": "8c44e745-0489-46a1-a5bc-a98b9efbd22e",
+    "slide_name": "",
+    "texts": [
+      "Recomendaciones",
+      "El Asistencia es una herramienta que sirve para que cada estudiante pueda confirmar su participación en una sesión sincrónica o asincrónica."
+    ],
+    "videos": [],
+    "title_candidate": "Recomendaciones"
+  },
+  {
+    "slide_id": "376a8cc9-6475-44e0-a54b-b736cac36af9",
+    "slide_name": "",
+    "texts": [
+      "Disponibilidad: Permite Mostrar la actividad en la sesión o semana u Ocultarla cuando aún no se realiza la actividad. Recuerde hacerla disponible antes de que llegue la fecha de entrega. Forzar idioma: útil para los cursos de lenguas modernas. Modo de grupo: Depende de la Configuración de entrega por grupo y puede configurarlo por Grupos Visibles o Grupos Separados. Agrupamientos: esta función se activa al escoger el Modo de Grupo y le abrirá la opción de escoger el Agrupamiento previamente configurado en Participantes."
+    ],
+    "videos": [],
+    "title_candidate": "Disponibilidad: Permite Mostrar la actividad en la sesión"
+  },
+  {
+    "slide_id": "61a7de1e-d266-419e-9236-c0b53b71aab2",
+    "slide_name": "",
+    "texts": [
+      "Observe la vista qque tendrá usted como docente luego de configurar una asistencia"
+    ],
+    "videos": [],
+    "title_candidate": "Observe la vista qque tendrá usted como docente"
+  },
+  {
+    "slide_id": "7686abac-eee7-407d-9bac-1e77931a58bd",
+    "slide_name": "",
+    "texts": [
+      "En esta opción se configurar ​cuales usuarios pueden participar o no en el la toma de asistencia. Para agregarla debemos hacer clic en ​Añadir restricción..."
+    ],
+    "videos": [],
+    "title_candidate": "En esta opción se configurar ​cuales usuarios pueden"
+  },
+  {
+    "slide_id": "ce50022f-d34c-4b70-b339-406661a8ccef",
+    "slide_name": "",
+    "texts": [
+      "Nombre de la Asistencia como aparece en el programa de curso.",
+      "Descripción de la Asistencia, que incluya cuando se toma asistencia. Este es útil para los cursos de Asistencia Obligatoria ."
+    ],
+    "videos": [],
+    "title_candidate": "Nombre de la Asistencia como aparece en el"
+  },
+  {
+    "slide_id": "f087535c-04b7-4e32-be10-8d24630f2c49",
+    "slide_name": "",
+    "texts": [
+      "Calificación: Ninguna: la asistencia puede requierir entrega pero no requiere nota. Puntuación: la persona docente elige la calificación máxima. Recuerde que la asistencia solo puede ser regulada en cursos de asistencia obligatoria. Ver Artículo 14bis del Reglamento de Régimen Académico Estudiantil. Escala: la persona docente elige la escala previamente configurada. Categoría de calificaciones: Incluye la asistencia a una Categoría dentro del libro de calificaciones. Calificación para aprobar: Determina la calificación mínica para aprobar el rubro. Esto se vería diferenciado en el libro de calificaciones."
+    ],
+    "videos": [],
+    "title_candidate": "Calificación: Ninguna: la asistencia puede requierir entrega pero"
+  }
+]

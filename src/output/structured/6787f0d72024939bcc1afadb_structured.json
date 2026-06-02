@@ -1,0 +1,357 @@
+[
+  {
+    "slide_id": "6787f0d72024939bcc1afae6",
+    "slide_name": "Formatos de la nueva Mediación Virtual",
+    "texts": [
+      "Formatos de entorno en Mediación Virtual"
+    ],
+    "videos": [],
+    "title_candidate": "Formatos de la nueva Mediación Virtual"
+  },
+  {
+    "slide_id": "f3f612ce-2afa-4ae8-92ca-a02711f43e3e",
+    "slide_name": "Descripción",
+    "texts": [
+      "Los formatos del curso nos permiten decidir cómo se visualizará el entorno virtual de aprendizaje para nuestro estudiantado. A continuación, exploraremos las modalidades que ofrece Mediación Virtual para personalizar y optimizar nuestros cursos. ¡Empecemos!"
+    ],
+    "videos": [],
+    "title_candidate": "Descripción"
+  },
+  {
+    "slide_id": "5f0249c0-68ab-45ae-9944-569514719b12",
+    "slide_name": "Modo de edición",
+    "texts": [
+      "En la esquina superior derecha del entorno, hagamos clic en el botón \"Modo Edición\" para habilitar las opciones de personalización. Justo debajo del título del curso, localicemos el menú de administración y seleccionemos la pestaña de \"Configuración\"."
+    ],
+    "videos": [],
+    "title_candidate": "Modo de edición"
+  },
+  {
+    "slide_id": "dd1dc61b-c829-4b86-b862-57a9e1fd4071",
+    "slide_name": "Formato de curso",
+    "texts": [
+      "Dentro del menú de configuración, busquemos la opción \"Formato de curso\" Esta opción desplegará un menú con varias opciones de formato. Cada una ofrece una organización distinta para el entorno del curso. Vamos a explorarlas una por una en las próximas diapositivas."
+    ],
+    "videos": [],
+    "title_candidate": "Formato de curso"
+  },
+  {
+    "slide_id": "54c712e8-6ff2-4567-b8fa-26237e83ac3d",
+    "slide_name": "Formato:Secciones Personalizadas",
+    "texts": [
+      "Formato: Secciones Personalizadas",
+      "Este formato nos permite cambiar el nombre de las secciones de acuerdo a los temas del curso, pasos de un proyecto, elementos de un proceso, entre otros. De esta forma, podemos añadir contenido y actividades dentro de cada sección."
+    ],
+    "videos": [],
+    "title_candidate": "Formato:Secciones Personalizadas"
+  },
+  {
+    "slide_id": "5e308f44-1503-4030-8029-b89f1fd6396f",
+    "slide_name": "¿Cómo se ve el formatoSecciones Personalizadas?",
+    "texts": [
+      "¿Cómo se ve el formato Secciones Personalizadas?"
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo se ve el formatoSecciones Personalizadas?"
+  },
+  {
+    "slide_id": "6552c5dc-88af-425f-a729-f9f82635e235",
+    "slide_name": "Formato: Secciones Semanales",
+    "texts": [
+      "Este es el formato que aparecerá al abrir un entorno virtual. Es funcional para los cursos que tienen actividades y recursos semanales. Cada sección tiene un encabezado de fecha y dentro del mismo podremos agregar los materiales previamente planificados.",
+      "Formato: Secciones Semanales",
+      "Al igual que en las secciones personalizadas, aquí podemos elegir si las secciones ocultas se muestran o no al estudiantado. También podemos elegir si se mostrarán todas las secciones en una sola página, o bien, una sección por página."
+    ],
+    "videos": [],
+    "title_candidate": "Formato: Secciones Semanales"
+  },
+  {
+    "slide_id": "1204acad-b46e-4b0b-a436-7e1a29af8fc0",
+    "slide_name": "¿Cómo se ve el formatoSecciones Semanales?",
+    "texts": [
+      "¿Cómo se ve el formato Secciones Semanales?"
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo se ve el formatoSecciones Semanales?"
+  },
+  {
+    "slide_id": "ac759945-e051-41f0-b3fb-7fe80e8302cc",
+    "slide_name": "Formato:Rejilla",
+    "texts": [
+      "Es una opción de diseño para organizar los cursos de manera más visual e intuitiva. En lugar de una lista lineal de secciones, presenta los temas como una cuadrícula de tarjetas o bloques, cada uno con una imagen representativa y su título.",
+      "Formato: Rejilla"
+    ],
+    "videos": [],
+    "title_candidate": "Formato:Rejilla"
+  },
+  {
+    "slide_id": "77e9d43e-5e6e-43b3-9f22-56d9365cf5d7",
+    "slide_name": "¿Cómo se ve el formato Rejilla?",
+    "texts": [
+      "¿Cómo se ve el formato Rejilla?"
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo se ve el formato Rejilla?"
+  },
+  {
+    "slide_id": "44522c00-28f3-476f-9e9b-2ce1ed283758",
+    "slide_name": "Formato:Temas en Pestañas",
+    "texts": [
+      "Organiza las secciones del curso en pestañas horizontales o verticales, mostrando solo el contenido de la pestaña seleccionada. Esto mejora la navegación y evita desplazamientos largos en cursos con mucho material.",
+      "Formato: Temas en Pestañas"
+    ],
+    "videos": [],
+    "title_candidate": "Formato:Temas en Pestañas"
+  },
+  {
+    "slide_id": "8cae83a6-d678-46af-816b-cbbadd3faee9",
+    "slide_name": "¿Cómo se ve el formatoTemas en Pestañas?",
+    "texts": [
+      "¿Cómo se ve el formato Temas en Pestañas?"
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo se ve el formatoTemas en Pestañas?"
+  },
+  {
+    "slide_id": "0fb4ea19-7521-4fde-aebe-c8dcb893c797",
+    "slide_name": "Formato: Mosaicos",
+    "texts": [
+      "Presenta las secciones del curso en forma de mosaicos o recuadros en una cuadrícula, en lugar de una lista tradicional. Al hacer clic en un mosaico, su contenido se despliega con una transición animada, mejorando la experiencia visual y facilitando la navegación.",
+      "Formato: Mosaicos"
+    ],
+    "videos": [],
+    "title_candidate": "Formato: Mosaicos"
+  },
+  {
+    "slide_id": "9ce5b2da-351c-4aae-8289-6fb61778ecd0",
+    "slide_name": "¿Cómo se ve el formato Mosaicos?",
+    "texts": [
+      "¿Cómo se ve el formato Mosaicos?"
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo se ve el formato Mosaicos?"
+  },
+  {
+    "slide_id": "97677d6e-ca4a-4ab2-8253-2cc13c9dfacc",
+    "slide_name": "Formato: Temas Colapsados",
+    "texts": [
+      "Este formato muestra cada sección del curso en estado minimizado, visualizando solo el título. Para ingresar se debe expandir el tema, facilitando una organización más ordenada de la información",
+      "Formato: Temas Colapsados"
+    ],
+    "videos": [],
+    "title_candidate": "Formato: Temas Colapsados"
+  },
+  {
+    "slide_id": "6bae50b9-d77d-4cfc-8de1-a6b6747785b9",
+    "slide_name": "Colores",
+    "texts": [
+      "Al configurar los colores de los planos, pensemos en que tenga contrastes, utilizar colores opacos, evitando los colores brillantes"
+    ],
+    "videos": [],
+    "title_candidate": "Colores"
+  },
+  {
+    "slide_id": "10c95894-a0c3-4b7b-b90e-550d0a827fdf",
+    "slide_name": "¿Cómo se ve el formatoTemas Colapsados?",
+    "texts": [
+      "¿Cómo se ve el formato Temas Colapsados ?"
+    ],
+    "videos": [],
+    "title_candidate": "¿Cómo se ve el formatoTemas Colapsados?"
+  },
+  {
+    "slide_id": "73f8bac6-1462-4737-9cc7-82802ceeedbc",
+    "slide_name": "Guardar cambios y mostrar",
+    "texts": [
+      "Una vez que seleccionemos el formato que mejor se adapta a la metodología planteada en nuestro programa de curso y que nos permite alcanzar mejor los objetivos de aprendizaje, hagamos clic en el botón \"Guardar y regresar al curso\" para aplicar los cambios.",
+      "Es importante familiarizarnos con los formatos de presentación de los cursos en Mediación Virtual antes de hacer la habilitación del curso, para optimizar nuestra experiencia educativa."
+    ],
+    "videos": [],
+    "title_candidate": "Guardar cambios y mostrar"
+  },
+  {
+    "slide_id": "0de4d3e2-d0ce-4c8f-9107-22bb7bdd1be6",
+    "slide_name": "",
+    "texts": [
+      "Con esta opción podemos cambiar el color de los mosaicos con los colores predefinidos que se presentan, variando su presentación tal como se ve en la imagen:"
+    ],
+    "videos": [],
+    "title_candidate": "Con esta opción podemos cambiar el color de"
+  },
+  {
+    "slide_id": "10c9b810-21c8-4fc5-b6e8-724e220bd4da",
+    "slide_name": "",
+    "texts": [
+      "Así es como se verá:"
+    ],
+    "videos": [],
+    "title_candidate": "Así es como se verá:"
+  },
+  {
+    "slide_id": "15cbe690-5bc1-41c9-b8d4-8be140af4ba0",
+    "slide_name": "",
+    "texts": [
+      "Si seleccionamos \"Horizontal\" se mostrarán las columnas de izquierda a derecha como en la imagen:",
+      "Si seleccionamos \"Vertical\" se mostrarán las columnas de arriba hacia abajo:"
+    ],
+    "videos": [],
+    "title_candidate": "Si seleccionamos \"Horizontal\" se mostrarán las columnas de"
+  },
+  {
+    "slide_id": "24bfa4ef-45c2-4738-b755-9a5feab8bf90",
+    "slide_name": "",
+    "texts": [
+      "Esta opción nos permite decidir si el ícono cambia al ingresar a la lección. Por ejemplo, la flecha aparecerá de una manera cuando no se haya accedido a la sección:",
+      "Y varía de posición cuando ingresamos a la sección:",
+      "Las flechas indican el cambio de estado. Estas variaciones dependen del ícono seleccionado. Por ejemplo, si elegimos el ícono \"Bombilla\", este aparecerá con un relleno blanco fuera de la sección, y al ingresar a ella, se mostrará con fondo gris."
+    ],
+    "videos": [],
+    "title_candidate": "Esta opción nos permite decidir si el ícono"
+  },
+  {
+    "slide_id": "2ee391e7-974d-41af-adba-f80bc128b104",
+    "slide_name": "",
+    "texts": [
+      "Así es como se puede ver si lo configuramos para que aparezca horizontal y con la Sección Cero (la bienvenida) como pestaña:"
+    ],
+    "videos": [],
+    "title_candidate": "Así es como se puede ver si lo"
+  },
+  {
+    "slide_id": "33551745-fcac-45ae-981e-5db8aa109e3d",
+    "slide_name": "",
+    "texts": [
+      "Si activamos esta función se mostrarán las instrucciones tal cual como se indica en la imagen."
+    ],
+    "videos": [],
+    "title_candidate": "Si activamos esta función se mostrarán las instrucciones"
+  },
+  {
+    "slide_id": "36eb28e2-9bd2-46dd-87aa-1059846756fb",
+    "slide_name": "",
+    "texts": [
+      "En el ícono de ayuda junto a la opción \"Estructura\" se explican las modalidades disponibles. Los cambios se reflejarán una vez que guardemos la configuración; por ejemplo, si seleccionamos \"Día\", el curso se mostrará como se ilustra en la imagen, y así sucesivamente según la estructura elegida."
+    ],
+    "videos": [],
+    "title_candidate": "En el ícono de ayuda junto a la"
+  },
+  {
+    "slide_id": "57b2a51d-6eaf-46a6-be33-c2e8638f16c1",
+    "slide_name": "",
+    "texts": [
+      "Si seleccionamos esta opción, las actividades dentro de cada sección se mostrarán como pequeños mosaicos en lugar de una lista."
+    ],
+    "videos": [],
+    "title_candidate": "Si seleccionamos esta opción, las actividades dentro de"
+  },
+  {
+    "slide_id": "6b53676e-5da5-48aa-b5a6-e23cd52dbaa0",
+    "slide_name": "",
+    "texts": [
+      "Deslice el botón hacia la derecha, al activarlo se verá así:"
+    ],
+    "videos": [],
+    "title_candidate": "Deslice el botón hacia la derecha, al activarlo"
+  },
+  {
+    "slide_id": "71783baf-d7c9-433f-a365-45c479f9fa5a",
+    "slide_name": "",
+    "texts": [
+      "Permite que cambiemos la posición del ícono, en este caso aparece a la derecha:"
+    ],
+    "videos": [],
+    "title_candidate": "Permite que cambiemos la posición del ícono, en"
+  },
+  {
+    "slide_id": "7a6396fe-cb70-4c4c-94c4-b16baae06233",
+    "slide_name": "",
+    "texts": [
+      "Así es como se verá:"
+    ],
+    "videos": [],
+    "title_candidate": "Así es como se verá:"
+  },
+  {
+    "slide_id": "b8925033-7e30-4f4e-99cc-f72bacd414f6",
+    "slide_name": "",
+    "texts": [
+      "Así es como se verá:"
+    ],
+    "videos": [],
+    "title_candidate": "Así es como se verá:"
+  },
+  {
+    "slide_id": "b98b2394-0ca4-47db-83d1-71826833625a",
+    "slide_name": "",
+    "texts": [
+      "Así es como se verá:"
+    ],
+    "videos": [],
+    "title_candidate": "Así es como se verá:"
+  },
+  {
+    "slide_id": "d7a71cd8-e4dd-4b1b-af94-68a8cb11b944",
+    "slide_name": "",
+    "texts": [
+      "La Sección Cero es la que usamos para incluir información general del curso como la bienvenida, instrucciones o recursos importantes. Si activamos esta opción, la Sección Cero aparecerá dentro de la cuadrícula, al igual que las demás secciones. Si la desactivamos, la Sección Cero se mostrará fija en la parte superior de la página, fuera de la cuadrícula."
+    ],
+    "videos": [],
+    "title_candidate": "La Sección Cero es la que usamos para"
+  },
+  {
+    "slide_id": "d9736859-ae67-42bf-bd7e-6c6ee16aabe9",
+    "slide_name": "",
+    "texts": [
+      "Se refiere a las etiquetas asignadas a cada sección (por ejemplo, \"Semana x\", \"Tema x\", \"Palabra x\" o \"Conmutación x\"). Esto nos permite personalizar la forma en que se identifican y organizan visualmente las secciones del curso y se ven como se muestra en la imagen."
+    ],
+    "videos": [],
+    "title_candidate": "Se refiere a las etiquetas asignadas a cada"
+  },
+  {
+    "slide_id": "ddd7dc27-28d8-40a5-b8de-8b2ff8407da4",
+    "slide_name": "",
+    "texts": [
+      "Así es como se verá:"
+    ],
+    "videos": [],
+    "title_candidate": "Así es como se verá:"
+  },
+  {
+    "slide_id": "deb631a0-2bb4-4def-9659-16f37866379a",
+    "slide_name": "",
+    "texts": [
+      "Nos permite elegir si se muestra o no el botón del índice lateral del curso, si lo activamos se desplegarán las secciones en forma vertical, similar a esta imagen:"
+    ],
+    "videos": [],
+    "title_candidate": "Nos permite elegir si se muestra o no"
+  },
+  {
+    "slide_id": "fb07a594-c520-4d1c-a2a4-5c8cd534de6a",
+    "slide_name": "",
+    "texts": [
+      "Nos permite cambiar el color del texto que se mostrará en cada sección, por ejemplo:"
+    ],
+    "videos": [],
+    "title_candidate": "Nos permite cambiar el color del texto que"
+  },
+  {
+    "slide_id": "fc683ec6-70b7-46cc-b5c3-792f8c9a437c",
+    "slide_name": "",
+    "texts": [
+      "La opción Mostrar todas las secciones en una página nos permite visualizar todo el contenido del curso en una sola página, organizado por secciones según la cantidad de lecciones creadas. En cambio, si seleccionamos Mostrar una sección por página , la página inicial mostrará solo los títulos de las secciones, y al hacer clic en cada una, su contenido se abrirá en una nueva página."
+    ],
+    "videos": [],
+    "title_candidate": "La opción Mostrar todas las secciones en una"
+  },
+  {
+    "slide_id": "fd15b27c-83d0-40ce-b650-829e815a0cff",
+    "slide_name": "",
+    "texts": [
+      "Ejemplo alineación izquierda:",
+      "Nos permite definir la alineación del título de cada sección o tema dentro del curso.",
+      "Ejemplo alineación derecha:"
+    ],
+    "videos": [],
+    "title_candidate": "Ejemplo alineación izquierda:"
+  }
+]

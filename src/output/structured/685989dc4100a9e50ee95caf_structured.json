@@ -1,0 +1,78 @@
+[
+  {
+    "slide_id": "6ae438c2-48b4-4ce3-b6c0-30e88c218cf7",
+    "slide_name": "2",
+    "texts": [
+      "Recurso: Etiqueta"
+    ],
+    "videos": [],
+    "title_candidate": "2"
+  },
+  {
+    "slide_id": "ff9cc66f-9fe8-43d7-8c57-f305b34dee27",
+    "slide_name": "2",
+    "texts": [
+      "¿Cómo se configura el recurso?",
+      "¿Cómo se ve en la página de la plataforma?",
+      "¿Cuáles son algunos usos que podemos darle a la actividad Etiqueta?",
+      "¿Qué es una etiqueta?",
+      "Menú"
+    ],
+    "videos": [],
+    "title_candidate": "2"
+  },
+  {
+    "slide_id": "4bc628c1-9795-44c4-8097-46f50121c202",
+    "slide_name": "Qué es la etiqueta",
+    "texts": [
+      "¿Qué es la etiqueta?",
+      "La Etiqueta es el recurso que permite insertar texto y elementos multimedia directamente en las semanas o sesiones del curso."
+    ],
+    "videos": [],
+    "title_candidate": "Qué es la etiqueta"
+  },
+  {
+    "slide_id": "6786a8ba8e85771a85675ea9",
+    "slide_name": "Configuración",
+    "texts": [
+      "Indicaciones de la sesión",
+      "Coloque el nombre que identifica el contenido de la Etiqueta y sólo se verá en el índice de navegación. Por ejemplo \"Indicaciones de la sesión\"",
+      "Coloquemos el cursor sobre los botones del cuadro de texto para conocer sus características.",
+      "¿Cómo se configura el recurso?"
+    ],
+    "videos": [],
+    "title_candidate": "Configuración"
+  },
+  {
+    "slide_id": "d4eae355-ad4a-44e7-ac33-47c0242268f1",
+    "slide_name": "Vista",
+    "texts": [
+      "Indicaciones de la sesión",
+      "Vista en la sesión",
+      "Vista de docente",
+      "Vista de estudiante",
+      "¿Cómo se ve en la página de la plataforma?"
+    ],
+    "videos": [],
+    "title_candidate": "Vista"
+  },
+  {
+    "slide_id": "04768bff-358b-4b27-a31c-a4ecd0fd47e5",
+    "slide_name": "Recomendaciones",
+    "texts": [
+      "¿Cuáles son algunos usos que podemos darle al recurso Etiqueta?",
+      "Puede integrar: Áreas de texto: títulos, subtítulos o textos con indicaciones. Imágenes. Se recomiendan las siguientes dimensiones: Cintillos: Imágenes: 600x400 Mostrar un archivo de sonido o vídeo incrustado directamente. Incluir recursos interactivos como presentaciones. Se recomienda regular la cantidad de recursos multimedia, ya que el abuso de recursos incluidos directamente en la página principal del curso aumenta el peso de las semanas o secciones, provocando un mayor tiempo de carga. En sustitución, se recomienda usar el recurso Página para incluir recursos externos."
+    ],
+    "videos": [],
+    "title_candidate": "Recomendaciones"
+  },
+  {
+    "slide_id": "05f60d0b-88da-458d-a499-934ca6817cbe",
+    "slide_name": "",
+    "texts": [
+      "Observe cómo se ve la etiqueta en modo de edición"
+    ],
+    "videos": [],
+    "title_candidate": "Observe cómo se ve la etiqueta en modo"
+  }
+]

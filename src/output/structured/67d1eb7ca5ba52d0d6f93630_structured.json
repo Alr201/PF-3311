@@ -1,0 +1,102 @@
+[
+  {
+    "slide_id": "2b111d25-fef0-4020-a5c7-7aad22396a2d",
+    "slide_name": "Portada",
+    "texts": [
+      "Colocación de recursos externos en la nueva Mediación Virtual"
+    ],
+    "videos": [],
+    "title_candidate": "Portada"
+  },
+  {
+    "slide_id": "b1e680ce-b8f7-4718-85f3-2507cf83d711",
+    "slide_name": "Menú",
+    "texts": [
+      "URL",
+      "HTLM",
+      "Menú"
+    ],
+    "videos": [],
+    "title_candidate": "Menú"
+  },
+  {
+    "slide_id": "b2fd69e2-e4ea-4fbb-a214-9ee3a02fba95",
+    "slide_name": "Configuración",
+    "texts": [
+      "HTML",
+      "El HTML es un lenguaje de programación que se utiliza para crear y estructurar páginas web. En el caso de Mediación Virtual, se incluye la herramienta HTML dentro de las Etiquetas y editores de texto para incluir recursos",
+      "Presentaciones",
+      "Vídeos"
+    ],
+    "videos": [],
+    "title_candidate": "Configuración"
+  },
+  {
+    "slide_id": "824788dc-e036-46f6-9633-ddf6cabdd711",
+    "slide_name": "",
+    "texts": [
+      "URL",
+      "Una URL es una dirección única que identifica un recurso en internet, como una página web, imagen o archivo de audio. En el caso de Mediación Virtual, se incluye en la herramienta URL como recurso o directamente en el editor de texto sobre el contenido como enlace",
+      "Enlace",
+      "URL"
+    ],
+    "videos": [],
+    "title_candidate": "URL"
+  },
+  {
+    "slide_id": "121e0f84-933a-44f1-895c-d10d59d934c1",
+    "slide_name": "",
+    "texts": [
+      "Vídeos",
+      "¿Cómo se ve una presentación de Genially con HTML en Mediación Virtual?",
+      "¿Cómo se hace? Hagamos clic en el vídeo para ver los pasos"
+    ],
+    "videos": [
+      {
+        "video_id": "8tnd10y5Yv8",
+        "source": "https://youtu.be/8tnd10y5Yv8",
+        "transcript": "Para agregar una presentación con HTML, ingresemos a la app deseada. Allí hagamos clic en compartir y busquemos la opción insertar HTML. Ahora copiemos la información que nos brinda la aplicación. Dirijámonos al entorno virtual del curso y activemos la edición. Seguidamente, agregemos una etiqueta. Allí hagamos clic en herramientas, Código Fuente. Ahora peguemos en la ventana emergente el código que copiamos en la app y hacemos clic en aceptar. Y así ya tenemos una presentación en nuestra sesión o semana."
+      }
+    ],
+    "title_candidate": "Vídeos"
+  },
+  {
+    "slide_id": "963a04f5-457e-4042-9794-032990ec5e0e",
+    "slide_name": "",
+    "texts": [
+      "Enlace",
+      "¿Cómo se ve un Enlace en el Editor de Texto dentro Mediación Virtual?",
+      "¿Cómo se hace? Coloquemos el cursor sobre cada opción:"
+    ],
+    "videos": [],
+    "title_candidate": "Enlace"
+  },
+  {
+    "slide_id": "b00694fb-b70b-4536-8ab1-e018cef32e1a",
+    "slide_name": "",
+    "texts": [
+      "URL",
+      "¿Cómo se ve un URL en la página principal del curso?",
+      "¿Cómo se hace? Hagamos clic sobre cada configuración:"
+    ],
+    "videos": [],
+    "title_candidate": "URL"
+  },
+  {
+    "slide_id": "e8edd771-7a74-4c6a-8ef8-acfac324b6b4",
+    "slide_name": "",
+    "texts": [
+      "Vídeos",
+      "¿Cómo se ve el vídeo insertado con HTML en Mediación Virtual?",
+      "¿Cómo se hace? Hagamos clic en el vídeo para ver los pasos"
+    ],
+    "videos": [
+      {
+        "video_id": "nS7OEJiQp7w",
+        "source": "https://youtu.be/nS7OEJiQp7w",
+        "transcript": "para agregar un video con HTML ingresemos al video en YouTube. Allí hagamos clic en Compartir y busquemos el ícono de HTML. Ahora copiemos la información que nos brinda la aplicación. Dirijámonos al entorno virtual del curso y activemos la edición. Seguidamente, agregemos una etiqueta. Y allí hagamos clic en herramientas, Código Fuente. Ahora, peguemos en la ventana emergente el código que copiamos en la app. Y así ya tenemos un video en nuestra sesión o semana."
+      }
+    ],
+    "title_candidate": "Vídeos"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "source": "https://view.genially.com/68597f0d3ca3fe2b5ac905a2/interactive-content-configuracion-de-contrasena-moodle-44",
+    "genially_id": "68597f0d3ca3fe2b5ac905a2",
+    "slide_id": "6787f1701e177088c871b858",
+    "slide_name": "Genially sin título",
+    "title_candidate": "Genially sin título",
+    "content": "TITULO_CANDIDATO: Genially sin título\n\nCONTENIDO:\n\nConfiguración de contraseña en Mediación Virtual",
+    "enrichment": null
+  },
+  {
+    "source": "https://view.genially.com/68597f0d3ca3fe2b5ac905a2/interactive-content-configuracion-de-contrasena-moodle-44",
+    "genially_id": "68597f0d3ca3fe2b5ac905a2",
+    "slide_id": "019df183-bc54-4e4f-9c92-046cf6749980",
+    "slide_name": "4",
+    "title_candidate": "4",
+    "content": "TITULO_CANDIDATO: 4\n\nCONTENIDO:\n\n¿Qué es la contraseña de inscripción?\nLa contraseña de inscripción o o clave de matriculación, se refiere a una serie de caracteres, escritos en letras, números o o símbolos ortográficos, que permiten la Auto-Inscripción de estudiantes para ingresar a un entorno en específico. Esta es proporcionada por los docentes o mediadores, y estará activa cuando los entornos virtuales de los cursos no estén enlazados con la oficina de Registro e Información de la Universidad de Costa Rica. La contraseña se le solicita al docente en el proceso de Autogestión de entornos virtuales. Para cambiar o consultar la misma puede realizarlo desde el menú de Participantes.",
+    "enrichment": null
+  },
+  {
+    "source": "https://view.genially.com/68597f0d3ca3fe2b5ac905a2/interactive-content-configuracion-de-contrasena-moodle-44",
+    "genially_id": "68597f0d3ca3fe2b5ac905a2",
+    "slide_id": "586abb47-6e42-4bc3-9cee-de6d763821b8",
+    "slide_name": "3",
+    "title_candidate": "3",
+    "content": "TITULO_CANDIDATO: 3\n\nCONTENIDO:\n\nIniciemos paso a paso\nPara hacer el cambio de contraseña ingresamos a Participante > Usuarios > Métodos de Matriculación:",
+    "enrichment": null
+  },
+  {
+    "source": "https://view.genially.com/68597f0d3ca3fe2b5ac905a2/interactive-content-configuracion-de-contrasena-moodle-44",
+    "genially_id": "68597f0d3ca3fe2b5ac905a2",
+    "slide_id": "b20e7e6d-dc1b-42ac-9c73-b1364acadc2b",
+    "slide_name": "3.1",
+    "title_candidate": "3.1",
+    "content": "TITULO_CANDIDATO: 3.1\n\nCONTENIDO:\n\nSeguidamente, ingresamos a Auto-matriculación (Estudiante) y hacemos clic en la \"Tueca\":\nOjo: Si está activo (sin tacha) permite que el método se use en el entorno. Tuerca: Al ingresar le recomendamos solo editar la contraseña, mantenga igual resto de configuraciones.",
+    "enrichment": null
+  },
+  {
+    "source": "https://view.genially.com/68597f0d3ca3fe2b5ac905a2/interactive-content-configuracion-de-contrasena-moodle-44",
+    "genially_id": "68597f0d3ca3fe2b5ac905a2",
+    "slide_id": "a3fb5778-ba34-4aef-ba7a-15ac2f6f47c9",
+    "slide_name": "",
+    "title_candidate": "Ya dentro de Auto-matriculación (Estudiante), el cambio se",
+    "content": "TITULO_CANDIDATO: Ya dentro de Auto-matriculación (Estudiante), el cambio se\n\nCONTENIDO:\n\nYa dentro de Auto-matriculación (Estudiante), el cambio se realiza en la opción Clave de matriculación, hagamos clic en el lápiz y escribimos la nueva clave que queremos usar.\nOjo: Si hacemos clic en el ojo, podremos consultar la clave que habíamos puesto al configurar el entorno.",
+    "enrichment": null
+  },
+  {
+    "source": "https://view.genially.com/68597f0d3ca3fe2b5ac905a2/interactive-content-configuracion-de-contrasena-moodle-44",
+    "genially_id": "68597f0d3ca3fe2b5ac905a2",
+    "slide_id": "53aa5b6c-2889-433a-886d-e8dd4008731c",
+    "slide_name": "5",
+    "title_candidate": "5",
+    "content": "TITULO_CANDIDATO: 5\n\nCONTENIDO:\n\nRecomendaciones\nSi realizó un cambio de contraseña recuerde guardar el cambio, de lo contrario este no se efectuará. Para ello utilice el botón Guardar cambios que se encuentra al final de esa pantalla. Si su computadora guarda automáticamente las contraseñas, este espacio se auto-completa con la contraseña de su usuario institucional, usted debe borrar la contraseña y escribir una nueva.",
+    "enrichment": null
+  }
+]

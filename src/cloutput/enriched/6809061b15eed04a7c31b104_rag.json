@@ -1,0 +1,629 @@
+[
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "6ae438c2-48b4-4ce3-b6c0-30e88c218cf7",
+    "slide_name": "1",
+    "title_candidate": "1",
+    "content": "TITULO_CANDIDATO: 1\n\nCONTENIDO:\n\nActividad Examen",
+    "enriched_title": "Introducción a la Actividad Examen",
+    "summary": "Esta diapositiva introduce el concepto de 'Actividad Examen'. Sirve como una portada o inicio del tema, preparando al usuario para explorar en detalle esta herramienta de evaluación.",
+    "keywords": [
+      "Actividad examen",
+      "introducción",
+      "evaluación",
+      "prueba",
+      "herramienta educativa"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "f3c9d5f1-5fe3-4870-a653-e26ff7ad0a8e",
+    "slide_name": "",
+    "title_candidate": "Contenidos",
+    "content": "TITULO_CANDIDATO: Contenidos\n\nCONTENIDO:\n\nContenidos\n¿Qué es un examen?\n¿Cómo configuro mi examen?\n¿Cómo hago el montaje del examen?\nPreguntas directamente en el examen\nPreguntas a partir de un Banco de Preguntas\nPreguntas tipo aleatorias\n¿Cómo comprobar que mi examen quedó bien configurado?\n¿Cómo se ve en la página de la plataforma?\n¿Qué usos podemos darle a la actividad Examen?\nRecomendaciones",
+    "enriched_title": "Tabla de Contenidos: Configuración y Usos del Examen",
+    "summary": "Esta diapositiva presenta el índice de contenidos del manual, cubriendo desde la definición del examen hasta su configuración, montaje de preguntas, verificación y usos. Detalla los pasos para crear y gestionar pruebas en una plataforma educativa.",
+    "keywords": [
+      "Contenidos",
+      "examen",
+      "configuración",
+      "montaje",
+      "banco de preguntas",
+      "preguntas aleatorias",
+      "verificación",
+      "usos",
+      "plataforma educativa",
+      "recomendaciones"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "30e2e166-7f3c-43f6-a14c-eec5ddf2e891",
+    "slide_name": "1",
+    "title_candidate": "1",
+    "content": "TITULO_CANDIDATO: 1\n\nCONTENIDO:\n\n¿Qué es un examen?\nEl examen es una herramienta que permite diseñar y plantear pruebas escritas con preguntas como tipo opción múltiple, verdadero/falso, coincidencia, respuesta corta, respuesta numérica. entre otras. La encontramos dentro de Añadir una actividad o un recurso , en la pestaña Actividades. En este manual iremos paso a paso por las principales partes del examen:",
+    "enriched_title": "Definición y Tipos de Preguntas en un Examen",
+    "summary": "Un examen es una herramienta para diseñar pruebas escritas que pueden incluir diversos tipos de preguntas como opción múltiple, verdadero/falso, coincidencia, respuesta corta y numérica. Se ubica en la sección 'Añadir una actividad o un recurso' dentro de la pestaña Actividades de la plataforma, y este manual guiará a través de sus componentes clave.",
+    "keywords": [
+      "Examen",
+      "definición",
+      "pruebas escritas",
+      "tipos de preguntas",
+      "opción múltiple",
+      "verdadero/falso",
+      "coincidencia",
+      "respuesta corta",
+      "respuesta numérica",
+      "actividad educativa"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "b94c6d37-5f74-4549-878d-7d9b421bb0b7",
+    "slide_name": "1.1",
+    "title_candidate": "1.1",
+    "content": "TITULO_CANDIDATO: 1.1\n\nCONTENIDO:\n\n¿Cómo configuro mi examen?\nEstos son los aspectos que nos van a definir la forma en cómo queremos que se comporte esa prueba en cuanto a tiempo, visualización, entre otros aspectos,similares a las demás configuraciones de actividades en Mediación Virtual. Estas opciones se abren apenas agregamos el Examen e incluye c ada uno de estos aspectos que debemos configurar con suma rigurosidad según los objetivos de nuestra prueba y tomando en cuenta que siempre hay que ir configurando en el orden preestablecido, de lo más visible a lo menos visible.\nLos ajustes del examen",
+    "enriched_title": "Configuración Inicial del Examen en Mediación Virtual",
+    "summary": "Esta sección explica cómo configurar un examen en Mediación Virtual, detallando los aspectos que definen su comportamiento en cuanto a tiempo y visualización. Es crucial configurar estas opciones rigurosamente en el orden preestablecido, de lo más visible a lo menos visible, para alinear la prueba con sus objetivos pedagógicos.",
+    "keywords": [
+      "Configuración examen",
+      "Mediación Virtual",
+      "ajustes examen",
+      "tiempo prueba",
+      "visualización examen",
+      "objetivos pedagógicos",
+      "rigurosidad",
+      "orden preestablecido"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "dcb929d5-85b0-4fee-92f2-a78666eea052",
+    "slide_name": "",
+    "title_candidate": "General",
+    "content": "TITULO_CANDIDATO: General\n\nCONTENIDO:\n\nGeneral\nNombre del la prueba escrita, que se identifique preferiblemente como aparece en el programa de curso.\nIncluya el objetivo o contenidos a evaluar, la fecha y hora de cierre, el porcentaje dentro de la calificación, si debe hacer clic en el botón Enviar y si tiene 1 o más intentos.",
+    "enriched_title": "Configuración General de la Prueba Escrita",
+    "summary": "La configuración general de un examen implica definir el nombre de la prueba, preferiblemente coincidiendo con el programa del curso. También es esencial incluir los objetivos o contenidos a evaluar, establecer la fecha y hora de cierre, especificar el porcentaje de calificación, y determinar si los estudiantes deben enviar la prueba y cuántos intentos se permiten.",
+    "keywords": [
+      "Configuración general",
+      "prueba escrita",
+      "nombre examen",
+      "objetivos evaluación",
+      "contenidos evaluar",
+      "fecha cierre",
+      "calificación",
+      "intentos",
+      "botón Enviar"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "09d506f6-6799-4229-8122-e362bb7d2f0e",
+    "slide_name": "",
+    "title_candidate": "Temporalización",
+    "content": "TITULO_CANDIDATO: Temporalización\n\nCONTENIDO:\n\nTemporalización\nEn este apartado se deben colocar las fechas de inicio de la prueba y la de cierre. Para que se puedan definir debe marcar la casilla de \"Habilitar\". También es importante asignar el límite de tiempo que se dará a cada estudiante una vez que se haya abierto el intento. Por último debemos elegir la opción para definir lo que ocurrirá una vez que ese límite de tiempo haya terminado. La más recomendable es la de que \"El envío se realiza automáticamente\".",
+    "enriched_title": "Configuración de Temporalización del Examen",
+    "summary": "La temporalización de un examen requiere habilitar y establecer las fechas de inicio y cierre de la prueba. Es fundamental asignar un límite de tiempo para cada estudiante y definir el comportamiento del sistema al finalizar ese plazo, siendo la opción 'El envío se realiza automáticamente' la más recomendada.",
+    "keywords": [
+      "Temporalización examen",
+      "fechas inicio/cierre",
+      "habilitar prueba",
+      "límite de tiempo",
+      "envío automático",
+      "configuración examen"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "56a05e18-701b-45c5-a4d9-38d513982f60",
+    "slide_name": "",
+    "title_candidate": "Calificación",
+    "content": "TITULO_CANDIDATO: Calificación\n\nCONTENIDO:\n\nCalificación\nEn esta parte NO se coloca el puntaje del examen, porque esto lo haremos luego en la otra fase de configuración. Sí es importante que revisemos aquí la categoría donde deseamos colocar esta actividad en el libro de calificaciones (si lo tenemos configurado). Podemos colocar la calificación mínima para aprobar la prueba. También debemos ajustar el apartado de límite de intentos permitidos a un estudiante para realizar su prueba. En el caso de tener más de un intento también es importante ajustar el Método de calificación según la que se quiera tomar en cuenta.",
+    "enriched_title": "Ajustes de Calificación y Categorías del Examen",
+    "summary": "En la configuración de calificación, no se define el puntaje directo del examen, sino que se asigna la actividad a una categoría en el libro de calificaciones. Es importante establecer la calificación mínima para aprobar, el límite de intentos permitidos y, si hay múltiples intentos, seleccionar el método de calificación adecuado.",
+    "keywords": [
+      "Calificación examen",
+      "libro de calificaciones",
+      "categoría actividad",
+      "calificación mínima",
+      "límite de intentos",
+      "método de calificación",
+      "configuración prueba"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "792e7ad4-00d6-4dae-abee-36fc2ec2ffcd",
+    "slide_name": "",
+    "title_candidate": "Esquema",
+    "content": "TITULO_CANDIDATO: Esquema\n\nCONTENIDO:\n\nEsquema\nEn este apartado podemos elegir cada cuántas preguntas queremos que se haga el cambio de página dentro del examen. También podemos elegir si queremos que el método de navegación sea libre, donde puedan avanzar y retroceder sin problemas durante la prueba; o secuencial, donde solo se puede avanzar sin retroceder.",
+    "enriched_title": "Esquema y Navegación del Examen",
+    "summary": "La configuración del esquema del examen permite definir la paginación de las preguntas, es decir, cuántas preguntas se muestran por página. Además, se puede elegir entre un método de navegación libre, que permite avanzar y retroceder, o secuencial, que solo permite avanzar.",
+    "keywords": [
+      "Esquema examen",
+      "navegación examen",
+      "paginación preguntas",
+      "método de navegación",
+      "navegación libre",
+      "navegación secuencial",
+      "configuración prueba"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "0a21318b-109f-40ac-b582-d32d4e28af4e",
+    "slide_name": "",
+    "title_candidate": "Comportamiento de las preguntas",
+    "content": "TITULO_CANDIDATO: Comportamiento de las preguntas\n\nCONTENIDO:\n\nComportamiento de las preguntas\nEn estas opciones podemos elegir que las respuestas de las preguntas se ordenen al azar. También el tipo de retroalimentación, donde la más utilizada es la \"retroalimentación diferida\" que se refiere a que la retroalimentación aparecerá hasta cuando se termine el intento. También se puede definir si se quiere que cada intento se base en el anterior o no. Por defecto el sistema viene ajustada a la opción \"No\".",
+    "enriched_title": "Configuración del Comportamiento de las Preguntas del Examen",
+    "summary": "Este apartado permite configurar el comportamiento de las preguntas en un examen, incluyendo la opción de ordenar las respuestas al azar. Se puede definir el tipo de retroalimentación, siendo la diferida la más común, donde el feedback se muestra al finalizar el intento. También se ajusta si los intentos posteriores se basan en el anterior.",
+    "keywords": [
+      "Comportamiento preguntas",
+      "ordenar al azar",
+      "retroalimentación diferida",
+      "intentos examen",
+      "configuración prueba",
+      "feedback"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "bc4b2565-c215-454c-a556-92c19341313c",
+    "slide_name": "",
+    "title_candidate": "Opciones de revisión",
+    "content": "TITULO_CANDIDATO: Opciones de revisión\n\nCONTENIDO:\n\nOpciones de revisión\nEste punto se refiere a definir el momento en que se quiere que la información del intento sea desplegada al estudiante y es muy importante porque en el caso de no definirlo como se requiere, las respuestas pueden desplegársele al estudiante antes de tiempo. En esta imagen podemos ver con más detalle a lo que se refiere cada momento, para esto haga clic en cada uno de los íconos interactivos:",
+    "enriched_title": "Definición de Opciones de Revisión para Estudiantes",
+    "summary": "Las opciones de revisión permiten controlar cuándo se despliega la información del intento a los estudiantes, lo cual es crítico para evitar la revelación prematura de respuestas. Es fundamental configurarlas correctamente según el momento deseado para la retroalimentación.",
+    "keywords": [
+      "Opciones de revisión",
+      "información intento",
+      "desplegar respuestas",
+      "retroalimentación estudiante",
+      "configuración examen",
+      "control información"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "aeb94a6d-9d82-40ad-a04f-cec1d628225b",
+    "slide_name": "",
+    "title_candidate": "Apariencia",
+    "content": "TITULO_CANDIDATO: Apariencia\n\nCONTENIDO:\n\nApariencia\nEn este apartado podemos definir si queremos hacer algún ajuste a las siguientes opciones de apariencia más que todo en lo que respecta a la visualización de los decimales. Lo más recomendable es dejar ajustadas las opciones que ya vienen por defecto.",
+    "enriched_title": "Ajustes de Apariencia del Examen: Visualización de Decimales",
+    "summary": "La sección de apariencia permite realizar ajustes visuales menores para el examen, principalmente relacionados con la visualización de decimales. Se recomienda generalmente mantener las opciones predeterminadas para evitar complicaciones.",
+    "keywords": [
+      "Apariencia examen",
+      "visualización decimales",
+      "ajustes visuales",
+      "configuración por defecto",
+      "prueba en línea"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "0325f0ba-b2ed-4e54-be54-a8e47b943c68",
+    "slide_name": "",
+    "title_candidate": "Últimas opciones",
+    "content": "TITULO_CANDIDATO: Últimas opciones\n\nCONTENIDO:\n\nÚltimas opciones\nEn este apartado podemos definir si queremos hacer algún ajuste final en estas configuraciones que en su mayoría aparecen también en el resto de actividades de la plataforma. Puede revisar cada una y ajustarla solo en el caso que se amerite para la realización de su prueba; de lo contrario lo mejor es dejarlas con las opciones que vienen por defecto ajustadas.\nPara finalizar los ajustes, recuerde guardar los cambios en alguna de las 2 opciones que aquí se muestra.",
+    "enriched_title": "Opciones Finales de Configuración y Guardado del Examen",
+    "summary": "Este apartado contiene las últimas opciones de configuración del examen, muchas de las cuales son comunes a otras actividades de la plataforma. Se aconseja revisar y ajustar solo las necesarias para la prueba, manteniendo las opciones por defecto en los demás casos, y siempre guardar los cambios al finalizar.",
+    "keywords": [
+      "Últimas opciones",
+      "configuración examen",
+      "ajustes finales",
+      "actividades plataforma",
+      "guardar cambios",
+      "opciones por defecto"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "7e629646-e92c-4c66-9b58-893cfdda9b54",
+    "slide_name": "1",
+    "title_candidate": "1",
+    "content": "TITULO_CANDIDATO: 1\n\nCONTENIDO:\n\nExisten 3 maneras de montar una prueba en línea en la plataforma Mediación Virtual: 1. Haciendo las preguntas directamente en el examen conforme se va construyendo. Crear el examen a partir de un banco de preguntas que se va creando previamente o en el momento que se requiera. Éste banco también puede ser utilizado también en otras actividades de la p lataforma. Haciendo preguntas aleatorias del banco de preguntas ya construido. Todas estas formas son válidas para la creación de e ste instrumento; para elegir una de éstas debe ingresar al examen y buscar en el panel superior la opción de Preguntas:\n¿Luego de los ajustes que sigue?\nEl montaje del examen",
+    "enriched_title": "Métodos de Montaje de Exámenes en Mediación Virtual",
+    "summary": "Existen tres métodos para montar un examen en Mediación Virtual: crear preguntas directamente en el examen, importar preguntas de un banco preexistente o crear preguntas aleatorias desde dicho banco. Estas opciones se gestionan a través de la sección 'Preguntas' en el panel superior del examen, después de realizar los ajustes iniciales.",
+    "keywords": [
+      "Montaje examen",
+      "Mediación Virtual",
+      "preguntas directas",
+      "banco de preguntas",
+      "preguntas aleatorias",
+      "creación de pruebas",
+      "panel Preguntas"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "ca6f8422-3e31-429e-a7a7-bf131fb88413",
+    "slide_name": "2",
+    "title_candidate": "2",
+    "content": "TITULO_CANDIDATO: 2\n\nCONTENIDO:\n\na) Preguntas directamente en el examen\nEsta primera que se muestra es para agregar una pregunta que no haya sido configurada en el banco de preguntas ; es decir, si se quiere realizar un examen en el propio momento y sin que las preguntas queden en algún banco especial, puede hacerse desde esta vía. Tome en cuenta que si se agregan preguntas de esta forma en la prueba, no podrán ser utilizadas en otro examen o en otras actividades de la plataforma (como sí sucede con las que se generan en el banco de preguntas).",
+    "enriched_title": "Agregar Preguntas Directamente al Examen",
+    "summary": "Este método permite añadir preguntas directamente al examen sin almacenarlas en un banco de preguntas. Es útil para crear pruebas al momento, pero las preguntas insertadas de esta forma no podrán reutilizarse en otros exámenes o actividades de la plataforma.",
+    "keywords": [
+      "Preguntas directas",
+      "agregar preguntas",
+      "examen en línea",
+      "reutilización preguntas",
+      "banco de preguntas",
+      "creación examen"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "625dd248-23f7-4751-9d62-0f1546e62edd",
+    "slide_name": "3",
+    "title_candidate": "3",
+    "content": "TITULO_CANDIDATO: 3\n\nCONTENIDO:\n\nb) Preguntas a partir de un Banco de Preguntas\nSe refiere a una pequeña base de datos donde usted puede ir creando sus preguntas para luego ser utilizadas en algunas herramientas de la plataforma, entre éstas el examen o prueba en línea. Dichas preguntas se pueden ir organizando en las categorías que se dispongan y así, en el momento de hacer la prueba, podemos elegir de cuál categoría deseamos importar las preguntas.",
+    "enriched_title": "Creación de Exámenes desde un Banco de Preguntas",
+    "summary": "Un banco de preguntas es una base de datos personalizable donde se pueden crear y organizar preguntas por categorías para su uso posterior. Este método permite importar preguntas específicas de cualquier categoría definida en el banco, facilitando la creación de exámenes y otras actividades en la plataforma.",
+    "keywords": [
+      "Banco de preguntas",
+      "creación preguntas",
+      "base de datos",
+      "categorías preguntas",
+      "importar preguntas",
+      "reutilización",
+      "examen en línea"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "c978a90d-9393-40e3-807f-822c2ec2c7d1",
+    "slide_name": "",
+    "title_candidate": "¿Cómo hacer el banco de preguntas?",
+    "content": "TITULO_CANDIDATO: ¿Cómo hacer el banco de preguntas?\n\nCONTENIDO:\n\n¿Cómo hacer el banco de preguntas?\nSe recomienda ir configurando el banco de preguntas en cualquier momento del curso con base en las temáticas que se vayan abordando durante el ciclo. En el siguiente manual podemos seguir los pasos de cómo hacer esta configuración:",
+    "enriched_title": "Proceso de Creación del Banco de Preguntas",
+    "summary": "Se recomienda configurar el banco de preguntas de forma continua a lo largo del curso, basándose en las temáticas impartidas. Para obtener instrucciones detalladas sobre cómo realizar esta configuración, se debe consultar el manual correspondiente.",
+    "keywords": [
+      "Banco de preguntas",
+      "creación",
+      "configuración",
+      "temáticas curso",
+      "manual",
+      "preguntas"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "2a8cd448-1b51-4edf-a918-73aa2825e2a4",
+    "slide_name": "",
+    "title_candidate": "¿Cómo agrego las preguntas una vez que tengo",
+    "content": "TITULO_CANDIDATO: ¿Cómo agrego las preguntas una vez que tengo\n\nCONTENIDO:\n\n¿Cómo agrego las preguntas una vez que tengo el banco de preguntas?\nUna vez elegida la categoría debe oprimir el botón de Aplicar Filtros para que se elija correctamente.",
+    "enriched_title": "Agregar Preguntas del Banco por Categoría",
+    "summary": "Para agregar preguntas de un banco de preguntas, primero se debe seleccionar la categoría deseada. Luego, es necesario oprimir el botón 'Aplicar Filtros' para que la selección se efectúe correctamente y las preguntas de esa categoría estén disponibles.",
+    "keywords": [
+      "Agregar preguntas",
+      "banco de preguntas",
+      "categoría preguntas",
+      "aplicar filtros",
+      "gestión de preguntas"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "85cc6125-eee0-4238-9f9a-c948864d8641",
+    "slide_name": "",
+    "title_candidate": "¿Cómo agrego las preguntas una vez que tengo",
+    "content": "TITULO_CANDIDATO: ¿Cómo agrego las preguntas una vez que tengo el banco de preguntas?\n1.Elija priimero la categoría de la cual desea en el siguiente recuadro.",
+    "enriched_title": "Selección de Categoría para Agregar Preguntas",
+    "summary": "Para agregar preguntas de un banco de preguntas, el primer paso es elegir la categoría de la cual se desean importar las preguntas en el recuadro provisto. Esta selección inicial es fundamental para filtrar el contenido disponible.",
+    "keywords": [
+      "Agregar preguntas",
+      "banco de preguntas",
+      "seleccionar categoría",
+      "importar preguntas",
+      "gestión preguntas"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "e8a726e9-4910-4284-ad53-fb9a904f4d13",
+    "slide_name": "",
+    "title_candidate": "Marque las preguntas que desea incorporar a la",
+    "content": "TITULO_CANDIDATO: Marque las preguntas que desea incorporar a la prueba y una vez elegidas haga clic en el botón Agregar preguntas seleccionadas para el examen.",
+    "enriched_title": "Incorporar Preguntas Seleccionadas al Examen",
+    "summary": "Después de seleccionar las preguntas deseadas de la lista, el usuario debe hacer clic en el botón 'Agregar preguntas seleccionadas para el examen'. Este paso finaliza la inclusión de las preguntas elegidas en la prueba actual.",
+    "keywords": [
+      "Incorporar preguntas",
+      "seleccionar preguntas",
+      "agregar al examen",
+      "prueba en línea",
+      "gestión de preguntas"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "2793d296-10ee-48fc-a5ed-a8646cf5be90",
+    "slide_name": "",
+    "title_candidate": "En el caso de requerir incluir todas las",
+    "content": "TITULO_CANDIDATO: En el caso de requerir incluir todas las preguntas haga clic sobre esta opción para que se marquen todas las de la categoría.",
+    "enriched_title": "Incluir Todas las Preguntas de una Categoría",
+    "summary": "Si se desea incorporar todas las preguntas de una categoría específica, existe una opción para marcarlas todas simultáneamente. Al hacer clic en esta opción, se seleccionarán todas las preguntas de la categoría para su inclusión en la prueba.",
+    "keywords": [
+      "Incluir todas preguntas",
+      "seleccionar todas",
+      "categoría preguntas",
+      "examen",
+      "gestión de preguntas"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "614f689a-47ac-4d42-a906-1aaff3e9d7fd",
+    "slide_name": "",
+    "title_candidate": "c) Preguntas tipo aleatorias",
+    "content": "TITULO_CANDIDATO: c) Preguntas tipo aleatorias\n\nCONTENIDO:\n\nc) Preguntas tipo aleatorias\nSe refiere a incluir preguntas de nuestro banco de preguntas pero con la condición de que no se muestren las mismas a todos los estudiantes, sino que aparezcan de forma aleatoria según la cantidad de preguntas creadas y la cantidad de estudiantes. Su configuración es bastante similar a cuando se incluyen las preguntas desde el banco de preguntas",
+    "enriched_title": "Configuración de Preguntas Aleatorias desde el Banco",
+    "summary": "Las preguntas aleatorias permiten incluir ítems de un banco de preguntas de forma que cada estudiante reciba un conjunto diferente, basándose en la cantidad total de preguntas y el número de alumnos. La configuración de este tipo de preguntas es similar a la inclusión de preguntas desde el banco estándar.",
+    "keywords": [
+      "Preguntas aleatorias",
+      "banco de preguntas",
+      "variedad preguntas",
+      "evaluación personalizada",
+      "configuración examen",
+      "estudiantes"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "1fa045f8-a034-496f-814c-c173f4bf09e5",
+    "slide_name": "",
+    "title_candidate": "Seleccione la categoría.",
+    "content": "TITULO_CANDIDATO: Seleccione la categoría.\n\nCONTENIDO:\n\nSeleccione la categoría.\nAplique filtros para que se seleccione la categoría correspondiente.\nElija la cantidad de preguntas que deseamos incluir de manera aleatoria de esa categoría.",
+    "enriched_title": "Selección y Filtrado de Preguntas Aleatorias por Categoría",
+    "summary": "Para configurar preguntas aleatorias, primero se debe seleccionar la categoría de donde provendrán. Luego, se aplican los filtros para asegurar la selección correcta y, finalmente, se especifica la cantidad de preguntas aleatorias a incluir de dicha categoría en el examen.",
+    "keywords": [
+      "Seleccionar categoría",
+      "preguntas aleatorias",
+      "aplicar filtros",
+      "cantidad preguntas",
+      "configuración examen",
+      "banco de preguntas"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "763ab329-3ac4-4401-bd01-ece206b6fb8b",
+    "slide_name": "",
+    "title_candidate": "Una vez que ya hemos agregado las preguntas",
+    "content": "TITULO_CANDIDATO: Una vez que ya hemos agregado las preguntas al examen nada más debemos revisar estos últimos ajustes:\nAquí podemos cambiar de orden nuestras preguntas, esto si no hemos marcado la opción de barajear preguntas.\nEn esta opción debemos ajustar la calificación máxima del examen al valor de 100 y Guardar los cambios.\nAquí podemos ajustar el puntaje de cada pregunta.\nAquí podemos marcar la opción para que las preguntas se ordenen al azar.",
+    "enriched_title": "Ajustes Finales y Ordenación de Preguntas del Examen",
+    "summary": "Tras añadir las preguntas al examen, se deben realizar ajustes finales como cambiar el orden de las preguntas si no se ha activado la opción de barajearlas. Es crucial ajustar la calificación máxima del examen a 100 puntos y guardar los cambios, además de poder configurar el puntaje individual de cada pregunta y la opción de orden aleatorio.",
+    "keywords": [
+      "Ajustes finales",
+      "ordenar preguntas",
+      "calificación máxima",
+      "guardar cambios",
+      "puntaje pregunta",
+      "preguntas al azar",
+      "configuración examen"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "8b5b98c4-b9d2-431b-81b2-80fbc7e69939",
+    "slide_name": "",
+    "title_candidate": "Una vez configurado nuestro examen debemos ingresar nuevamente",
+    "content": "TITULO_CANDIDATO: Una vez configurado nuestro examen debemos ingresar nuevamente al examen para realizar una vista previa en la siguiente opción. Con esto podemos verificar también el funcionamiento de cada pregunta al elegir las respuestas correctas e incorrectas.\n¿Cómo comprobar que mi examen quedó bien configurado?\nLa previsualización",
+    "enriched_title": "Previsualización y Verificación de la Configuración del Examen",
+    "summary": "Después de configurar el examen, es indispensable realizar una vista previa para verificar su correcta configuración y funcionamiento. La previsualización permite comprobar cómo interactúan las preguntas, seleccionando respuestas correctas e incorrectas, asegurando que todo funcione según lo esperado antes de la evaluación real.",
+    "keywords": [
+      "Previsualización examen",
+      "verificación configuración",
+      "funcionamiento preguntas",
+      "respuestas correctas",
+      "respuestas incorrectas",
+      "prueba examen"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "e73c1e63-4920-4601-a41b-562e5897b008",
+    "slide_name": "",
+    "title_candidate": "¿Cómo se ve en la página de la",
+    "content": "TITULO_CANDIDATO: ¿Cómo se ve en la página de la plataforma?\nVista en la sesión\nVista de docente\nVista de estudiante",
+    "enriched_title": "Visualización del Examen en la Plataforma",
+    "summary": "Esta diapositiva ilustra las diferentes vistas del examen dentro de la plataforma, incluyendo cómo se presenta en la sesión general, desde la perspectiva del docente y cómo lo experimenta el estudiante. Muestra la interfaz de usuario para cada rol.",
+    "keywords": [
+      "Vista plataforma",
+      "examen",
+      "vista docente",
+      "vista estudiante",
+      "interfaz usuario",
+      "sesión"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "ca9e6aa4-e345-41f0-a053-afdbadd443f3",
+    "slide_name": "",
+    "title_candidate": "¿Qué usos podemos darle a la actividad Examen?",
+    "content": "TITULO_CANDIDATO: ¿Qué usos podemos darle a la actividad Examen?\n\nCONTENIDO:\n\n¿Qué usos podemos darle a la actividad Examen?\nLa actividad Examen puede utilizarse tanto para evaluaciones formativas como de carácter sumativo dentro de un curso, con la cantidad y estilos de preguntas que consideremos necesarias. Es una actividad para desarrollarse de forma individual y una de sus particularidades más importantes es que permiten brindar una retroalimentación más inmediata al estudiante de su aprendizaje, al poder configurar la mayoría de las preguntas con sus respectivas respuestas que son liberadas en el momento requerido por la persona docente. En la actividad examen podemos además agregar recursos multimediales que acompañen la formulación de las preguntas, lo cual hace que se convierta en una actividad mucho más llamativa y completa que una evaluación de este tipo realizada en papel.",
+    "enriched_title": "Usos y Beneficios de la Actividad Examen en Plataformas Digitales",
+    "summary": "La actividad Examen es versátil, apta para evaluaciones formativas y sumativas, permitiendo múltiples estilos de preguntas y el uso de recursos multimedia. Su principal ventaja es la capacidad de proporcionar retroalimentación inmediata y personalizada a los estudiantes, superando las limitaciones de las pruebas en papel al ser más completa y atractiva.",
+    "keywords": [
+      "Usos examen",
+      "evaluaciones formativas",
+      "evaluaciones sumativas",
+      "retroalimentación inmediata",
+      "recursos multimedia",
+      "aprendizaje",
+      "plataformas digitales",
+      "beneficios examen"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "8c44e745-0489-46a1-a5bc-a98b9efbd22e",
+    "slide_name": "",
+    "title_candidate": "Recomendaciones",
+    "content": "TITULO_CANDIDATO: Recomendaciones\n\nCONTENIDO:\n\nRecomendaciones\nComo hemos visto la herramienta examen tiene varios detalles a considerar, por lo que es importante que verifiquemos cada uno de los que hemos abordado en este manual para que así el resultado de la evaluación sea exitoso. Recordemos que si bien es cierto la herramienta examen permite hacer preguntas en el momento, lo mejor es que procedamos a crear un banco de preguntas que se puede ir enriqueciendo a lo largo del curso. Así, al momento de hacer el examen, solo debemos elegir las preguntas o categorías que requiramos para esta evaluación. En la configuración del examen, la definición del tiempo (Temporalización) y de las Opciones de revisión por parte de los estudiantes, son de los aspectos de mayor importancia para que el examen sea visualizado de la forma correcta o esperada por la persona docente. Es importante que antes de poner en ejecución el examen, hagamos una previsualización del mismo para asegurarnos que todas las preguntas y los aspectos definidos en la configuración funcionan correctamente.",
+    "enriched_title": "Recomendaciones Clave para un Examen Exitoso",
+    "summary": "Para asegurar el éxito de un examen, es crucial verificar todos los detalles de configuración, especialmente la temporalización y las opciones de revisión para estudiantes. Se recomienda encarecidamente crear y enriquecer un banco de preguntas a lo largo del curso para facilitar la construcción de exámenes y, antes de su ejecución, realizar una previsualización exhaustiva para asegurar el correcto funcionamiento.",
+    "keywords": [
+      "Recomendaciones examen",
+      "éxito evaluación",
+      "banco de preguntas",
+      "temporalización",
+      "opciones de revisión",
+      "previsualización",
+      "configuración examen",
+      "docente"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "1bc56060-4f2e-464c-b156-56e038eca0c8",
+    "slide_name": "",
+    "title_candidate": "Después de cerrar el examen",
+    "content": "TITULO_CANDIDATO: Después de cerrar el examen\n\nCONTENIDO:\n\nDespués de cerrar el examen\nLorem ipsum dolor sit\nMarcar estas opciones permitirá revelar al estudiantado todos estos aspectos una vez que el examen ha finalizado. También si se quiere se puede dejar esta columna en blanco y hasta que se hayan revisado las respuestas con los estudiantes en clase, se pueden marcar para revelar la calificación.",
+    "enriched_title": "Opciones de Revisión Posterior al Cierre del Examen",
+    "summary": "Este apartado explica las opciones para revelar información a los estudiantes después de que el examen ha cerrado. Se pueden configurar para mostrar automáticamente todos los aspectos o dejar en blanco y liberar la calificación y respuestas manualmente, por ejemplo, tras una revisión en clase.",
+    "keywords": [
+      "Revisión post-cierre",
+      "revelar calificación",
+      "respuestas examen",
+      "retroalimentación",
+      "estudiantes",
+      "configuración examen"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "1c2689a3-14fc-40b1-85bd-5834e949b479",
+    "slide_name": "",
+    "title_candidate": "Durante el intento",
+    "content": "TITULO_CANDIDATO: Durante el intento\n\nCONTENIDO:\n\nDurante el intento\nLorem ipsum dolor sit\nEn esta primer columna aparecen los aspectos que pueden revelarse o no al estudiante. En los íconos de autoayuda podemos encontrar más información de cada uno. Al ser la columna de \"Durante el intento\" el sistema solo permite revelar la puntuación máxima, para que no se muestre nada más al estudiante mientras realiza la prueba.",
+    "enriched_title": "Opciones de Revelación de Información Durante el Intento",
+    "summary": "Durante el intento del examen, el sistema limita la revelación de información al estudiante a la puntuación máxima. Otros aspectos pueden configurarse para ser ocultados, con detalles adicionales disponibles en los íconos de autoayuda, para evitar que se muestren datos que puedan influir en el desarrollo de la prueba.",
+    "keywords": [
+      "Durante intento",
+      "revelar información",
+      "puntuación máxima",
+      "autoayuda",
+      "configuración examen",
+      "restricciones"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "5c03abb8-19cd-4617-837f-ebbb020b2181",
+    "slide_name": "",
+    "title_candidate": "Así se ve la actividad cuando ingresan los",
+    "content": "TITULO_CANDIDATO: Así se ve la actividad cuando ingresan los estudiantes. Si las fechas ya se encuentran disponibles les aparecerá el botón de \"Intento de examen\" para comenzar a realizarlo.",
+    "enriched_title": "Vista del Examen para Estudiantes al Ingresar",
+    "summary": "Esta diapositiva muestra cómo se visualiza la actividad de examen para los estudiantes. Si las fechas de inicio están activas, aparecerá un botón de 'Intento de examen' que les permitirá comenzar la prueba.",
+    "keywords": [
+      "Vista estudiante",
+      "acceso examen",
+      "botón intento",
+      "fechas disponibles",
+      "plataforma educativa",
+      "inicio prueba"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "8497ebe7-6be2-4b5b-a6c7-54acb4c2a31c",
+    "slide_name": "",
+    "title_candidate": "Inmediatamente después del intento",
+    "content": "TITULO_CANDIDATO: Inmediatamente después del intento\n\nCONTENIDO:\n\nInmediatamente después del intento\nLorem ipsum dolor sit\nEste momento se refiere al momento en que el estudiante acaba de terminar el intento. Según el carácter de la prueba podemos definir qué aspectos mostrar al estudiante; sin embargo, para una prueba de evaluación sumativa lo mejor es no marcar ninguna de las opciones.",
+    "enriched_title": "Opciones de Revisión Inmediata Post-Intento",
+    "summary": "Este apartado describe las opciones para mostrar información al estudiante inmediatamente después de que finaliza su intento de examen. La visibilidad de los aspectos dependerá del tipo de prueba; para evaluaciones sumativas, se recomienda no marcar ninguna opción para evitar revelar resultados prematuramente.",
+    "keywords": [
+      "Revisión inmediata",
+      "post-intento",
+      "revelar aspectos",
+      "evaluación sumativa",
+      "configuración examen",
+      "resultados"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "ae9baa28-bd9f-473b-ac21-6ffb2bab4fad",
+    "slide_name": "",
+    "title_candidate": "Así se verá la actividad dentro de la",
+    "content": "TITULO_CANDIDATO: Así se verá la actividad dentro de la sesión. Esto cuando hayamos puesto las instrucciones para que se visualicen desde la página principal.",
+    "enriched_title": "Visualización de la Actividad de Examen en Sesión",
+    "summary": "Esta diapositiva muestra cómo se presenta la actividad del examen dentro de la sesión, particularmente cuando las instrucciones han sido configuradas para ser visibles directamente desde la página principal. Esto asegura que los estudiantes tengan la información clave a la vista.",
+    "keywords": [
+      "Visualización actividad",
+      "sesión examen",
+      "instrucciones",
+      "página principal",
+      "plataforma educativa"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "d8a0f025-a7f5-46df-b57d-17ffa2942eb9",
+    "slide_name": "",
+    "title_candidate": "Más tarde mientras el examen sigue abierto",
+    "content": "TITULO_CANDIDATO: Más tarde mientras el examen sigue abierto\n\nCONTENIDO:\n\nMás tarde mientras el examen sigue abierto\nLorem ipsum dolor sit\nEste otro momento hace referencia a revelar alguna de estas opciones, tiempo después de haber hecho el intento pero cuando el examen aún sigue abierto según las horas que se predefinieron en la configuración. Al igual que la columna anterior, si se trata de una prueba de carácter sumativa, lo mejor es dejar las opciones sin marcar para no afectar la realización y resultados de esta evaluación.",
+    "enriched_title": "Opciones de Revisión con Examen Aún Abierto",
+    "summary": "Esta sección aborda la posibilidad de revelar opciones de revisión en un momento posterior al intento, pero mientras el examen permanece abierto. Para pruebas sumativas, se recomienda no activar estas opciones para no influir en la realización ni en los resultados de la evaluación de otros estudiantes.",
+    "keywords": [
+      "Revisión diferida",
+      "examen abierto",
+      "evaluación sumativa",
+      "revelar información",
+      "configuración examen",
+      "resultados evaluación"
+    ]
+  },
+  {
+    "source": "https://view.genially.com/6809061b15eed04a7c31b104/interactive-content-actividad-examen",
+    "genially_id": "6809061b15eed04a7c31b104",
+    "slide_id": "e595881d-bbb9-4658-ae26-23355fcb73c1",
+    "slide_name": "",
+    "title_candidate": "Esta es la vista del docente al ingresar",
+    "content": "TITULO_CANDIDATO: Esta es la vista del docente al ingresar a la actividad. Cuando ya los estudiantes hayan realizado la prueba, aparecerán también la cantidad de intentos realizados.",
+    "enriched_title": "Vista del Docente en la Actividad de Examen",
+    "summary": "Esta diapositiva muestra la interfaz que el docente ve al acceder a la actividad de examen. Una vez que los estudiantes han completado la prueba, esta vista incluirá información sobre la cantidad de intentos realizados, facilitando el seguimiento y la gestión.",
+    "keywords": [
+      "Vista docente",
+      "interfaz docente",
+      "gestión examen",
+      "cantidad intentos",
+      "seguimiento estudiantes",
+      "actividad examen"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "slide_id": "6787f1701e177088c871b858",
+    "slide_name": "Genially sin título",
+    "texts": [
+      "Configuración de contraseña en Mediación Virtual"
+    ],
+    "videos": [],
+    "title_candidate": "Genially sin título"
+  },
+  {
+    "slide_id": "019df183-bc54-4e4f-9c92-046cf6749980",
+    "slide_name": "4",
+    "texts": [
+      "¿Qué es la contraseña de inscripción?",
+      "La contraseña de inscripción o o clave de matriculación, se refiere a una serie de caracteres, escritos en letras, números o o símbolos ortográficos, que permiten la Auto-Inscripción de estudiantes para ingresar a un entorno en específico. Esta es proporcionada por los docentes o mediadores, y estará activa cuando los entornos virtuales de los cursos no estén enlazados con la oficina de Registro e Información de la Universidad de Costa Rica. La contraseña se le solicita al docente en el proceso de Autogestión de entornos virtuales. Para cambiar o consultar la misma puede realizarlo desde el menú de Participantes."
+    ],
+    "videos": [],
+    "title_candidate": "4"
+  },
+  {
+    "slide_id": "586abb47-6e42-4bc3-9cee-de6d763821b8",
+    "slide_name": "3",
+    "texts": [
+      "Iniciemos paso a paso",
+      "Para hacer el cambio de contraseña ingresamos a Participante > Usuarios > Métodos de Matriculación:"
+    ],
+    "videos": [],
+    "title_candidate": "3"
+  },
+  {
+    "slide_id": "b20e7e6d-dc1b-42ac-9c73-b1364acadc2b",
+    "slide_name": "3.1",
+    "texts": [
+      "Seguidamente, ingresamos a Auto-matriculación (Estudiante) y hacemos clic en la \"Tueca\":",
+      "Ojo: Si está activo (sin tacha) permite que el método se use en el entorno. Tuerca: Al ingresar le recomendamos solo editar la contraseña, mantenga igual resto de configuraciones."
+    ],
+    "videos": [],
+    "title_candidate": "3.1"
+  },
+  {
+    "slide_id": "a3fb5778-ba34-4aef-ba7a-15ac2f6f47c9",
+    "slide_name": "",
+    "texts": [
+      "Ya dentro de Auto-matriculación (Estudiante), el cambio se realiza en la opción Clave de matriculación, hagamos clic en el lápiz y escribimos la nueva clave que queremos usar.",
+      "Ojo: Si hacemos clic en el ojo, podremos consultar la clave que habíamos puesto al configurar el entorno."
+    ],
+    "videos": [],
+    "title_candidate": "Ya dentro de Auto-matriculación (Estudiante), el cambio se"
+  },
+  {
+    "slide_id": "53aa5b6c-2889-433a-886d-e8dd4008731c",
+    "slide_name": "5",
+    "texts": [
+      "Recomendaciones",
+      "Si realizó un cambio de contraseña recuerde guardar el cambio, de lo contrario este no se efectuará. Para ello utilice el botón Guardar cambios que se encuentra al final de esa pantalla. Si su computadora guarda automáticamente las contraseñas, este espacio se auto-completa con la contraseña de su usuario institucional, usted debe borrar la contraseña y escribir una nueva."
+    ],
+    "videos": [],
+    "title_candidate": "5"
+  }
+]
