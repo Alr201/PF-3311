@@ -2,18 +2,22 @@
 Agente Virtual con RAG - Streamlit + ChromaDB + Gemini
 =======================================================
 Uso:
-    pip install streamlit chromadb google-genai python-dotenv
-    pip install faster-whisper edge-tts streamlit-audiorecorder
+    pip install streamlit chromadb google-genai python-dotenv faster-whisper edge-tts miniaudio
     streamlit run chatbot.py
+
+Assets requeridos:
+    ./assets/idle.json
+    ./assets/thinking.json
+    ./assets/speaking.json
 """
 
 import os
 import io
+import json
 import base64
 import tempfile
 import re
 import asyncio
-import websockets
 import chromadb
 from dotenv import load_dotenv
 from google import genai
@@ -21,27 +25,19 @@ from google.genai import types
 import streamlit as st
 import edge_tts
 from faster_whisper import WhisperModel
-
-
-# ─── Configuración ────────────────────────────────────────────────────────────
+import miniaudio
 
 load_dotenv()
 
-CHROMA_PATH      = "./chroma_db"
-COLLECTION_NAME  = "rag_presentaciones"
-EMBED_MODEL      = "models/gemini-embedding-001"
-CHAT_MODEL       = "gemini-2.5-flash"
-TOP_K            = 5
-MIN_SIMILARITY   = 0.4
-WHISPER_MODEL    = "small"
-
-# Voces disponibles en español:
-# es-CR-JuanNeural    → Costa Rica, masculino
-# es-CR-MariaNeural   → Costa Rica, femenino
-# es-MX-DaliaNeural   → México, femenino (muy natural)
-# es-MX-JorgeNeural   → México, masculino
-# es-ES-ElviraNeural  → España, femenino
-VOICE = "es-CR-JuanNeural"
+CHROMA_PATH     = "./chroma_db"
+COLLECTION_NAME = "rag_presentaciones"
+EMBED_MODEL     = "models/gemini-embedding-001"
+CHAT_MODEL      = "gemini-2.5-flash"
+TOP_K           = 5
+MIN_SIMILARITY  = 0.4
+WHISPER_MODEL   = "small"
+VOICE           = "es-CR-MariaNeural"
+ASSETS_DIR      = "./assets"
 
 SYSTEM_PROMPT = """Eres un agente virtual educativo con embodiment de la Universidad de Costa Rica (UCR), especializado en el material de los módulos de virtualidad y educación en línea.
 
@@ -58,7 +54,156 @@ Formato de respuesta cuando usás el RAG:
 - Al final de tu respuesta agregá: "📚 Fuente: [Hipervínculo de la presentación]" para cada fuente usada
 """
 
-# ─── Inicialización cacheada ──────────────────────────────────────────────────
+CSS = """
+<style>
+[data-testid="stMainBlockContainer"] {
+    padding: 0 !important;
+    max-width: 100% !important;
+}
+body, html { overflow: hidden !important; }
+
+footer, #MainMenu, header { display: none !important; }
+[data-testid="stToolbar"] { display: none !important; }
+[data-testid="stDecoration"] { display: none !important; }
+
+[data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:first-child > div {
+    position: fixed !important;
+    top: 0; left: 0;
+    width: 42vw !important;
+    height: 100vh !important;
+    background: var(--background-color, #0e1117);
+    padding: 1.5rem 1rem 1rem 1.5rem !important;
+    z-index: 10;
+    border-right: 1px solid rgba(255,255,255,0.08);
+    overflow: hidden;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+[data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:last-child > div {
+    position: fixed !important;
+    top: 0;
+    left: 42vw;
+    width: 58vw !important;
+    height: 100vh !important;
+    display: flex !important;
+    flex-direction: column !important;
+    padding: 1rem 1rem 0 1rem !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+}
+
+[data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:last-child iframe {
+    flex: 1 !important;
+    border: none !important;
+    min-height: 0 !important;
+}
+
+.input-bar-wrapper {
+    flex-shrink: 0;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+[data-testid="stAudioInput"] label { display: none !important; }
+[data-testid="stAudioInput"] button {
+    padding: 0.25rem 0.75rem !important;
+    font-size: 0.78rem !important;
+    border-radius: 20px !important;
+    min-height: unset !important;
+}
+</style>
+"""
+
+# ─── Avatar Lottie ────────────────────────────────────────────────────────────
+
+@st.cache_resource
+def load_animations() -> dict:
+    animations = {}
+    for state in ("idle", "thinking", "speaking"):
+        path = os.path.join(ASSETS_DIR, f"{state}.json")
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                animations[state] = json.load(f)
+        except FileNotFoundError:
+            animations[state] = None
+    return animations
+
+def render_avatar(state: str, animations: dict, height: int = 520):
+    anim = animations.get(state) or animations.get("idle")
+    if anim is None:
+        st.warning(f"⚠️ No se encontró {state}.json en ./assets/")
+        return
+    anim_json = json.dumps(anim)
+    st.components.v1.html(f"""
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+        <div style="display:flex;justify-content:center;align-items:center;width:100%;height:{height}px;">
+            <lottie-player autoplay loop mode="normal"
+                style="width:100%;height:{height}px;background:transparent;"
+                src='data:application/json,{anim_json}'>
+            </lottie-player>
+        </div>
+    """, height=height)
+
+# ─── Audio con duración exacta y eventos pause/ended ─────────────────────────
+
+def get_audio_duration(mp3_bytes: bytes) -> float:
+    """Calcula la duración exacta del MP3 en segundos usando miniaudio."""
+    try:
+        info = miniaudio.mp3_get_info(mp3_bytes)
+        return info.duration
+    except Exception:
+        # Fallback: estimación por tamaño a 128kbps
+        return len(mp3_bytes) / 16000.0
+
+def smart_audio_player(audio_bytes: bytes):
+    """
+    Reproduce el audio con controles visibles.
+    Al terminar o pausar, redirige agregando ?audio_done=1 a la URL
+    para que Streamlit lo detecte en el próximo ciclo.
+    """
+    b64 = base64.b64encode(audio_bytes).decode()
+    st.components.v1.html(f"""
+        <!DOCTYPE html>
+        <html>
+        <body style="margin:0;padding:4px;background:transparent;">
+        <audio id="tts"
+               controls
+               autoplay
+               style="width:100%;height:40px;">
+            <source src="data:audio/mp3;base64,{b64}" type="audio/mp3">
+        </audio>
+        <script>
+        var audio = document.getElementById('tts');
+        var done  = false;
+
+        function signalDone() {{
+            if (done) return;
+            done = true;
+            // Agregar ?audio_done=timestamp a la URL del parent
+            // para triggerear un rerun de Streamlit
+            try {{
+                var url = new URL(window.parent.location.href);
+                url.searchParams.set('audio_done', Date.now());
+                window.parent.location.replace(url.toString());
+            }} catch(e) {{
+                // Fallback si hay restricciones de cross-origin
+                window.parent.postMessage({{streamlit_done: true}}, '*');
+            }}
+        }}
+
+        audio.addEventListener('ended', signalDone);
+        audio.addEventListener('pause', function() {{
+            if (!audio.ended) signalDone();
+        }});
+        </script>
+        </body></html>
+    """, height=55)
+
+# ─── Inicialización ───────────────────────────────────────────────────────────
 
 @st.cache_resource
 def init_clients():
@@ -73,57 +218,26 @@ def init_clients():
 
 @st.cache_resource
 def init_whisper():
-    """Carga el modelo Whisper una sola vez (puede tardar la primera vez)."""
     with st.spinner(f"Cargando modelo de voz ({WHISPER_MODEL})..."):
         return WhisperModel(WHISPER_MODEL, device="cpu", compute_type="int8")
 
-# ─── STT: Audio → Texto ───────────────────────────────────────────────────────
+# ─── STT ──────────────────────────────────────────────────────────────────────
 
 def transcribe_audio(audio_bytes: bytes, whisper_model) -> str:
-    """Transcribe audio usando Whisper local."""
     with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as f:
         f.write(audio_bytes)
         tmp_path = f.name
-
-    segments, _ = whisper_model.transcribe(
-        tmp_path,
-        language="es",
-        beam_size=5,
-        vad_filter=True,
-    )
+    segments, _ = whisper_model.transcribe(tmp_path, language="es", beam_size=5, vad_filter=True)
     os.unlink(tmp_path)
     return " ".join(seg.text for seg in segments).strip()
 
-# ─── TTS: Texto → Audio (edge-tts) ───────────────────────────────────────────
+# ─── TTS ──────────────────────────────────────────────────────────────────────
 
 def clean_for_tts(text: str) -> str:
-    """Limpia markdown para que suene natural al leerlo en voz alta."""
-    # Quitar formato markdown
     clean = re.sub(r"\*+|_+|#{1,6}\s?|`+", "", text)
-    # Links: mantener solo el texto visible
     clean = re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", clean)
-    # Quitar emojis (edge-tts los lee literalmente a veces)
     clean = re.sub(r"[^\w\s\.\,\;\:\!\?\-\(\)áéíóúüñÁÉÍÓÚÜÑ]", "", clean)
-    # Normalizar espacios
-    clean = re.sub(r"\s+", " ", clean).strip()
-    return clean
-
-LIPSYNC_SERVER = "ws://localhost:8765/audio"
-
-async def _send_audio_to_lipsync(audio_bytes: bytes):
-    """Envía el audio MP3 al servidor de lipsync para animar el avatar."""
-    try:
-        async with websockets.connect(LIPSYNC_SERVER, open_timeout=2) as ws:
-            await ws.send(audio_bytes)
-    except Exception:
-        pass  # Si Unity no está conectado, no interrumpir el flujo
-
-def send_to_lipsync(audio_bytes: bytes):
-    """Wrapper síncrono para llamar desde Streamlit."""
-    try:
-        asyncio.run(_send_audio_to_lipsync(audio_bytes))
-    except Exception:
-        pass
+    return re.sub(r"\s+", " ", clean).strip()
 
 async def _tts_async(text: str, voice: str) -> bytes:
     communicate = edge_tts.Communicate(text, voice)
@@ -134,23 +248,12 @@ async def _tts_async(text: str, voice: str) -> bytes:
     return buf.getvalue()
 
 def text_to_speech(text: str, voice: str = VOICE) -> bytes:
-    """Convierte texto a audio MP3 con edge-tts (voces neurales de Microsoft)."""
     clean = clean_for_tts(text)
     if not clean:
         return b""
     return asyncio.run(_tts_async(clean, voice))
 
-def autoplay_audio(audio_bytes: bytes):
-    """Inyecta HTML para reproducir audio automáticamente en Streamlit."""
-    if not audio_bytes:
-        return
-    b64 = base64.b64encode(audio_bytes).decode()
-    st.markdown(
-        f'<audio autoplay controls src="data:audio/mp3;base64,{b64}"></audio>',
-        unsafe_allow_html=True,
-    )
-
-# ─── RAG: recuperar contexto relevante ────────────────────────────────────────
+# ─── RAG ──────────────────────────────────────────────────────────────────────
 
 def retrieve_context(query: str, genai_client, collection) -> tuple[str, list[dict]]:
     response = genai_client.models.embed_content(
@@ -159,43 +262,28 @@ def retrieve_context(query: str, genai_client, collection) -> tuple[str, list[di
         config=types.EmbedContentConfig(task_type="RETRIEVAL_QUERY"),
     )
     query_embedding = response.embeddings[0].values
-
     results = collection.query(
         query_embeddings=[query_embedding],
         n_results=TOP_K,
         include=["documents", "metadatas", "distances"],
     )
-
-    docs      = results["documents"][0]
-    metas     = results["metadatas"][0]
-    distances = results["distances"][0]
-
+    docs, metas, distances = results["documents"][0], results["metadatas"][0], results["distances"][0]
     relevant = [
         (doc, meta, 1 - dist)
         for doc, meta, dist in zip(docs, metas, distances)
         if (1 - dist) >= MIN_SIMILARITY
     ]
-
     if not relevant:
         return "", []
-
     context_parts, sources = [], []
     for doc, meta, similarity in relevant:
         title = meta.get("enriched_title", meta.get("slide_name", "Sin título"))
         context_parts.append(f"[{title}]\n{doc}")
-        sources.append({
-            "title": title,
-            "source": meta.get("source", ""),
-            "similarity": similarity,
-        })
-
+        sources.append({"title": title, "source": meta.get("source", ""), "similarity": similarity})
     return "\n\n---\n\n".join(context_parts), sources
-
-# ─── Chat con Gemini ──────────────────────────────────────────────────────────
 
 def chat_with_rag(query: str, genai_client, collection) -> tuple[str, list[dict]]:
     context, sources = retrieve_context(query, genai_client, collection)
-
     if context:
         user_message = f"""
 CONTEXTO DEL CURSO:
@@ -211,42 +299,55 @@ INSTRUCCIONES:
 
 PREGUNTA DEL ESTUDIANTE: {query}"""
     else:
-        user_message = f"""No se encontró contexto relevante en el material del curso.
-
-Pregunta del estudiante: {query}"""
-
+        user_message = f"No se encontró contexto relevante en el material del curso.\n\nPregunta del estudiante: {query}"
     response = st.session_state.chat.send_message(user_message)
     return response.text, sources
 
-# ─── UI Streamlit ─────────────────────────────────────────────────────────────
+# ─── Historial HTML ───────────────────────────────────────────────────────────
+
+def render_messages_html(messages: list) -> str:
+    rows = []
+    for msg in messages:
+        is_user = msg["role"] == "user"
+        bg = "#1e3a5f" if is_user else "#1a1a2e"
+        align = "flex-end" if is_user else "flex-start"
+        icon = "🧑" if is_user else "🎓"
+        content = msg["content"].replace("<", "&lt;").replace(">", "&gt;").replace("\n", "<br>")
+        sources_html = ""
+        if msg.get("sources"):
+            links = "".join(
+                f'<a href="{s["source"]}" target="_blank" style="color:#4da6ff;font-size:0.78rem;">'
+                f'{s["title"]} ({s["similarity"]:.0%})</a><br>'
+                for s in msg["sources"]
+            )
+            sources_html = f'<details style="margin-top:0.4rem;font-size:0.8rem;color:#aaa;"><summary>📎 Fuentes</summary>{links}</details>'
+        rows.append(f"""
+        <div style="display:flex;justify-content:{align};margin-bottom:0.75rem;">
+          <div style="max-width:85%;background:{bg};border-radius:12px;padding:0.6rem 0.9rem;">
+            <span style="font-size:0.75rem;color:#888;">{icon}</span>
+            <div style="margin-top:0.2rem;font-size:0.9rem;line-height:1.5;">{content}</div>
+            {sources_html}
+          </div>
+        </div>""")
+    return "".join(rows)
+
+# ─── UI ───────────────────────────────────────────────────────────────────────
 
 def main():
     st.set_page_config(
         page_title="Asistente Virtual UCR",
         page_icon="🎓",
-        layout="wide"
+        layout="wide",
+        initial_sidebar_state="collapsed",
     )
 
-    # ── Layout: avatar izquierda, chat derecha ──
-    col_avatar, col_chat = st.columns([1.2, 1], gap="large")
-
-    with col_avatar:
-        st.markdown("### 🎓 Asistente Virtual UCR")
-        st.components.v1.iframe(
-            src="http://localhost:8080",
-            width=None,    # ocupa el ancho de la columna
-            height=580,
-            scrolling=False,
-        )
-
-    with col_chat:
-        st.markdown("### 💬 Chat")
-        st.caption("Escribí o usá el micrófono")
+    st.markdown(CSS, unsafe_allow_html=True)
 
     genai_client, collection = init_clients()
     whisper_model = init_whisper()
+    animations = load_animations()
 
-    # Inicializar chat persistente
+    # ── Session state ──
     if "chat" not in st.session_state:
         st.session_state.chat = genai_client.chats.create(
             model=CHAT_MODEL,
@@ -256,51 +357,62 @@ def main():
                 max_output_tokens=4096,
             )
         )
+    if "messages"        not in st.session_state: st.session_state.messages      = []
+    if "avatar_state"    not in st.session_state: st.session_state.avatar_state  = "idle"
+    if "pending_audio"   not in st.session_state: st.session_state.pending_audio = None
 
-    # ── Sidebar ──
-    with st.sidebar:
-        st.header("📚 Base de conocimiento")
-        st.metric("Chunks indexados", collection.count())
-        st.divider()
-        st.markdown("**Configuración RAG**")
-        st.slider("Chunks a recuperar", 1, 10, TOP_K, key="top_k")
-        st.slider("Similitud mínima", 0.0, 1.0, MIN_SIMILARITY, 0.05, key="min_sim")
-        st.divider()
-        st.markdown("**Voz**")
-        voice = st.selectbox("Voz", [
-            "es-CR-MariaNeural",
-            "es-CR-JuanNeural",
-            "es-MX-JorgeNeural",
-            "es-MX-DaliaNeural",
-            "es-ES-AlvaroNeural",
-            "es-ES-ElviraNeural",
-        ], key="voice")
-        tts_enabled = st.toggle("🔊 Respuesta en audio", value=True)
-        st.divider()
-        if st.button("🗑️ Limpiar conversación"):
-            st.session_state.messages = []
-            del st.session_state.chat
-            st.rerun()
+    # ── Detectar señal de audio terminado via query params ──
+    params = st.query_params
+    if "audio_done" in params and st.session_state.avatar_state == "speaking":
+        st.session_state.avatar_state = "idle"
+        st.query_params.clear()
+        st.rerun()
 
-    # Inicializar historial
-    if "messages" not in st.session_state:
-        st.session_state.messages = []
+    # ── Layout ──
+    col_avatar, col_chat = st.columns([1, 1.2], gap="large")
+
+    with col_avatar:
+        st.markdown("#### 🎓 Asistente Virtual UCR")
+        render_avatar(st.session_state.avatar_state, animations, height=520)
+        state_labels = {
+            "idle":     "💤 Esperando",
+            "thinking": "🤔 Pensando...",
+            "speaking": "🗣 Hablando..."
+        }
+        st.caption(state_labels.get(st.session_state.avatar_state, ""))
 
     with col_chat:
-        # Mostrar historial
-        for msg in st.session_state.messages:
-            with st.chat_message(msg["role"]):
-                st.markdown(msg["content"])
-                if msg.get("sources"):
-                    with st.expander("📎 Fuentes consultadas"):
-                        for src in msg["sources"]:
-                            st.markdown(f"- **{src['title']}** `{src['similarity']:.0%}` — [ver presentación]({src['source']})")
 
-        # ── Input por micrófono ──
-        audio_input = st.audio_input("🎤 Grabá tu pregunta")
+        # Reproducir audio pendiente
+        if st.session_state.pending_audio:
+            smart_audio_player(st.session_state.pending_audio)
+            st.session_state.pending_audio = None
 
+        # ── Historial ──
+        history_html = f"""
+        <html><head><style>
+          body {{ margin:0; padding:0.5rem 0.5rem 1rem 0.5rem;
+                 background:transparent; color:#fafafa;
+                 font-family:-apple-system,sans-serif; overflow-x:hidden; }}
+          ::-webkit-scrollbar {{ width:4px; }}
+          ::-webkit-scrollbar-thumb {{ background:#444; border-radius:4px; }}
+        </style></head>
+        <body>
+          {render_messages_html(st.session_state.messages)}
+          <div id="bottom"></div>
+          <script>document.getElementById('bottom').scrollIntoView();</script>
+        </body></html>
+        """
+        st.components.v1.html(history_html, height=400, scrolling=True)
+
+        # ── Input bar ──
+        st.markdown('<div class="input-bar-wrapper">', unsafe_allow_html=True)
+        audio_input = st.audio_input("🎤", label_visibility="collapsed")
+        text_input  = st.chat_input("Escribí tu pregunta...")
+        st.markdown('</div>', unsafe_allow_html=True)
+
+        # ── STT ──
         prompt = None
-
         if audio_input is not None:
             audio_key = audio_input.size
             if st.session_state.get("last_audio_key") != audio_key:
@@ -311,39 +423,37 @@ def main():
                     st.info(f"🗣 *{transcript}*")
                     prompt = transcript
 
-        # ── Input por texto ──
-        text_input = st.chat_input("O escribí tu pregunta aquí...")
         if text_input:
             prompt = text_input
 
-        # ── Procesar prompt ──
+        # ── Nuevo prompt → thinking ──
         if prompt:
-            with st.chat_message("user"):
-                st.markdown(prompt)
             st.session_state.messages.append({"role": "user", "content": prompt})
+            st.session_state.avatar_state = "thinking"
+            st.rerun()
 
-            with st.chat_message("assistant"):
-                with st.spinner("Buscando en el material..."):
-                    response, sources = chat_with_rag(prompt, genai_client, collection)
+        # ── Thinking → generar respuesta + TTS ──
+        if st.session_state.avatar_state == "thinking" and \
+           st.session_state.messages and \
+           st.session_state.messages[-1]["role"] == "user":
 
-                st.markdown(response)
-
-                if sources:
-                    with st.expander("📎 Fuentes consultadas"):
-                        for src in sources:
-                            st.markdown(f"- **{src['title']}** `{src['similarity']:.0%}` — [ver presentación]({src['source']})")
-
-                if tts_enabled:
-                    with st.spinner("Generando audio..."):
-                        audio_bytes = text_to_speech(response, voice=st.session_state.voice)
-                    autoplay_audio(audio_bytes)
-                    send_to_lipsync(audio_bytes)
-
+            with st.spinner("Buscando en el material..."):
+                response, sources = chat_with_rag(
+                    st.session_state.messages[-1]["content"],
+                    genai_client, collection
+                )
             st.session_state.messages.append({
                 "role": "model",
                 "content": response,
                 "sources": sources,
             })
+
+            with st.spinner("Generando audio..."):
+                audio_bytes = text_to_speech(response, voice=VOICE)
+
+            st.session_state.pending_audio  = audio_bytes
+            st.session_state.avatar_state   = "speaking"
+            st.rerun()
 
 
 if __name__ == "__main__":
