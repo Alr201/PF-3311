@@ -1,0 +1,325 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{hyperref}
+\usepackage{url}
+\begin{document}
+
+
+
+\title{Agente Virtual Conversacional con RAG, Voz y Avatar 2D para el Soporte de la Plataforma Mediación Virtual de la UCR: Diseño, Implementación y Evaluación Comparativa}
+
+
+\author{\IEEEauthorblockN{Esteban Alonso León Rodríguez}
+\IEEEauthorblockA{Escuela de Ciencias en la Computación e Informática  \\
+\textit{Universidad de Costa Rica}\\
+San José, Costa Rica \\
+esteban.leonrodriguez@ucr.ac.cr}
+}
+
+\maketitle
+
+\begin{abstract}
+Las plataformas de aprendizaje en línea universitarias gestionan un volumen considerable de consultas estudiantiles repetitivas que sobrecargan los canales de soporte tradicionales. Este trabajo presenta el diseño, implementación y evaluación comparativa de un agente conversacional virtual multimodal para Mediación Virtual, la plataforma institucional de la Universidad de Costa Rica. El sistema integra un pipeline de generación aumentada por recuperación (RAG) sobre 538 fragmentos de contenido institucional indexados en ChromaDB, el modelo de lenguaje Gemini 2.5~Flash para la generación de respuestas, reconocimiento y síntesis de voz en español mediante \textit{faster-whisper} y \textit{edge-tts}, y un avatar 2D animado con tres estados visuales implementado en Figma y LottieFiles. Se realizó una evaluación comparativa con cinco participantes (tres estudiantes universitarios, un docente y una persona informática) empleando los instrumentos SUS, Godspeed y NASA-TLX, complementados con la técnica de pensar en voz alta, comparando el agente multimodal contra un chatbot de referencia basado en texto. El agente multimodal obtuvo una puntuación SUS promedio de 83.7, frente a 75.5 del chatbot textual. Las dimensiones de animacidad (4.74 vs. 1.50) y simpatía (4.60 vs. 3.56) de la escala Godspeed fueron marcadamente superiores para el agente multimodal, mientras que la inteligencia percibida favoreció al chatbot textual (4.58 vs. 3.86), vinculable a la calidad del contenido RAG. La demanda temporal del agente multimodal fue mayor (NASA-TLX: 48.0 vs. 31.0), revelando una tensión entre riqueza interactiva y eficiencia de resolución de tareas. Estos hallazgos aportan evidencia empírica sobre el diseño de agentes conversacionales multimodales en contextos de soporte universitario de habla hispana.
+\end{abstract}
+
+\begin{IEEEkeywords}
+agentes conversacionales, generación aumentada por recuperación (RAG), interfaces multimodales, interacción humano-agente
+\end{IEEEkeywords}
+
+\section{Introducción}
+Las plataformas de aprendizaje en línea universitarias, conocidas como sistemas de gestión del aprendizaje o LMS (\emph{Learning Management Systems}), se han consolidado como infraestructura fundamental en la educación superior actual. En este contexto, los servicios de soporte asociados a dichas plataformas reciben un flujo constante de consultas de estudiantes y docentes de carácter repetitivo: acceso a cursos, uso de herramientas, procedimiento de habilitaciones de cursos, gestión de contenido, etcétera. Este tipo de consultas, aunque resolubles mediante información ya disponible en la documentación institucional, implica una carga operativa importante para los equipos de soporte, quienes además deben atender casos de mayor complejidad que requieren criterio humano.
+Mediación Virtual es la plataforma de aprendizaje en línea de la Universidad de Costa Rica (UCR), administrada por la unidad de METICS (Unidad de Apoyo a la Docencia Mediada con TICS). Como sucede en otras instituciones de educación superior, el centro de soporte de Mediación Virtual atiende consultas mediante correo electrónico, tickets y vía telefónica, canales que no garantizan respuesta inmediata y cuya escalabilidad depende mucho de la disponibilidad del personal humano. Los agentes conversacionales basados en inteligencia artificial representan una vía complementaria para aliviar este volumen de consultas frecuentes, ofreciendo respuesta inmediata, disponibilidad continua y consistencia en la información proporcionada [1]. 
+La incorporación de un modelo de lenguaje generativo sin un mecanismo que haga referencia a una fuente documental enfrenta un riesgo de que existan alucinaciones; es decir, el agente puede generar información plausible pero incorrecta. La generación aumentada por recuperación (RAG) aborda este problema al anclar las respuestas del modelo a fragmentos de documentación al momento de generar la respuesta [2]. Estudios recientes confirman que este paradigma reduce significativamente las alucinaciones en chatbots educativos de dominio específico [3], lo que lo convierte en una alternativa adecuada para despliegues institucionales donde la precisión de las respuestas es una prioridad alta.
+A esta consideración se suma la dimensión multimodal de la interacción. La incorporación de una interfaz de voz y un avatar visual transforma la experiencia de uso respecto a un chatbot basado en texto, con efectos documentados sobre la percepción de naturalidad, confianza y la dimensión de embodiment del agente [4]. Sin embargo, la investigación sobre agentes RAG multimodales diseñados para el soporte de plataformas educativas universitarias, y evaluados con instrumentos estandarizados combinados, se mantiene un poco escasa.
+Este trabajo pretende hacer las siguientes contribuciones: (1) el diseño e implementación de una agente conversacional RAG multimodal para Mediación Virtual UCR, incluyendo la creación de un avatar basado en animaciones 2D; (2) la ejecución de una evaluación comparativa entre el agente multimodal y un chatbot de referencia basado en texto, utilizando un conjunto de instrumentos cuantitativos estandarizados (SUS, Godspeed, NASA-TLX) y con métodos cualitativos (pensar en voz alta); y (3) hallazgos y recomendaciones de diseño con implicaciones para el despliegue de agentes similares en el contexto universitario.
+
+
+\section{Trabajos Relacionados}
+
+\subsection{Chatbots y Agentes Conversacionales en Educación Superior}
+La adopción de chatbots en educación superior ha crecido sostenidamente durante la última década. Okonkwo y Ade-Ibijola [1] realizaron una revisión sistemática de 53 estudios publicados entre 2015 y 2021, identificando cinco áreas principales de aplicación: asistencia al aprendizaje, orientación académica, apoyo administrativo, evaluación y soporte emocional. Los autores destacan que los chatbots permiten la centralización del material institucional, la atención simultánea a múltiples usuarios y la disponibilidad continua, beneficios directamente relevantes para el caso de Mediación Virtual. Kuhail et al. [5] ampliaron esta revisión hasta 2022 con 122 estudios, constatando que la personalización y el diseño centrado en el usuario son factores críticos para la adopción exitosa de este tipo de sistemas.
+
+En el ámbito específico de la orientación académica, Kuhail et al. [6] desarrollaron y evaluaron un chatbot para asesoría académica en una universidad del Golfo Pérsico, demostrando que los estudiantes aprenden a usar el sistema rápidamente y lo perciben como útil para consultas. Esta experiencia comparte el tipo de consultas con el caso de Mediación Virtual: preguntas frecuentes, orientación procedimental y acceso a recursos institucionales. No obstante, el estudio de Kuhail et al. se centra en texto y no incorpora componentes de voz ni avatar, ni utiliza RAG como mecanismo de recuperación de conocimiento.
+\subsection{Generación Aumentada por Recuperación (RAG) en Contextos Educativos}
+Lewis et al. [2] introdujeron el paradigma RAG como mecanismo para anclar las respuestas de modelos de lenguaje a fuentes documentales externas, combinando memoria del modelo con un índice de recuperación de vectores densos. Esta arquitectura mejora la trazabilidad de las respuestas a documentos fuente verificados, propiedad especialmente valiosa para aplicaciones institucionales donde la precisión de la respuesta es crítica.
+Swacha y Gracel [3] analizaron 47 estudios sobre chatbots RAG en educación publicados hasta 2025, concluyendo que la superación de las alucinaciones es la motivación predominante para adoptar RAG. Identificaron además que la evaluación de estos sistemas sigue siendo un área poco desarrollada: la mayoría de los trabajos reportan evaluaciones automáticas o de satisfacción general, sin instrumentos estandarizados de usabilidad o carga cognitiva.
+
+\subsection{Embodiment, Avatares y Voz en Agentes Conversacionales}
+
+La incorporación de un avatar visual en un agente conversacional --- el \textit{embodiment} --- afecta de manera documentada la percepción del usuario. ter Stal et al. [4] realizaron una revisión de la literatura sobre características de diseño de agentes conversacionales embodied (ECAs) en salud electrónica, identificando que la apariencia del avatar, su género, edad y rol percibido influyen en dimensiones de confianza, simpatía y adherencia. Un estudio complementario del mismo grupo [7] encontró que usuarios de distintas edades y géneros tienen preferencias diferenciadas sobre la apariencia del agente, con una inclinación general hacia representaciones jóvenes y femeninas para contextos de soporte; esto motivó la selección de la voz neuronal \texttt{es-CR-MariaNeural} en el presente sistema.
+La literatura también documenta que la voz sintetizada de alta calidad mejora la percepción de naturalidad y reduce la fricción para usuarios con menor fluidez en interfaz digital [4]. Esta característica cobra especial relevancia al considerar la diversidad etaria de los usuarios de plataformas LMS universitarias, que incluyen tanto estudiantes jóvenes como docentes y personal administrativo de mayor edad.
+
+\subsection{Instrumentos de Evaluación para Agentes Conversacionales}
+
+La evaluaciónn de agentes conversacionales requiere capturar múltiples dimensiones que no son accesibles mediante métricas puramente automáticas. La usabilidad percibida se mide habitualmente con el System Usability Scale (SUS) [8], una escala de diez ítems que produce un puntaje de 0 a 100 con interpretación bien establecida en la comunidad de HCI. Para capturar las dimensiones específicas de la interacción humano-agente, Bartneck et al. [9] desarrollaron la serie de cuestionarios Godspeed, que mide en escalas semánticas diferenciales cinco dimensiones: antropomorfismo, animicidad, simpatía, inteligencia percibida y seguridad percibida. La carga de trabajo cognitiva se evalúa con el NASA Task Load Index (NASA-TLX) [10], que descompone la carga subjetiva en subescalas de demanda mental, física, temporal, rendimiento, esfuerzo y frustración.
+La evaluación heurística, formalizada por Nielsen [11], es un método de inspección en el que un número reducido de evaluadores examina una interfaz contra principios de diseño establecidos. Nielsen demuestra que entre tres y siete evaluadores permiten identificar la mayor parte de los problemas de usabilidad con una relación costo-beneficio favorable. La combinación de estos instrumentos cuantitativos con la técnica de pensar en voz alta (\textit{think-aloud}) enriquece el análisis al capturar el razonamiento explícito de los participantes durante la interacción.
+
+
+
+\section{Desarrollo del Agente}
+
+\subsection{Arquitectura General}\label{AA}
+El sistema se organiza en cuatro componentes principales: (1) un pipeline de indexación y recuperación de contenido institucional (RAG), (2) un modelo de lenguaje generativo para la formulación de respuestas, (3) un sistema de entrada y salida de voz, y (4) una interfaz visual con avatar animado, todo integrado mediante un frontend de la aplicación Streamlit.
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=8.5cm]{Captura de pantalla 2026-06-22 211549.png}
+    \caption{Diagrama de arquitectura general.}
+    \label{Diagrama de arquitectura general.}
+\end{figure}
+
+\subsection{Pipeline de Recuperación Aumentada (RAG)}
+Posiblemente de las secciones más fundamentales y complejas del trabajo de investigación, la base de datos de conocimiento proviene de 28 presentaciones de Genially correspondientes al material oficial de Mediación Virtual que está público para todos los usuario en la página oficial de Metics UCR. De estas presentaciones se extrajo el texto de cada diapositiva, incluyendo la transcripción de los videos embedidos. Cada diapositiva fue posteriormente enriquecida mediante Gemini con un título descriptivo (\texttt{enriched\_title}), un resumen (\texttt{summary}) y palabras clave (\texttt{keywords}), corrigiendo así títulos genéricos obtenidos desde la plataforma de origen (por ejemplo varias diapositivas se llamaban ``Copia"). Se adoptó una estrategia de \emph{chunking} 1:1, en la que cada diapositiva constituye un \emph{chunk} que combina título, resumen, contenido y palabras clave, totalizando \emph{538} \emph{chunks} indexados en ChromaDB mediante el modelo de \textbf{embeddings} (\texttt{gemini-embedding-001}) y distancia coseno. En tiempo de consulta se recuperan los cinco \emph{chunks} más similares (\emph{top-5}), aplicando un umbral mínimo de similitud de 0.4 para descartar contexto poco relevante.
+
+
+
+\subsection{Generación de Respuestas y manejo del estado de la conversación}
+El agente utiliza \texttt{gemini-2.5-flash} como modelo generador de lenguaje. El historial conversacional se mantiene completo durante la sesión mediante \texttt{session\_state.chat} de Streamlit, permitiendo sostener diálogos de múltiples turnos con coherencia entre las referencias. El modelo recibe en cada \emph{prompt} el historial acumulado más los fragmentos recuperados como contexto.
+
+\subsection{Entrada y Salida de Voz}
+El reconocimiento de voz se realiza localmente mediante \texttt{faster-whisper} con el modelo \textit{small}, configurado con idioma español forzado y detección de actividad de voz (VAD). El procesamiento local elimina la dependencia de servicios externos y reduce la latencia en redes institucionales con restricciones de salida. La síntesis de voz utiliza \texttt{edge-tts} con la voz neuronal \texttt{es-CR-MariaNeural}, seleccionada por tratarse de la variante de español costarricense disponible en el catálogo de Microsoft, aportando coherencia regional al contexto de despliegue en la UCR.
+
+\subsection{Avatar y Embodiment Visual}
+El componente visual del agente atravesó dos iteraciones de diseño importantes.
+
+\textbf{Versión 1 --- Avatar 3D:} La primera implementación empleó un avatar tridimensional en formato VRoid/VRM, renderizado mediante Unity WebGL e integrado como \texttt{iframe}, con sincronización labial en tiempo real mediante un servidor WebSocket que analizaba la amplitud RMS del audio a 30 cuadros por segundo. Esta solución introducía múltiples puntos de falla: tiempos de carga prolongados, complejidad de mantenimiento del servidor WebSocket y problemas de sincronización entre Python y JavaScript. Adicionalmente, se determinó el diseño tipo \emph{Animé} no era el más indicado para una plataforma educativa, sumado a que su complejidad de animación hacia que los movimientos no resultaran tan fluidos y naturales.
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=7cm]{figura 2.png}
+    \caption{Versión 1 - Avatar 3D.}
+    \label{Versión 1 - Avatar 3D.}
+\end{figure}
+
+\textbf{Versión 2 --- Avatar 2D (implementación final):} Se reemplazó el componente 3D por animaciones Lottie 2D diseñadas en Figma con Smart Animate y exportadas a JSON, definiendo tres estados visuales: inactivo (\textit{idle}), procesando (\textit{thinking}) y hablando (\textit{speaking}). El diseño del avatar está inspirado en el avatar actual del chatbot de texto de Mediación Virtual, sólo se le añadieron las animaciones. Esta decisión pragmática simplificó el despliegue a costa de una menor complejidad visual, pero mayor calidad.
+Una limitación deliberada merece documentación: la reproducción del audio \textbf{no es automática} (\textit{no autoplay}). Tras múltiples intentos de sincronizar el estado ``hablando'' del avatar con la duración real del audio mediante \texttt{postMessage}, se determinó que Streamlit no soporta comunicación bidireccional confiable en tiempo real entre JavaScript y Python. Como resultado, el usuario inicia la reproducción manualmente y un botón ``Detener'' retorna el avatar al estado inactivo.
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=7cm]{fig3.png}
+    \caption{Versión 2 - Avatar 2D.}
+    \label{Versión 2 - Avatar 2D.}
+\end{figure}
+
+\subsection{Interfaz de Usuario}
+La interfaz se organizó en dos columnas fijas: el avatar ocupa un tercio del ancho de la ventana y permanece siempre visible mediante posicionamiento fijo, mientras que el historial de conversación ocupa los dos tercios restantes con desplazamiento (\emph{scroll}) independiente. Los campos de entrada de texto y audio permanecen fijos en la parte inferior de la pantalla, en una disposición visual inspirada en interfaces de modelos conversacionales comerciales.
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=7.5cm]{fig4.png}
+    \caption{Captura de pantalla de la interfaz final.}
+    \label{Captura de pantalla de interfaz final}
+\end{figure}
+
+\section{Metodología}
+\subsection{Preguntas de investigación}
+El estudio se guió por las siguientes preguntas de investigación:
+\begin{itemize}
+  \item \textbf{RQ1.} ?`Cómo impacta el uso de un agente virtual multimodal con voz y \textit{embodiment} en la satisfacción y usabilidad percibida por los usuarios en comparación con un chatbot tradicional basado en texto?
+  \item \textbf{RQ2.} ?`Cómo influye la incorporación de memoria conversacional y capacidades multimodales en la eficiencia de resolución de tareas de atención al cliente?
+\end{itemize}
+
+\subsection{Diseño del Estudio}
+Se realizó una evaluación comparativa mixta (cuantitativo y cualitativo) con diseño \textit{within-subjects} contrabalanceado: cada participante interactuó con ambas condiciones --- el agente multimodal y un chatbot de referencia basado en texto --- sobre escenarios equivalentes, pero en orden alternado. Se aplicaron los instrumentos SUS y NASA-TLX al finalizar cada escenario, y la escala Godspeed al finalizar toda la sesión. La técnica de pensar en voz alta (\textit{think-aloud}) se activó durante ambas condiciones, y se condujo una entrevista semiestructurada al cierre de cada sesión.
+
+\subsection{Participantes}
+Participaron cinco personas reclutadas por conveniencia: tres estudiantes universitarios con experiencia regular en Mediación Virtual (P3--P5), un docente próximo a pensionarse (P1), y una persona informática pensionada (P2). El grupo es intencional y heterogéneo respecto al perfil de usuario, lo que permite explorar la variabilidad de la experiencia según el nivel de familiaridad tecnológica. Todos los participantes firmaron un consentimiento informado antes de iniciar la sesión.
+
+\subsection{Instrumentos}
+Se utilizaron los siguientes instrumentos:
+\begin{itemize}
+  \item \textbf{SUS} [8]: escala de 10 ítems (Likert 1-5) para medir usabilidad percibida; se aplicó por separado a cada condición.
+  \item \textbf{Godspeed} [9]: cuatro subescalas de diferencial semántico (antropomorfismo, animicidad, simpatía, inteligencia percibida), aplicadas en comparación directa de ambas condiciones al final de la sesión.
+  \item \textbf{NASA-TLX} [10]: cuatro subescalas (demanda mental, demanda temporal, esfuerzo, frustración) más un puntaje global ponderado; aplicado por condición.
+  \item \textbf{Think-aloud}: registro de comentarios espontáneos durante la interacción con cada condición.
+  \item \textbf{Entrevista semiestructurada}: exploración de percepciones globales, comparación entre condiciones y preferencias de uso.
+\end{itemize}
+
+\subsection{Escenarios de Interacción}
+Se diseñaron dos escenarios de soporte en Mediación Virtual:
+
+\textbf{Escenario 1 --- Acceso a curso no visible:} El participante asumió el rol de un estudiante que acaba de matricular el curso ``Fundamentos de Educación Virtual'' (EV-1001) en la UCR, pero el curso no aparece en su lista de cursos activos. La tarea consistía en usar el sistema asignado para obtener información sobre las posibles causas y los pasos para resolver el problema. El criterio de éxito fue que el participante obtuviese una respuesta que mencionase causas posibles (sincronización de matrícula, curso no habilitado por el docente, problema de cuenta) y acciones de seguimiento (verificar matrícula, contactar al docente, contactar a METICS).
+
+\textbf{Escenario 2 --- Configuración de tarea con fecha límite estricta:} El participante asumió el rol de un docente que necesita crear una actividad de entrega de archivos con fecha límite que impida entregas tardías. La tarea consistía en obtener instrucciones sobre cómo configurar la actividad con los permisos correctos. El criterio de éxito fue que el participante pudiese identificar los pasos necesarios sin necesidad de buscar información adicional.
+
+\subsection{Procedimiento}
+Cada sesión tuvo una duración aproximada de 30 minutos y siguió el siguiente orden: (1) bienvenida, presentación del estudio y firma del consentimiento informado (2 min); (2) fase de calibración con interacción libre para familiarización con el sistema (2 min); (3) ejecución del Escenario 1 en la condición asignada con \textit{think-aloud} activo (8 min); (4) aplicación de SUS y NASA-TLX para esa condición (2 min); (5) ejecución del Escenario 2 en la condición opuesta con \textit{think-aloud} activo (8 min); (6) aplicación de SUS, NASA-TLX y Godspeed para la segunda condición (5 min); y (7) entrevista semiestructurada post-sesión (5 min). El orden de las condiciones se contrabalanceó entre participantes.
+
+\section{Resultados}
+\subsection{Usabilidad Percibida (SUS)}
+La Tabla~\ref{tab:sus} presenta los puntajes SUS obtenidos por condición. El agente multimodal obtuvo una media de 83.7 ($\pm$4.7), clasificable como ``Excelente'' según las bandas interpretativas de la literatura de HCI, mientras que el chatbot textual obtuvo 75.5 ($\pm$1.3), clasificable como ``Bueno''. La diferencia media entre condiciones fue de 8.2 puntos favorable al agente multimodal, consistente en todos los participantes. El puntaje m\'as alto del agente multimodal correspondó al docente (P1: 92.5), quien también fue el participante con mayor diferencia relativa entre condiciones (+18.5 puntos).
+
+\begin{table}[htbp]
+\caption{Puntajes del System Usability Scale (SUS) por condición}
+\label{tab:sus}
+\centering
+\begin{tabular}{lccc}
+\toprule
+Participante & Agente (A) & Chatbot (B) & Dif.\ (A$-$B) \\
+\midrule
+P1 Docente          & 92.5 & 74.0 & +18.5 \\
+P2 Inform\'atica    & 84.0 & 77.5 & +6.5  \\
+P3 Estudiante       & 79.5 & 75.0 & +4.5  \\
+P4 Estudiante       & 82.5 & 76.5 & +6.0  \\
+P5 Estudiante       & 80.0 & 74.5 & +5.5  \\
+\midrule
+\textbf{Media ($\pm$DE)} & \textbf{83.7 ($\pm$4.7)} & \textbf{75.5 ($\pm$1.3)} & \textbf{+8.2} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Percepción del Agente (Godspeed)}
+La Tabla~\ref{tab:godspeed} resume los resultados de la escala Godspeed. El agente multimodal obtuvo puntuaciones marcadamente superiores en las dimensiones sociales: animacidad (4.74 vs.~1.50), antropomorfismo (4.28 vs.~2.02) y simpatía (4.60 vs.~3.56). La dispersión de estas tres dimensiones fue muy baja en la condición chatbot, indicando un consenso entre participantes en la percepción del sistema textual como menos animado y menos antropomórfico.
+
+El hallazgo más relevante se produjo en la dimensión de inteligencia percibida: el chatbot textual fue calificado con mayor inteligencia percibida que el agente multimodal (4.58 vs.~3.86). Este resultado es consistente con las observaciones cualitativas: los participantes percibieron las respuestas del chatbot como más precisas y directas, atribuible en parte a la calidad diferencial del contenido del RAG empleado en cada condición.
+\begin{table}[htbp]
+\caption{Subescalas Godspeed (media $\pm$ DE, escala 1--5). A\,=\,Agente multimodal; B\,=\,Chatbot texto.}
+\label{tab:godspeed}
+\centering
+\begin{tabular}{lcc}
+\toprule
+Dimensi\'on & Agente (A) & Chatbot (B) \\
+\midrule
+Antropomorfismo        & 4.28 ($\pm$0.28) & 2.02 ($\pm$0.04) \\
+Animacidad             & 4.74 ($\pm$0.15) & 1.50 ($\pm$0.00) \\
+Simpat\'ia             & 4.60 ($\pm$0.21) & 3.56 ($\pm$0.10) \\
+Inteligencia percibida & 3.86 ($\pm$0.24) & 4.58 ($\pm$0.07) \\
+\bottomrule
+\end{tabular}
+\end{table}
+\subsection{Carga de Trabajo Cognitiva (NASA-TLX)}
+La Tabla~\ref{tab:nasatlx} presenta los resultados del NASA-TLX. La carga global fue menor para el agente multimodal (41.4 vs.~53.8), lo que en principio sugiere menor esfuerzo subjetivo. Sin embargo, el análisis por subescalas revela un patrón más detallado. La demanda temporal fue notablemente mayor para el agente multimodal (48.0 vs.~31.0), reflejando que la interacción por voz --- incluyendo el tiempo de generación del audio y la necesidad de activar la reproducción manualmente --- introdujo una percepción de mayor duración en la resolución de las tareas. Por el contrario, la demanda mental (35.6 vs.~48.6) fue considerablemente menor con el agente multimodal, lo que sugiere que la naturalidad de la interacción por voz y la guía del avatar redujeron el esfuerzo cognitivo de formulación de las consultas.
+\begin{table}[htbp]
+\caption{NASA-TLX por subescala (media $\pm$ DE, escala 0--100). A\,=\,Agente multimodal; B\,=\,Chatbot texto.}
+\label{tab:nasatlx}
+\centering
+\begin{tabular}{lcc}
+\toprule
+Subescala & Agente (A) & Chatbot (B) \\
+\midrule
+Demanda mental    & 35.6 ($\pm$8.5)  & 48.6 ($\pm$8.1) \\
+Demanda temporal  & 48.0 ($\pm$10.3) & 31.0 ($\pm$6.6) \\
+Esfuerzo          & 46.0 ($\pm$6.6)  & 49.2 ($\pm$5.3) \\
+Frustraci\'on     & 30.0 ($\pm$8.0)  & 25.4 ($\pm$3.4) \\
+\midrule
+\textbf{Global}   & \textbf{41.4 ($\pm$7.1)} & \textbf{53.8 ($\pm$4.7)} \\
+\bottomrule
+\end{tabular}
+\end{table}
+\subsection{Resultados Cualitativos}
+El análisis temático de las sesiones de \textit{think-aloud} y las entrevistas post-sesión identificó cuatro categorías emergentes principales.
+
+\textbf{Naturalidad y aceptación de la voz:} La voz sintetizada \texttt{es-CR-MariaNeural} fue recibida de manera consistentemente positiva. Los participantes de mayor edad (P1 y P2) expresaron explícitamente que la modalidad de voz facilitó significativamente su interacción con el sistema, reduciéndo la barrera que supone formular consultas por escrito. Esta observación es coherente con la menor demanda mental registrada en NASA-TLX para el agente multimodal en estos perfiles.
+
+\textbf{Eficiencia percibida y velocidad de resolución:} Todos los participantes observaron que la resolución de tareas fue más lenta con el agente multimodal que con el chatbot textual. Los participantes estudiantes (P3--P5), más familiarizados con interfaces de texto rápido, fueron quienes señalaron más explícitamente esta diferencia. Esta percepción se refleja directamente en la subescala de demanda temporal del NASA-TLX (+17 puntos para el agente multimodal).
+
+\textbf{Calidad percibida de las respuestas:} Varios participantes indicaron que las respuestas del chatbot textual les parecieron más directas y precisas. Esta percepción se refleja en la subescala de inteligencia percibida de Godspeed (4.58 vs.~3.86 favorable al chatbot). Los participantes identificaron respuestas del agente multimodal que, aunque coherentes, no eran tan completas o les faltaba información relevante en comparación. Esto apunta a una limitación en la calidad del corpus RAG del agente multimodal, generado mediante raspado de texto de presentaciones Genially, frente a la base de conocimineto del chatbot de referencia.
+
+\textbf{Experiencia de interacción y botón de play:} El requisito de activar manualmente la reproducción del audio fue identificado como un punto de fricción por la mayoría de los participantes, que esperaban una reproducción automática. Sin embargo, una vez comprendido el mecanismo, este aspecto no impidió la completación de las tareas.
+
+\section{Análisis y Discusión}
+
+\subsection{Respuesta a las Preguntas de Investigación}
+
+\textbf{RQ1 --- Satisfacción y usabilidad percibida:} Los datos cuantitativos responden afirmativamente a la primera pregunta de investigación: el agente virtual multimodal con voz y \textit{embodiment} obtuvo mayor usabilidad percibida (SUS: 83.7 vs.~75.5) y mayor satisfacción en las dimensiones sociales de la escala Godspeed. Esta diferencia fue consistente en todos los participantes, con la mayor magnitud observada en los perfiles de mayor edad (P1 y P2), para quienes la interfaz de voz representó una reducción sustancial de la barrera de interacción. No obstante, la inteligencia percibida --- dimensión de Godspeed estrechamente vinculada a la percepción de utilidad funcional --- favoreció al chatbot textual (4.58 vs.~3.86), lo que indica que la superioridad del agente multimodal en satisfacción no se traslada automáticamente a percepción de competencia.
+
+\textbf{RQ2 --- Eficiencia de resolución de tareas:} La segunda pregunta de investigación recibe una respuesta ambivalente. La carga cognitiva global (NASA-TLX) fue menor con el agente multimodal (41.4 vs.~53.8), lo que apoya la hipótesis de que las capacidades multimodales reducen el esfuerzo subjetivo. Sin embargo, la demanda temporal fue marcadamente mayor (48.0 vs.~31.0), evidenciando que la multimodalidad introduce latencias adicionales --- tiempo de generación y reproducción de audio, activación manual del botón de play --- que penalizan la eficiencia de resolución medida en tiempo percibido. Además, la percepción de menor calidad en las respuestas del agente multimodal apunta a que la eficiencia informativa no se vio beneficiada por la memoria conversacional ni por las capacidades multimodales, sino que depende en mayor medida de la calidad del corpus del RAG.
+
+\subsection{Comparación con la Literatura}
+Los resultados de usabilidad son coherentes con los hallazgos de ter Stal et al. [7], quienes documentan que la presencia de un avatar y una voz sintetizada de alta calidad mejora la percepción de los usuarios, especialmente en perfiles de mayor edad. La preferencia de P1 y P2 por la modalidad de voz replica este patrón.
+
+El hallazgo más novedoso de este estudio --- inteligencia percibida favorable al chatbot textual --- no tiene un análogo directo en los trabajos revisados. Kuhail et al. [6] documentan alta percepción de utilidad en chatbots de orientación acad\'emica basados en texto, pero no reportan comparaciones con condiciones multimodales. El resultado sugiere que, para contextos donde la precisión de la respuesta es crítica, la calidad de la base de conocimiento RAG puede ser un factor más determinante para la percepción de inteligencia que la calidad del canal de comunicación.
+
+Respecto a la tensión entre riqueza interactiva y eficiencia, Swacha y Gracel[3] identifican que los estudios de chatbots RAG educativos rara vez reportan métricas de eficiencia temporal, lo que dificulta la comparación directa. El presente trabajo contribuye precisamente en este punto al cuantificar la diferencia de carga temporal entre condiciones.
+
+\subsection{Limitaciones del Estudio}
+El estudio presenta varias limitaciones que deben considerarse al interpretar los resultados. El tamaño de la muestra reducido (N=5) impide la generalizar la estadística; los resultados son de carácter exploratorio. Los participantes no son expertos, sino usuarios representativos de distintos perfiles, lo que si bien es válido ya que provienen de contextos relacionados a la plataforma educativa, introduce variabilidad no controlada.
+
+La base de conocimineto del RAG del agente multimodal fue generado mediante raspado de texto de presentaciones Genially y transcripción de videos, un proceso que introduce ruido semántico asociado a títulos genéricos y fragmentación de contenido multimedia; el corpus de referencia del chatbot puede haber sido más limpio, introduciendo una asimetría no intencional en la comparación. La limitación del \textit{no autoplay} constituyó un punto de fricción identificado, consecuencia de restricciones técnicas de Streamlit y no del diseño conceptual del agente. Finalmente, los escenarios de evaluación fueron pensados de forma general; los tickets reales de METICS-UCR podrían revelar un perfil de consultas diferente.
+
+\section{Conclusiones y Trabajo Futuro}
+
+Este trabajo presentó el diseño, implementación y evaluación comparativa de un agente conversacional multimodal con RAG para el soporte de Mediación Virtual de la UCR. La evaluación con cinco participantes de perfil heterogéneo reveló una tensión central: el agente multimodal supera al chatbot textual en usabilidad percibida (SUS: 83.7 vs.~75.5) y en las dimensiones sociales de la percepción del agente (animacidad, simpatía, antropomorfismo), pero el chatbot textual es percibido como más inteligente y genera menor demanda temporal, lo que se traduce en mayor eficiencia percibida de resolución de tareas.
+
+Un hallazgo transversal es que el beneficio de la multimodalidad es diferenciado según el perfil de usuario: los participantes de mayor edad y menor fluidez en interfaces digitales experimentaron una reducción sustancial del esfuerzo cognitivo gracias a la interfaz de voz, mientras que los usuarios jóvenes más familiarizados con chatbots de texto percibieron la modalidad vocal como un factor que hacía más lento el proceso. Esto sugiere que la multimodalidad no es uniformemente beneficiosa, y que su valor diferencial depende del perfil de la población objetivo.
+
+Como trabajo futuro, se identifican las siguientes líneas: la mejora del corpus RAG mediante un proceso de curado más riguroso del contenido de las presentaciones Genially u obtención de una base de conocimiento similar a la del chatbot basado en texto; la integración con los tickets reales de METICS-UCR para una evaluación más cercana a la realidad; la resolución de la limitación de \textit{no autoplay} mediante una arquitectura de despliegue con mayor control del ciclo de ejecución de JavaScript; y la evaluación con una muestra ampliada que permita análisis estadístico inferencial y subgrupos por perfil de usuario.
+
+Este trabajo se enmarca únicamente en el contexto del curso PF-3311 (Agentes Virtuales Inteligentes) de la Maestría en Computación e Informática de la Universidad de Costa Rica. No se proyecta, por el momento, continuar con la recolección formal de datos ni con un sometimiento al Comité de Ética Científica con miras a una publicación académica real a partir de este trabajo.
+
+\begin{thebibliography}{10}
+ 
+\bibitem{okonkwo2021chatbots}
+C.~W. Okonkwo and A.~Ade-Ibijola, ``Chatbots applications in education: A
+  systematic review,'' \emph{Computers and Education: Artificial Intelligence},
+  vol.~2, p. 100033, 2021.
+ 
+\bibitem{lewis2020rag}
+P.~Lewis, E.~Perez, A.~Piktus, F.~Petroni, V.~Karpukhin, N.~Goyal,
+  H.~K{\"u}ttler, M.~Lewis, W.-t. Yih, T.~Rockt{\"a}schel, S.~Riedel, and
+  D.~Kiela, ``Retrieval-augmented generation for knowledge-intensive {NLP}
+  tasks,'' in \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, vol.~33, 2020, pp. 9459--9474.
+ 
+\bibitem{swacha2025rag}
+J.~Swacha and M.~Gracel, ``Retrieval-augmented generation ({RAG}) chatbots for
+  education: A survey of applications,'' \emph{Applied Sciences}, vol.~15,
+  no.~8, p. 4234, 2025.
+ 
+\bibitem{terStal2020design}
+S.~ter Stal, L.~L. Kramer, M.~Tabak, H.~op~den Akker, and H.~Hermens, ``Design
+  features of embodied conversational agents in {eHealth}: A literature
+  review,'' \emph{International Journal of Human-Computer Studies}, vol. 138,
+  p. 102409, 2020.
+ 
+\bibitem{kuhail2023review}
+M.~A. Kuhail, N.~Alturki, S.~Alramlawi, and K.~Alhejori, ``Interacting with
+  educational chatbots: A systematic review,'' \emph{Education and Information
+  Technologies}, vol.~28, no.~1, pp. 973--1018, 2023.
+ 
+\bibitem{kuhail2022chatbot}
+M.~A. Kuhail, H.~Al~Katheeri, J.~Negreiros, A.~Seffah, and O.~Alfandi,
+  ``Engaging students with a chatbot-based academic advising system,''
+  \emph{International Journal of Human--Computer Interaction}, vol.~39, no.~10,
+  pp. 2115--2141, 2023.
+ 
+\bibitem{terStal2020who}
+S.~ter Stal, M.~Tabak, H.~op~den Akker, T.~Beinema, and H.~Hermens, ``Who do
+  you prefer? {The} effect of age, gender and role on users' first impressions
+  of embodied conversational agents in {eHealth},'' \emph{International Journal
+  of Human--Computer Interaction}, vol.~36, no.~9, pp. 881--892, 2020.
+ 
+\bibitem{brooke1996sus}
+J.~Brooke, ``{SUS}: A quick and dirty usability scale,'' in \emph{Usability
+  Evaluation in Industry}, P.~W. Jordan, B.~Thomas, B.~A. Weerdmeester, and
+  I.~L. McClelland, Eds.\hskip 1em plus 0.5em minus 0.4em\relax London: Taylor
+  and Francis, 1996, pp. 189--194.
+ 
+\bibitem{bartneck2009godspeed}
+C.~Bartneck, D.~Kuli{\'c}, E.~Croft, and S.~Zoghbi, ``Measurement instruments
+  for the anthropomorphism, animacy, likeability, perceived intelligence, and
+  perceived safety of robots,'' \emph{International Journal of Social
+  Robotics}, vol.~1, no.~1, pp. 71--81, 2009.
+ 
+\bibitem{hart1988nasatlx}
+S.~G. Hart and L.~E. Staveland, ``Development of {NASA-TLX} (task load index):
+  Results of empirical and theoretical research,'' in \emph{Human Mental
+  Workload}, ser. Advances in Psychology, P.~A. Hancock and N.~Meshkati,
+  Eds.\hskip 1em plus 0.5em minus 0.4em\relax Amsterdam: North-Holland, 1988,
+  vol.~52, pp. 139--183.
+ 
+\bibitem{nielsen1994heuristic}
+J.~Nielsen, ``Heuristic evaluation,'' in \emph{Usability Inspection Methods},
+  J.~Nielsen and R.~L. Mack, Eds.\hskip 1em plus 0.5em minus 0.4em\relax New
+  York: John Wiley \& Sons, 1994, pp. 25--62.
+ 
+\end{thebibliography}
+
+\end{document}
+
