@@ -18,6 +18,8 @@ import base64
 import tempfile
 import re
 import asyncio
+import time
+import threading
 import chromadb
 from dotenv import load_dotenv
 from google import genai
@@ -141,14 +143,14 @@ def render_avatar(state: str, animations: dict, height: int = 520):
     st.components.v1.html(f"""
         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
         <div style="display:flex;justify-content:center;align-items:center;width:100%;height:{height}px;">
-            <lottie-player autoplay loop mode="normal"
+            <lottie-player autoplay loop mode="normal" speed="0.3")
                 style="width:100%;height:{height}px;background:transparent;"
                 src='data:application/json,{anim_json}'>
             </lottie-player>
         </div>
     """, height=height)
 
-# ─── Audio con duración exacta y eventos pause/ended ─────────────────────────
+# ─── Audio player SIN autoplay ───────────────────────────────────────────────
 
 def get_audio_duration(mp3_bytes: bytes) -> float:
     """Calcula la duración exacta del MP3 en segundos usando miniaudio."""
@@ -156,14 +158,12 @@ def get_audio_duration(mp3_bytes: bytes) -> float:
         info = miniaudio.mp3_get_info(mp3_bytes)
         return info.duration
     except Exception:
-        # Fallback: estimación por tamaño a 128kbps
         return len(mp3_bytes) / 16000.0
 
-def smart_audio_player(audio_bytes: bytes):
+def audio_player(audio_bytes: bytes):
     """
-    Reproduce el audio con controles visibles.
-    Al terminar o pausar, redirige agregando ?audio_done=1 a la URL
-    para que Streamlit lo detecte en el próximo ciclo.
+    Muestra el audio SIN autoplay. El usuario hace clic en play manualmente.
+    El estado speaking → idle se maneja por timer en Python (ver schedule_idle).
     """
     b64 = base64.b64encode(audio_bytes).decode()
     st.components.v1.html(f"""
@@ -172,36 +172,31 @@ def smart_audio_player(audio_bytes: bytes):
         <body style="margin:0;padding:4px;background:transparent;">
         <audio id="tts"
                controls
-               autoplay
                style="width:100%;height:40px;">
             <source src="data:audio/mp3;base64,{b64}" type="audio/mp3">
         </audio>
-        <script>
-        var audio = document.getElementById('tts');
-        var done  = false;
-
-        function signalDone() {{
-            if (done) return;
-            done = true;
-            // Agregar ?audio_done=timestamp a la URL del parent
-            // para triggerear un rerun de Streamlit
-            try {{
-                var url = new URL(window.parent.location.href);
-                url.searchParams.set('audio_done', Date.now());
-                window.parent.location.replace(url.toString());
-            }} catch(e) {{
-                // Fallback si hay restricciones de cross-origin
-                window.parent.postMessage({{streamlit_done: true}}, '*');
-            }}
-        }}
-
-        audio.addEventListener('ended', signalDone);
-        audio.addEventListener('pause', function() {{
-            if (!audio.ended) signalDone();
-        }});
-        </script>
         </body></html>
     """, height=55)
+
+# ─── Timer para volver a idle ─────────────────────────────────────────────────
+
+def schedule_idle(duration_seconds: float):
+    """
+    Lanza un hilo que espera `duration_seconds` y luego activa la bandera
+    `go_idle` en session_state. El próximo rerun de Streamlit la detecta
+    y cambia el avatar a idle.
+
+    Usamos st.session_state directamente desde el hilo; en Streamlit >= 1.27
+    esto es thread-safe para escrituras simples.
+    """
+    def _worker():
+        # Añadir un pequeño margen para que el usuario alcance a escuchar
+        # el final del audio antes de que el avatar cambie de estado.
+        time.sleep(duration_seconds + 0.8)
+        st.session_state["go_idle"] = True
+
+    t = threading.Thread(target=_worker, daemon=True)
+    t.start()
 
 # ─── Inicialización ───────────────────────────────────────────────────────────
 
@@ -357,15 +352,17 @@ def main():
                 max_output_tokens=4096,
             )
         )
-    if "messages"        not in st.session_state: st.session_state.messages      = []
-    if "avatar_state"    not in st.session_state: st.session_state.avatar_state  = "idle"
-    if "pending_audio"   not in st.session_state: st.session_state.pending_audio = None
+    if "messages"      not in st.session_state: st.session_state.messages      = []
+    if "avatar_state"  not in st.session_state: st.session_state.avatar_state  = "idle"
+    if "pending_audio" not in st.session_state: st.session_state.pending_audio = None
+    if "go_idle"       not in st.session_state: st.session_state.go_idle       = False
 
-    # ── Detectar señal de audio terminado via query params ──
-    params = st.query_params
-    if "audio_done" in params and st.session_state.avatar_state == "speaking":
-        st.session_state.avatar_state = "idle"
-        st.query_params.clear()
+    # ── Detectar señal del timer: volver a idle ──
+    if st.session_state.go_idle:
+        st.session_state.go_idle       = False
+        st.session_state.avatar_state  = "idle"
+        # No hacemos rerun aquí; el próximo ciclo natural de Streamlit
+        # ya refleja el cambio. Si querés que sea inmediato:
         st.rerun()
 
     # ── Layout ──
@@ -383,9 +380,9 @@ def main():
 
     with col_chat:
 
-        # Reproducir audio pendiente
+        # ── Reproducir audio pendiente (sin autoplay) ──
         if st.session_state.pending_audio:
-            smart_audio_player(st.session_state.pending_audio)
+            audio_player(st.session_state.pending_audio)
             st.session_state.pending_audio = None
 
         # ── Historial ──
@@ -451,8 +448,13 @@ def main():
             with st.spinner("Generando audio..."):
                 audio_bytes = text_to_speech(response, voice=VOICE)
 
-            st.session_state.pending_audio  = audio_bytes
-            st.session_state.avatar_state   = "speaking"
+            # Calcular duración y programar retorno a idle
+            if audio_bytes:
+                duration = get_audio_duration(audio_bytes)
+                schedule_idle(duration)
+
+            st.session_state.pending_audio = audio_bytes
+            st.session_state.avatar_state  = "speaking"
             st.rerun()
 
 
