@@ -12,7 +12,7 @@ Agente virtual educativo desarrollado para la Universidad de Costa Rica (UCR) co
 - **Chat** con `gemini-2.5-flash` con historial de conversación
 - **STT** local con `faster-whisper` (sin API externa)
 - **TTS** con `edge-tts` — voces neurales de Microsoft en español
-- **Avatar 3D** VRoid/VRM animado en Unity con lipsync sincronizado
+- **Avatar "D** Diseñado en Figma y LottieFiles
 - **Interfaz web** en Streamlit con avatar embebido via iframe
 
 ---
@@ -25,9 +25,18 @@ docs/
 ├── Guia_Procedimiento_Apartado_C.html
 ├── Reporte Tarea 10 - Esteban Alonso León Rodríguez
 ├── Entrega_2_Esteban_Alonso_Leon_Rodriguez.pdf
+├── Entrega_3_Esteban_Alonso_Leon_Rodriguez.pdf
+├── Entrega_3_Esteban_Alonso_Leon_Rodriguez.tex
 
 │
 src/
+│
+├── assets/
+│   ├── greetings.json
+│   ├── idle.json
+│   ├── speaking.json
+│   ├── thinkking.json
+│
 ├── enrich_and_chunk.py     # Paso 1: enriquece JSONs con Gemini y genera chunks
 ├── index_to_chroma.py      # Paso 2: indexa chunks en ChromaDB con embeddings
 ├── chatbot.py              # Interfaz Streamlit: chat + STT + TTS + lipsync
@@ -62,15 +71,6 @@ pip install edge-tts
 pip install websockets numpy miniaudio
 ```
 
-### Unity
-- Unity 6+
-- Paquete VRM (para avatares VRoid)
-- [NativeWebSocket](https://github.com/endel/NativeWebSocket) — instalar via Package Manager:
-  ```
-  https://github.com/endel/NativeWebSocket.git#upm
-  ```
-- Newtonsoft Json: `com.unity.nuget.newtonsoft-json`
-
 ### API Keys
 Crear archivo `.env` en `src/`:
 ```env
@@ -81,7 +81,7 @@ GEMINI_API_KEY=tu_api_key_aqui
 
 ## Setup completo (primera vez)
 
-> ⚠️ La base de datos de Chroma y el build de Unity ya están en el repositorio al hacer pull. Sólo es necesario seguir esta sección si se quiere correr todo desde el principio o reindexar la base de datos, de lo contrario saltar a la siguiente sección!!!
+> ⚠️ La base de datos de Chroma ya está en el repositorio al hacer pull. Sólo es necesario seguir esta sección si se quiere correr todo desde el principio o reindexar la base de datos, de lo contrario saltar a la siguiente sección!!!
 
 ### Paso 1 — Enriquecer los JSONs con Gemini
 
@@ -101,46 +101,24 @@ Verifica el resultado:
 ```bash
 python index_to_chroma.py --db ./chroma_db --stats
 ```
-
-### Paso 3 — Build de Unity WebGL
-
-1. Abrir el proyecto Unity
-2. **File → Build Profiles → Add Build Profile → Web**
-3. **Player Settings:**
-   - Publishing Settings → Compression Format: `Disabled`
-   - Resolution → Default Canvas Width/Height: `800 x 600`
-4. **Build** → seleccionar carpeta `src/unity_build/`
-
-### Paso 4 — Configurar LipsyncClient en Unity
-
-1. Adjuntar `LipsyncClient.cs` al GameObject raíz del avatar
-2. En el Inspector asignar:
-   - **Face Mesh**: el `SkinnedMeshRenderer` de la cara (hijo `Face`)
-   - **Índices de blendshapes**: según el modelo VRoid
-   - **Server URL**: `ws://localhost:8765`
-
 ---
 
 ## Uso diario y video demostrativo
 
 Enlace a video demostrativo: [https://youtu.be/UDzAVQJQBAM](https://youtu.be/UDzAVQJQBAM)
 
-Correr en este orden, cada uno en una terminal separada:
+Enlace a video demostrativo Entrega Final: [https://youtu.be/Nf2opgnrNMA](https://youtu.be/Nf2opgnrNMA)
 
 ```bash
-# Terminal 1 — servidor de lipsync (primero siempre)
-python lipsync_server.py
+# Navegar a la carpeta src/
+cd src/
 
-# Terminal 2 — servidor del avatar WebGL
-python serve_unity.py --build ./unity_build
+# Correr el chatbot con streamlit
+streamlit.exe run .\chatbot.py
 
-# Terminal 3 — chatbot
-streamlit run chatbot.py
 ```
 
 Luego abrir [http://localhost:8501](http://localhost:8501) en el browser.
-
-> ⚠️ El orden importa: `lipsync_server.py` debe estar corriendo **antes** de que Unity cargue en el browser, para que el WebSocket se conecte correctamente.
 
 ---
 
@@ -172,14 +150,8 @@ Usuario
                 ├─ contexto + historial → gemini-2.5-flash
                 │
                 ├─ respuesta → edge-tts (TTS) → audio MP3
-                │                │
-                │                ├─ autoplay en browser
-                │                └─ WebSocket → lipsync_server.py
-                │                                    │
-                │                                    └─ análisis RMS → frames
-                │                                                         │
-                └─────────────────────────────── Unity WebGL ←── blendshapes
-                                                 (avatar VRoid animado)
+                │
+                ├─ Avatar en 2D diseñado en Figma y LottieFiles
 ```
 
 ---
@@ -187,5 +159,4 @@ Usuario
 ## Notas
 
 - **ChromaDB**: los datos persisten en `chroma_db/`. Para reindexar desde cero, borrar esa carpeta.
-- **Lipsync**: es una simulación basada en amplitud RMS, no análisis fonético.
 - **Sin internet**: el STT (Whisper) funciona offline. El TTS (Edge-TTS) y Gemini requieren conexión.
